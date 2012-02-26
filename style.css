@@ -1,0 +1,163 @@
+* {
+	border:0;
+	margin:0;
+	outline:0;
+	padding:0;
+}
+
+body {
+	background:#E1E1E1 url('resources/images/bg.png') center 0 no-repeat;
+	color:#646464;
+	font-family:"Verdana";
+	font-size:14px;
+	text-align:center;
+}
+
+a {
+	color:#C4274F;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#323232;
+}
+
+h1 {
+	color:#323232;
+	font-size:30px;
+	font-weight:normal;
+	margin:0 0 10px 0;
+}
+
+p:first-letter {
+	margin:0 0 0 50px;
+}
+
+div#wrapper {
+	margin:0 auto 0 auto;
+	text-align:left;
+	width:960px;
+}
+
+div#header {
+	padding: 25px 0 20px 0;
+}
+
+a#logo-header {
+	background:url('resources/images/logo-header.png') no-repeat;
+	display:inline-block;
+	float:left;
+	height:85px;
+	width:400px;
+}
+
+div#header input#search {
+	background:url('resources/images/search-input.png') no-repeat;
+	color:#646464;
+	float:right;
+	height:27px;
+	line-height:27px;
+	margin:0 0 0 10px;
+	padding:0 0 0 10px;
+	width:140px;
+}
+
+div#header a#search-icon {
+	background:url('resources/images/search-icon.png') no-repeat;
+	display:inline-block;
+	float:right;
+	height:27px;
+	width:27px;
+}
+
+div#header a#auth-button {
+	background:url('resources/images/auth-button.png') no-repeat;
+	color:#646464;
+	display:inline-block;
+	float:right;
+	height:27px;
+	line-height:27px;
+	padding:0 27px 0 10px;
+	width:95px;
+}
+
+div#auth-form {
+	background:url('resources/images/auth-form.png') no-repeat;
+	display:none;
+	height:193px;
+	text-align:center;
+	padding: 16px 10px 10px 10px;
+	position:absolute;
+	width:182px;
+	z-index:100;
+}
+
+div#auth-form label {
+	float:left;
+}
+
+div#auth-form input {
+	border:1px solid #969696;
+	color:#646464;
+	display:block;
+	margin:0 0 10px 0;
+	width:176px;
+	padding:2px 2px 2px 2px;
+}
+
+div#auth-form input[type=submit] {
+	background:url('resources/images/button.png') repeat-x;
+	border:1px solid #A00028;
+	color:#FFFFFF;
+	float:right;
+	margin:0 0 35px 0;
+	width:auto;
+}
+
+div#header-menu {
+	float:right;
+	font-size:20px;
+	text-align:right;
+}
+
+div#header-menu a {
+	color:#323232;
+}
+
+div#header-menu a:hover {
+	color:#646464;
+}
+
+div.col-1, div.col-2, div.col-3 {
+	float:left;
+	margin:0 12px 0 0;
+	width:312px;
+}
+
+div.col-3 {
+	margin:0;
+}
+
+div.separator {
+	background:url('resources/images/separator.png') no-repeat;
+	height:60px;
+	width:960px;
+}
+
+a#logo-footer {
+	background:url('resources/images/logo-footer.png') no-repeat;
+	display:inline-block;
+	float:left;
+	height:45px;
+	width:190px;
+}
+
+div#footer-menu {
+	float:right;
+	padding:10px 0 0 0;
+	text-align:right;
+}
+
+.clear {
+	clear:both;
+}
