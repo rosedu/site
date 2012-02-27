@@ -36,6 +36,14 @@ h2 {
 	margin: 0 0 10px 0;
 }
 
+ul {
+    margin-left: 3em;
+}
+
+p {
+    margin: 5px;
+}
+
 div#wrapper {
 	margin:0 auto 0 auto;
 	text-align:left;
@@ -169,6 +177,11 @@ div#footer-menu {
 
 .clear {
 	clear:both;
+}
+
+.spacer {
+    margin: 10px;
+    display: block;
 }
 
 div#flags-container {
