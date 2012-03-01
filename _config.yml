@@ -1,2 +1,2 @@
 exclude: fabfile.py
-basepath: /
+basepath: /site/
