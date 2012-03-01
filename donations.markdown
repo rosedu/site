@@ -1,0 +1,28 @@
+---
+layout: base
+---
+
+{% include aboutnav.html %}
+
+## Donations
+
+Make a donation in ROSEdu\'s account: **RO98BTRL04501205R50291XX**, Banca Transilvania S.A.
+
+[Donate 2%](http://doilasuta.ro/) from your state tax, using
+[Form 230](http://old.rosedu.org/sites/default/files/Decl_230_ROSEDu.pdf)
+(already filled in with ROSEdu\'s data). The deadline is **May 15 2012**.
+
+
+### Why?
+
+In order to continually develop our projects, ROSEdu needs an annual buget
+to cover the costs of each program. By making a donation, you can help us
+in our mission of bringing open-source to Romanian students.
+
+### Sponsors
+
+We are always searching for sponsors and partnerships for our programs.
+You can support ROSEdu&#39;s programs and, in exchange, we\'ll help you
+gain good visibility among the students and graduates that participate in
+ our programs or attend our presentations. To find out more, do not hesitate
+ to [contact us]({{site.basepath}}contact.html)!

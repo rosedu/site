@@ -36,12 +36,19 @@ h2 {
 	margin: 0 0 10px 0;
 }
 
+h3 {
+	color:#323232;
+	font-size: 22px;
+	font-weight: normal;
+	margin: 0 0 10px 0;
+}
+
 ul {
     margin-left: 3em;
 }
 
 p {
-    margin: 5px;
+    margin: 8px;
 }
 
 div#wrapper {
@@ -226,4 +233,28 @@ div#flags-container {
 
 .en-flag-full, #en-flag:hover {
 	background:url('resources/images/en-flag.png');
+}
+div.entry-meta {
+    margin-left: 10px;
+    font-style: italic;
+    padding: 4px;
+    font-size: 0.9em;
+}
+div.right-sidebar {
+    float: right;
+    padding: 20px 20px;
+    width: 250px;
+    min-height: 350px;
+}
+div.right-sidebar ul {
+    margin: 0;
+}
+div.right-sidebar ul li {
+    margin: 0px 10px 30px 0px;
+    list-style-type: none;
+}
+div.right-sidebar ul li a {
+    margin: 10px;
+    font-size: 1.1em;
+    font-weight: bold;
 }
