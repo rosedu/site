@@ -3,6 +3,7 @@ layout: base
 date: 2011-04-10
 author: laura
 title: Geek Power
+category: en
 ---
 
 Do you like writing code? Do you like working together with other programmers? Are words like commit, debugging, IDE, malloc, threads part of your vocabulary?

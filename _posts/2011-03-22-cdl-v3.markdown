@@ -3,7 +3,7 @@ layout: base
 date: 2011-03-22
 author: victor
 title: CDL v3.0
-#category: wordpress
+category: en
 ---
 The 3rd edition of the Open Source Community and Development Lab (CDL) has started for several weeks! We are happy to have such enthusiast students and mentors working hard to make this the best edition of CDL so far!
 

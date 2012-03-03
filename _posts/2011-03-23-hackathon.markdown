@@ -3,6 +3,7 @@ layout: base
 date: 2011-03-23
 author: vladv
 title: Hackathon
+category: en
 ---
 
 This weekend (26.03.2011) we will hold a 12 hour Hackaton, starting Saturday at 6PM till Sunday morning (6AM).
