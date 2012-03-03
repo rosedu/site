@@ -1,2 +1,3 @@
 exclude: fabfile.py fabfile.pyc
+permalink: pretty
 basepath: /
