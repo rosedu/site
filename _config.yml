@@ -1,2 +1,2 @@
-exclude: fabfile.py
+exclude: fabfile.py fabfile.pyc
 basepath: /
