@@ -50,6 +50,10 @@ extra_head: True
 <p>	Dezvoltăm proiecte pentru a &icirc;nvăța și pentru a ajuta comunitatea.</p>
 
 <p>
-	<a href="https://plus.google.com/114233516141809762907?prsrc=3" style="text-decoration: none;"><img src="https://ssl.gstatic.com/images/icons/gplus-64.png" style="float: right;" width="60" /></a> <a href="http://www.facebook.com/rosedu.org"><img alt="" src="http://site.rosedu.org/sites/all/themes/rosedu/images/facebook_icon.png" style="float: right; width: 64px; height: 64px;" /></a> <a href="http://twitter.com/rosedu_org"><img height="64" src="http://site.rosedu.org/sites/all/themes/rosedu/images/twitter_icon.png" style="float: right;" width="64" /></a> <a href="/ro/rss.xml"><img alt="" src="http://site.rosedu.org/sites/all/themes/rosedu/images/rss_feed_icon.png" style="float: right; width: 64px; height: 64px;" /></a></p>
+    <a href="https://plus.google.com/114233516141809762907?prsrc=3" style="text-decoration: none;"><img src="{{site.basepath}}resources/images/button-gplus.png" style="float: right;" width="60" /></a> 
+    <a href="http://www.facebook.com/rosedu.org"><img alt="" src="{{site.basepath}}resources/images/button-facebook.png" style="float: right; width: 64px; height: 64px;" /></a>
+    <a href="http://twitter.com/rosedu_org"><img height="64" src="{{site.basepath}}resources/images/button-twitter.png" style="float: right;" width="64" /></a> 
+    <a href="/ro/rss.xml"><img alt="" src="{{site.basepath}}resources/images/button-rss.png" style="float: right; width: 64px; height: 64px;" /></a>
+</p>
   </div>
 </div><!-- .col-3 -->
