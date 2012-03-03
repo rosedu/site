@@ -4,7 +4,6 @@ date: 2010-03-22
 author: victor
 title: CDL v3.0
 category: ro
-published: False
 ---
 The 3rd edition of the Open Source Community and Development Lab (CDL) has started for several weeks! We are happy to have such enthusiast students and mentors working hard to make this the best edition of CDL so far!
 

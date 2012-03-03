@@ -2,7 +2,7 @@
 layout: base
 ---
 
-{% for post in site.posts %}
+{% for post in site.categories.en %}
 <div class="post-container">
 	<div class="entry-title">
 		<h2><a href="{{post.permalink}}">{{ post.title }}</a></h2>
