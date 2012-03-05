@@ -43,8 +43,11 @@
 			</a>
 		</div>
 
-		<a href="#" id="search-icon"></a>
-		<input id="search" type="text" value="Search..." />
+        <form action="http://www.google.com/search" class="navigation-search" method="get" name="form1">
+            <a href="#" onclick="javascript:form1.submit()" id="search-icon"></a>
+            <input id="search" class="search-query" name="q" placeholder="Caută..." type="text">
+            <input name="sitesearch" type="hidden" value="rosedu.org">
+        </form>
 
 		<!-- <a href="javascript:void(0);" id="auth-button">Autentificare</a> -->
 
@@ -61,6 +64,13 @@
 		</div><!-- .clear -->
 		</div>
 	  </div><!-- #header -->
+
+        {% if page.title %}
+        <h2>{{page.title}}</h2>
+        <div class="entry-meta">
+        Publicat de {{page.author}} la {{page.date | date: '%d %B %Y'}}
+        </div>
+        {% endif %}
 
 {{ content }}
 

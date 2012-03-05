@@ -258,3 +258,8 @@ div.right-sidebar ul li a {
     font-size: 1.1em;
     font-weight: bold;
 }
+div.wrapper div.field {
+    width: 45%;
+    float: left;
+    min-height: 180px;
+}

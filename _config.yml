@@ -1,3 +1,4 @@
 exclude: fabfile.py fabfile.pyc
 permalink: pretty
 basepath: /
+url: http://www.rosedu.org
