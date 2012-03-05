@@ -56,7 +56,7 @@ extra_head: |
     <a href="https://plus.google.com/114233516141809762907?prsrc=3" style="text-decoration: none;"><img src="{{site.basepath}}resources/images/button-gplus.png" style="float: right;" width="60" /></a> 
     <a href="http://www.facebook.com/rosedu.org"><img alt="" src="{{site.basepath}}resources/images/button-facebook.png" style="float: right; width: 64px; height: 64px;" /></a>
     <a href="http://twitter.com/rosedu_org"><img height="64" src="{{site.basepath}}resources/images/button-twitter.png" style="float: right;" width="64" /></a> 
-    <a href="/ro/rss.xml"><img alt="" src="{{site.basepath}}resources/images/button-rss.png" style="float: right; width: 64px; height: 64px;" /></a>
+    <a href="{{site.basepath}}rss.xml"><img alt="" src="{{site.basepath}}resources/images/button-rss.png" style="float: right; width: 64px; height: 64px;" /></a>
 </p>
   </div>
 </div><!-- .col-3 -->

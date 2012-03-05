@@ -1,23 +1,19 @@
 ---
-layout: base
+layout: basero
 ---
 
-# Activities
+# Activități
 
 <div class="wrapper">
     <div class="field">
         <div class="field-title">
-            <h3><a href="http://cdl.rosedu.org" target="_blank">Community and Development Lab</a></h3>
+            <h3><a href="http://cdl.rosedu.org" target="_blank">Cursul de Dezvoltare Liberă</a></h3>
         </div>
         
         <div class="field-teaser">
             <div class="field-content">
             <p>
-            The Comunity and Development Lab (Cursul de Dezvoltare Liberă, in Romanian) is
-            an 8 - 9 week intensive event, addressed mainly to the first and second year
-            students of the Politehnica University of Bucharest.
-            The course aims to involve students in existing open source projects with
-            the help of an experienced mentor in the development side of the project.
+            CDL te învață ce înseamnă free software, comunitate open source, ce unelte să folosești și cum pentru a deveni un contribuitor.
             </p>
             </div>
         </div>
@@ -34,9 +30,9 @@ layout: base
         
         <div class="field-teaser">
                 <div class="field-content">
-                <p>In the tradition of Open Source groups, ROSEdu organises LIFs (Linux Install Fests).
-                        One of the first community events that ROSEdu organized was the Ubuntu Install Fest (UIF).
-                        We have coordinated three Ubuntu Install Fests following the same recipe used by other Ubuntu Communities.</p>
+                <p>
+                O activitate specifică grupurilor de utilizatori Linux, evenimentul de instalare atrage în fiecare an din ce în ce mai mulți studenți.
+                </p>
                 </div>
         </div>
             
@@ -53,7 +49,8 @@ layout: base
                 <div class="field-content">
                 <p>PyLXR aims to clone the LXR project in Python and using SQLite as its database engine.
                 It strives to offer an easier to configure and modify interface
-                than the&nbsp;<a href="http://lxr.linux.no" target="_blank">original LXR</a>.</p>                
+                than the&nbsp;<a href="http://lxr.linux.no" target="_blank">original LXR</a>.
+                </p>                
                 </div>
         </div>
         
@@ -119,10 +116,11 @@ layout: base
         </div>
 
         <div class="field-teaser">
-                <div class="field-content"><p>WoUSO (World of USO) is an educational game targeting first year
-                students of the Introduction in Operating System (or USO, in Romanian) course of the Computer
-                Science Department at the Politehnica University of Bucharest. It is meant to encourage acquiring
-                knowledge in an educational and competitive mode.&nbsp;</p>
+                <div class="field-content"><p>
+                World of USO este un joc simplu realizat pentru studenții cursului de Utilizarea
+                Sistemelor de Operare din Facultatea de Automatica si Calculatoare.
+                Jocul este menit să ajute studenții în a acumula cunoștințe intr-un mod plăcut și interesant.
+                </p>
                 </div>
         </div>
     </div>
