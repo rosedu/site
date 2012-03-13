@@ -2,3 +2,4 @@ exclude: fabfile.py fabfile.pyc
 permalink: pretty
 basepath: /site/
 url: http://rosedu.github.com/site
+paginate: 5
