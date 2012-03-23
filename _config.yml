@@ -1,7 +1,7 @@
 exclude: fabfile.py fabfile.pyc
 permalink: pretty
 basepath: /site/
-url: http://www.rosedu.org
+url: http://rosedu.github.com/site
 paginate: 5
 
 ganalytics: UA-22208209-1
