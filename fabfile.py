@@ -11,4 +11,5 @@ def build():
 
 def deploy():
     build()
-    local('rsync -rtv --del _site/ hackday@rosedu.org:public_html')
+    local('rsync -rtv _site/ site@rosedu.org:public_html')
+    local('rsync -rtv files/ site@rosedu.org:public_html/files/')

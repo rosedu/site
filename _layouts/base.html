@@ -31,29 +31,32 @@
   <body>
 	<div id="wrapper">
 	  <div id="header">
-		<a href="#" id="logo-header"></a>
+		<a href="{{site.basepath}}" id="logo-header"></a>
 
 		<div id="header-right">
 		<div id="flags-container">
-			<a href="/ro" id="ro-flag" class="flag ro-flag-grayed-out">
+                    <a href="{{site.basepath}}ro" id="ro-flag" class="flag ro-flag-grayed-out">
 				<h2>H</h2>
 			</a>
-			<a href="/" id="en-flag" class="flag en-flag-full">
+                        <a href="{{site.basepath}}" id="en-flag" class="flag en-flag-full">
 				<h2>H</h2>
 			</a>
 		</div>
 
-		<a href="#" id="search-icon"></a>
-		<input id="search" type="text" value="Search..." />
+        <form action="http://www.google.com/search" class="navigation-search" method="get" name="form1">
+            <a href="#" onclick="javascript:form1.submit()" id="search-icon"></a>
+            <input id="search" class="search-query" name="q" placeholder="Search..." type="text">
+            <input name="sitesearch" type="hidden" value="rosedu.org">
+        </form>
 
 		<!-- <a href="javascript:void(0);" id="auth-button">Autentificare</a> -->
 
 		<div id="header-menu">
 		  menu[] = { <a href="{{site.basepath}}">home</a>,
           <a href="{{site.basepath}}activities">activities</a>,
-          <a href="{{site.basepath}}news.html">news</a>,
-          <a href="{{site.basepath}}aboutus.html">about us</a>,
-          <a href="{{site.basepath}}contact.html">contact</a> };
+          <a href="{{site.basepath}}news">news</a>,
+          <a href="{{site.basepath}}aboutus">about us</a>,
+          <a href="{{site.basepath}}contact">contact</a> };
 		</div><!-- #header-menu -->
 
 		<div class="clear">
@@ -62,6 +65,13 @@
 		</div>
 	  </div><!-- #header -->
 
+        {% if page.title %}
+        <h2>{{page.title}}</h2>
+        <div class="entry-meta">
+        Published by {{page.author}} at {{page.date | date: '%d %B %Y'}}
+        </div>
+        {% endif %}
+        
 {{ content }}
 
 	  <div class="separator clear">
@@ -77,8 +87,8 @@
 		  <a href="{{site.basepath}}">Home</a> |
           <a href="{{site.basepath}}activities">Activities</a> |
           <a href="{{site.basepath}}news">News</a> |
-          <a href="{{site.basepath}}aboutus.html">About us</a> |
-          <a href="{{site.basepath}}contact.html">Contact</a>
+          <a href="{{site.basepath}}aboutus">About us</a> |
+          <a href="{{site.basepath}}contact">Contact</a>
 		</div><!-- #footer-menu -->
 
 		<div class="clear">
@@ -90,5 +100,17 @@
 	<script type="text/javascript">
 	  Cufon.now();
 	</script>
+
+   <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '{{site.ganalytics}}']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
   </body>
 </html>

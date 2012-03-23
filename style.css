@@ -43,7 +43,7 @@ h3 {
 	margin: 0 0 10px 0;
 }
 
-ul {
+ul, ol {
     margin-left: 3em;
 }
 
@@ -257,4 +257,9 @@ div.right-sidebar ul li a {
     margin: 10px;
     font-size: 1.1em;
     font-weight: bold;
+}
+div.wrapper div.field {
+    width: 45%;
+    float: left;
+    min-height: 180px;
 }
