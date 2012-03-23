@@ -3,3 +3,5 @@ permalink: pretty
 basepath: /
 url: http://www.rosedu.org
 paginate: 5
+
+ganalytics: UA-22208209-1
