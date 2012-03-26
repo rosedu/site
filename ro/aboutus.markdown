@@ -2,6 +2,8 @@
 layout: basero
 ---
 
+{% include aboutnavro.html %}
+
 ## Despre noi
 
 ### Misiunea ROSEdu
