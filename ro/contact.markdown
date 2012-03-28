@@ -2,6 +2,8 @@
 layout: basero
 ---
 
+{% include contactnavro.html %}
+
 # Contact
 
 Ne puteți găsi online pe:
