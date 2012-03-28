@@ -43,7 +43,7 @@ extra_head: True
   <h2>Cum ne poți contacta?</h2>
 
   <div class="content">
-<p>Pe canalul de IRC #rosedu pe FreeNode, în facultate sau pe lista de discuții. Detalii în pagina de <a href="{{site.basepath}}ro/contact">contact</a>.
+<p>Pe canalul de IRC #rosedu pe FreeNode, în facultate sau pe <a href="http://lists.rosedu.org/listinfo/rosedu-general/">lista de discuții rosedu-general</a>. Detalii în pagina de <a href="{{site.basepath}}ro/contact">contact</a>.
 </p>
 
 <p>
