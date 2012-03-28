@@ -49,7 +49,7 @@ extra_head: |
 
   <div class="content">
 	<p>
-	You can find us on the IRC channel #rosedu on FreeNode, in our faculty or on the mailing lists. More details on the <a href="http://rosedu.org/en/contact-us">contact page</a>.</p>
+	You can find us on the IRC channel #rosedu on FreeNode, in our faculty or on the mailing lists. More details on the <a href="{{site.basepath}}contact">contact page</a>.</p>
 <p>
 	You are also welcomed on our <a href="http://facebook.com/rosedu.org">Facebook</a>, <a href="http://twitter.com/rosedu_org">Twitter</a> and <a href="https://plus.google.com/114233516141809762907">Google+</a> pages.</p>
 <p>
