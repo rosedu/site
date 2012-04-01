@@ -2,7 +2,7 @@
 layout: basero
 ---
 
-{% for post in site.categories.ro %}
+{% for post in site.categories.ro limit:5 %}
 <div class="post-container">
 	<div class="entry-title">
 		<h2><a href="{{post.url}}">{{ post.title }}</a></h2>
