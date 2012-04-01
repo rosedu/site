@@ -2,7 +2,9 @@
 layout: basero
 ---
 
-{% for post in site.categories.ro limit:5 %}
+{% assign posts_per_page = 5 %}
+{{ pagination_skip }}
+{% for post in site.categories.ro offset:pagination_skip limit:posts_per_page %}
 <div class="post-container">
 	<div class="entry-title">
 		<h2><a href="{{post.url}}">{{ post.title }}</a></h2>
@@ -15,3 +17,4 @@ layout: basero
 	</div>
 </div>
 {% endfor %}
+{% include paginate_nav_ro.html %}
