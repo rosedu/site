@@ -6,7 +6,7 @@ layout: basero
 
 ## Asociația ROSEdu
 
-Fondată în 2009, Asociația ROSEdu este o Organizație Non-Guvernamentală non-profit care-și propună să susțină activitățile Comunității ROSEdu.
+Fondată în 2009, Asociația ROSEdu este o Organizație Non-Guvernamentală non-profit care-și propune să susțină activitățile Comunității ROSEdu.
 
 ### În prezent
 
