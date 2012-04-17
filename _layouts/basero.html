@@ -36,7 +36,7 @@
 
 		<div id="header-right">
 		<div id="flags-container">
-                    <a href="{{site.baseptah}}ro" id="ro-flag" class="flag ro-flag-full">
+                    <a href="/ro" id="ro-flag" class="flag ro-flag-full">
 				<h2>H</h2>
 			</a>
                         <a href="{{site.basepath}}" id="en-flag" class="flag en-flag-grayed-out">
@@ -55,7 +55,7 @@
 		<div id="header-menu">
 		  meniu[] = { <a href="{{site.basepath}}ro">acasă</a>,
           <a href="{{site.basepath}}ro/activities">activități</a>,
-          <a href="{{site.basepath}}ro/news">știri</a>,
+          <a href="{{site.basepath}}ro/news_0">știri</a>,
           <a href="{{site.basepath}}ro/aboutus">despre</a>,
           <a href="{{site.basepath}}ro/contact">contact</a> };
 		</div><!-- #header-menu -->
@@ -87,7 +87,7 @@
 		  <br />
 		  <a href="{{site.basepath}}ro">Acasă</a> |
           <a href="{{site.basepath}}ro/activities">Activități</a> |
-          <a href="{{site.basepath}}ro/news">Știri</a> |
+          <a href="{{site.basepath}}ro/news_0">Știri</a> |
           <a href="{{site.basepath}}ro/aboutus">Despre</a> |
           <a href="{{site.basepath}}ro/contact">Contact</a>
 		</div><!-- #footer-menu -->
@@ -101,5 +101,17 @@
 	<script type="text/javascript">
 	  Cufon.now();
 	</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '{{site.ganalytics}}']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+
   </body>
 </html>

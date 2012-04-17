@@ -9,7 +9,7 @@ layout: base
         <div class="field-title">
             <h3><a href="http://cdl.rosedu.org" target="_blank">Community and Development Lab</a></h3>
         </div>
-        
+
         <div class="field-teaser">
             <div class="field-content">
             <p>
@@ -27,39 +27,30 @@ layout: base
         </div>
     </div>
 
-    <div class="field">
-        <div class="field-title">
-                <h3><a href="http://lif.rosedu.org" target="_blank">Linux Install Fest</a></h3>
-        </div>
-        
-        <div class="field-teaser">
-                <div class="field-content">
-                <p>In the tradition of Open Source groups, ROSEdu organises LIFs (Linux Install Fests).
-                        One of the first community events that ROSEdu organized was the Ubuntu Install Fest (UIF).
-                        We have coordinated three Ubuntu Install Fests following the same recipe used by other Ubuntu Communities.</p>
-                </div>
-        </div>
-            
-        <div class="views-field-field-imagine-proiect-fid">
-        </div>
-    </div>
 
     <div class="field">
         <div class="field-title">
-                <h3><a href="#">PyLXR</a></h3>
+            <h3><a href="http://webdev.rosedu.org" target="_blank">WedDev</a></h3>
         </div>
 
         <div class="field-teaser">
-                <div class="field-content">
-                <p>PyLXR aims to clone the LXR project in Python and using SQLite as its database engine.
-                It strives to offer an easier to configure and modify interface
-                than the&nbsp;<a href="http://lxr.linux.no" target="_blank">original LXR</a>.</p>                
-                </div>
+            <div class="field-content">
+            <p>
+            WebDev is a practical 11-week web development course. Second and third
+            year students are taught all they need to know, and more, in order to
+            develop their own Mini<a href="http://stackoverflow.com/">StackOverflow</a>
+            platform. From the HTTP protocol, to HTML5 and CSS3 magic, to the Ruby
+            programming language, professional mentors are always present to guide
+            them along the way.
+            </p>
+            </div>
         </div>
-        
+
         <div class="views-field-field-imagine-proiect-fid">
+                <h3><img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_webdev.png" /></h3>
         </div>
     </div>
+
 
     <div class="field">
         <div class="field-title">
@@ -68,8 +59,11 @@ layout: base
 
         <div class="field-teaser">
                 <div class="field-content">
-                <p>     RSoC (ROSEdu Summer of Code) is a frame project whose aim is to give students an
-                alternative summer internship program. Students and enthusiasts can be a part of existing or new ROSEdu projects.</p>
+                <p>
+                RSoC (ROSEdu Summer of Code) is a frame project whose aim is to
+                give students an alternative summer internship program. Students
+                and enthusiasts can be a part of existing or new ROSEdu projects.
+                </p>
                 </div>
         </div>
 
@@ -77,15 +71,37 @@ layout: base
                 <img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_rsoc.png" />
         </div>
     </div>
-    
+
+
+    <div class="field">
+        <div class="field-title">
+                <h3><a href="http://hackday.rosedu.org" target="_blank">Hack Day</a></h3>
+        </div>
+
+        <div class="field-teaser">
+                <div class="field-content">
+                <p>
+                Hack Days are a series of events during which students and representatives
+                of various open source projects gather in order to submit patches, fix bugs,
+                implement new features and have fun.
+                </p>
+                </div>
+        </div>
+
+        <div class="views-field-field-imagine-proiect-fid">
+                <img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_rhd.png" />
+        </div>
+    </div>
+
+
     <div class="field">
         <div class="field-title">
                 <h3><a href="http://talks.rosedu.org" target="_blank">Tech Talks</a></h3>
         </div>
 
         <div class="field-teaser">
-            <div class="field-content"><p>The ROSEdu Tech Talks are a series of 45 minutes presentations,
-            held every two weeks, about open technologies, open software and open standards.</p>
+            <div class="field-content"><p>The ROSEdu Tech Talks are a series of 45 minutes presentations
+              about open technologies, open software and open standards.</p>
             </div>
         </div>
 
@@ -94,9 +110,60 @@ layout: base
         </div>
     </div>
 
+
     <div class="field">
         <div class="field-title">
-                <h3><a href="#">vmchecker</a></h3>
+                <h3><a href="http://techblog.rosedu.org" target="_blank">TechBlog</a></h3>
+        </div>
+
+        <div class="field-teaser">
+            <div class="field-content"><p>The ROSEdu TechBlog contains technical articles and tutorials.
+            If you consider yourself a geek, please consider contributing to this blog.</p>
+            </div>
+        </div>
+
+        <div class="views-field-field-imagine-proiect-fid">
+                <h3><img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_tb.png" /></h3>
+        </div>
+    </div>
+
+
+    <div class="field">
+        <div class="field-title">
+                <h3><a href="http://wouso.rosedu.org" target="_blank">World of USO</a></h3>
+        </div>
+
+        <div class="field-teaser">
+                <div class="field-content"><p>WoUSO (World of USO) is an educational game targeting first year
+                students of the Introduction in Operating System (or USO, in Romanian) course of the Computer
+                Science Department at the Politehnica University of Bucharest. It is meant to encourage acquiring
+                knowledge in an educational and competitive mode.&nbsp;</p>
+                </div>
+        </div>
+    </div>
+
+
+    <div class="field">
+        <div class="field-title">
+                <h3><a href="http://lif.rosedu.org" target="_blank">Linux Install Fest</a></h3>
+        </div>
+
+        <div class="field-teaser">
+                <div class="field-content">
+                <p>In the tradition of Open Source groups, ROSEdu organises LIFs (Linux Install Fests).
+                        One of the first community events that ROSEdu organized was the Ubuntu Install Fest (UIF).
+                        We have coordinated three Ubuntu Install Fests following the same recipe used by other Ubuntu Communities.</p>
+                </div>
+        </div>
+
+        <div class="views-field-field-imagine-proiect-fid">
+        </div>
+    </div>
+
+
+    <div class="field">
+        <div class="field-title">
+                <h3><a href="https://github.com/vmchecker/vmchecker">vmchecker</a></h3>
         </div>
 
         <div class="field-teaser">
@@ -113,18 +180,23 @@ layout: base
         </div>
     </div>
 
+
     <div class="field">
         <div class="field-title">
-                <h3><a href="http://wouso.rosedu.org" target="_blank">World of USO</a></h3>
+                <h3><a href="#">PyLXR</a></h3>
         </div>
 
         <div class="field-teaser">
-                <div class="field-content"><p>WoUSO (World of USO) is an educational game targeting first year
-                students of the Introduction in Operating System (or USO, in Romanian) course of the Computer
-                Science Department at the Politehnica University of Bucharest. It is meant to encourage acquiring
-                knowledge in an educational and competitive mode.&nbsp;</p>
+                <div class="field-content">
+                <p>PyLXR aims to clone the LXR project in Python and using SQLite as its database engine.
+                It strives to offer an easier to configure and modify interface
+                than the&nbsp;<a href="http://lxr.linux.no" target="_blank">original LXR</a>.</p>
                 </div>
         </div>
+
+        <div class="views-field-field-imagine-proiect-fid">
+        </div>
     </div>
+
 
 </div>
