@@ -14,7 +14,7 @@ Furthermore, the participants will be granted a 1000 euro scholarship.
 
 So far, the proposed projects are Webkit, Apache HBase, Dexonline, WoUSO, vmchecker and WHC, but there are more to come!
 
-If you want to spend your summer contributing to an interesting Open Source project while learning new things and earning a bit of cash, be sure to join us Thursday, the 26th of April, at 18:00, at the Faculty of Automatic Control and Computer Science, room EG301, for the official launch of the 2012 ROSEdu Summer of Code program.
+If you want to spend your summer contributing to an interesting Open Source project while learning new things and earning a bit of cash, be sure to join us Thursday, the 26th of April, at 14:00, at the Faculty of Automatic Control and Computer Science, room EC004, for the official launch of the 2012 ROSEdu Summer of Code program.
 
 See you there!
 

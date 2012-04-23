@@ -14,7 +14,7 @@ Mai mult decât atât, particpianți vor primi o bursă de 1000 de Euro.
 
 Printre proiectele propuse se numără Webkit, Apache HBase, Dexonline, WoUSO, WHC și vmchecker, iar mai multe vor apărea în curând!
 
-Dacă vrei să îți petreci vara contribuind la proiecte Open Source, învățând lucruri noi și câștigând bani de buzunar, alătură-te nouă joi, 26 aprilie, de la ora 18:00 în sala EG301 în cadrul Facultății de Automatică și Calculatoare, la lansarea oficială a programului ROSEdu Summer of Code 2012!
+Dacă vrei să îți petreci vara contribuind la proiecte Open Source, învățând lucruri noi și câștigând bani de buzunar, alătură-te nouă joi, 26 aprilie, de la ora 14:00 în sala EC004 în cadrul Facultății de Automatică și Calculatoare, la lansarea oficială a programului ROSEdu Summer of Code 2012!
 
 Te așteptăm!
 
