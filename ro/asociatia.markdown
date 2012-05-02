@@ -25,5 +25,6 @@ Fondată în 2009, Asociația ROSEdu este o Organizație Non-Guvernamentală non
 
  * [Statut]({{site.basepath}}files/Asociatia_ROSEdu_Statut.pdf)
  * [Act constitutiv]({{site.basepath}}files/Asociatia_ROSEdu_Act_Constitutiv.pdf)
- * [Formular de adeziune]({{site.basepath}}files/rosedu_form_adeziune.pdf)
- * [Form 230]({{site.basepath}}files/Decl_230_ROSEDu.pdf)
+ * [Formular de adeziune]({{site.basepath}}files/Asociatia-ROSEdu_Formular-de-adeziune.pdf)
+ * [Form 230]({{site.basepath}}files/Decl_230_ROSEdu.pdf)
+ * [Form 200]({{site.basepath}}files/Decl_200_ROSEdu.pdf)
