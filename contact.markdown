@@ -7,8 +7,9 @@ layout: base
 You can find us online using:
 
  * an IRC channel: <a href="http://webchat.freenode.net/?channels=rosedu">#rosedu</a> on <a href="http://freenode.net/">freenode</a>
- * general or event-related <a href="http://lists.rosedu.org/listinfo">mailing-lists</a>
+ * general or event-related <a href="http://lists.rosedu.org/">mailing-lists</a>
  * or, you can look at the <a href="https://projects.rosedu.org/">project management page</a>
+ * and also don't forget to visit us on <a href="https://github.com/rosedu">GitHub</a>
 
 You can visit us in our headquarters, EG106c, from &quot;POLITEHNICA&quot; University of Bucharest.
 
