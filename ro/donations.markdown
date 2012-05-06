@@ -8,7 +8,7 @@ layout: basero
 
 Fă o donație în contul Asociației ROSEdu: **RO98BTRL04501205R50291XX**, Banca Transilvania S.A.
 
-[Donează 2%](http://doilasuta.ro/) din impozitul de stat, până pe **15 mai 2012**,
+[Donează 2%](http://doilasuta.ro/) din impozitul de stat, până pe **25 mai 2012**,
 cu ajutorul [Formularului 200]({{site.basepath}}files/Decl_200_ROSEDu.pdf) și
 [Formularului 230]({{site.basepath}}files/Decl_230_ROSEDu.pdf)
 (precompletate cu datele Asociației ROSEdu).
