@@ -25,4 +25,4 @@ We are always searching for sponsors and partnerships for our programs.
 You can support ROSEdu&#39;s programs and, in exchange, we\'ll help you
 gain good visibility among the students and graduates that participate in
  our programs or attend our presentations. To find out more, do not hesitate
- to [contact us]({{site.basepath}}contact.html)!
+ to [contact us]({{site.basepath}}contact)!
