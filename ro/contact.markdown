@@ -10,7 +10,7 @@ Ne puteți găsi online pe:
 
 
  * canal IRC: [#rosedu](http://webchat.freenode.net/?channels=rosedu) pe Freenode
- * [listele de discuții](http://lists.rosedu.org) generale sau dedicate unor evenimente
+ * [listele de discuții](http://lists.rosedu.org/ro) generale sau dedicate unor evenimente
  * puteți vizualiza și [pagina proiectelor](https://projects.rosedu.org/)
  * și nu uitați să treceți și pe la contul organizației de pe [GitHub](https://github.com/rosedu)!
 

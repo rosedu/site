@@ -263,3 +263,8 @@ div.wrapper div.field {
     float: left;
     min-height: 180px;
 }
+
+div.calendar {
+	float: right;
+	width: 500px;
+}
