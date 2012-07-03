@@ -75,21 +75,26 @@ layout: base
 
     <div class="field">
         <div class="field-title">
-                <h3><a href="http://hackday.rosedu.org" target="_blank">Hack Day</a></h3>
+                <h3><a href="http://open-source.cs.pub.ro/summer-school/" target="_blank">Open Source Summer School</a></h3>
         </div>
 
         <div class="field-teaser">
                 <div class="field-content">
                 <p>
-                Hack Days are a series of events during which students and representatives
-                of various open source projects gather in order to submit patches, fix bugs,
-                implement new features and have fun.
+                As a part of <a href="https://cluster.grid.pub.ro/index.php/workshops-and-training-events/ncit-summer-school/ncit-summer-school-2012">
+                NCIT Summer Schools</a> , the Computer Science
+                department of Politehnica University of Bucharest in collaboration
+                with ROSEdu and <a href="https://systems.cs.pub.ro/">Systems Group</a> organizes Open Source Summer School.</p>
+                <p>OSSS is a two weeks intensive course, consisting of technical
+                talks, presentations, seminars and hackathons. Our main goal is
+                to provide the basic skills and knowledge required to take part
+                in Open Source projects.
                 </p>
                 </div>
         </div>
 
         <div class="views-field-field-imagine-proiect-fid">
-                <img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_rhd.png" />
+                <img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_osss.png" />
         </div>
     </div>
 
@@ -130,6 +135,47 @@ layout: base
 
     <div class="field">
         <div class="field-title">
+                <h3><a href="http://hackday.rosedu.org" target="_blank">Hack Day</a></h3>
+        </div>
+
+        <div class="field-teaser">
+                <div class="field-content">
+                <p>
+                Hack Days are a series of events during which students and representatives
+                of various open source projects gather in order to submit patches, fix bugs,
+                implement new features and have fun.
+                </p>
+                </div>
+        </div>
+
+        <div class="views-field-field-imagine-proiect-fid">
+                <img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_rhd.png" />
+        </div>
+    </div>
+
+
+
+    <div class="field">
+        <div class="field-title">
+                <h3><a href="https://github.com/vmchecker/vmchecker">vmchecker</a></h3>
+        </div>
+
+        <div class="field-teaser">
+                <div class="field-content"><p>vmchecker is a scalable automatic assignment evaluation
+                framework that can be used for a wide range of courses. It enables automatic evaluation
+                of assignments, leaving the teaching assistent with the sole tasks of going through the
+                code and insist on aspects such as proper indentation, coding style, safe programming
+                practices, modularization, sane variable names, etc.</p>
+                </div>
+        </div>
+
+        <div class="views-field-field-imagine-proiect-fid">
+                <h3><img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_vmc.png" /></h3>
+        </div>
+    </div>
+
+    <div class="field">
+        <div class="field-title">
                 <h3><a href="http://wouso.rosedu.org" target="_blank">World of USO</a></h3>
         </div>
 
@@ -157,26 +203,6 @@ layout: base
         </div>
 
         <div class="views-field-field-imagine-proiect-fid">
-        </div>
-    </div>
-
-
-    <div class="field">
-        <div class="field-title">
-                <h3><a href="https://github.com/vmchecker/vmchecker">vmchecker</a></h3>
-        </div>
-
-        <div class="field-teaser">
-                <div class="field-content"><p>vmchecker is a scalable automatic assignment evaluation
-                framework that can be used for a wide range of courses. It enables automatic evaluation
-                of assignments, leaving the teaching assistent with the sole tasks of going through the
-                code and insist on aspects such as proper indentation, coding style, safe programming
-                practices, modularization, sane variable names, etc.</p>
-                </div>
-        </div>
-
-        <div class="views-field-field-imagine-proiect-fid">
-                <h3><img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_vmc.png" /></h3>
         </div>
     </div>
 
