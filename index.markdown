@@ -48,15 +48,16 @@ extra_head: |
   <h2>How to contact us?</h2>
 
   <div class="content">
-	<p>
-	You can find us on the IRC channel #rosedu on FreeNode, in our faculty or on <a href="http://lists.rosedu.org/listinfo/rosedu-general">the rosedu-general mailing lists</a>. More details on the <a href="{{site.basepath}}contact">contact page</a>.</p>
+       <p>
+     You can find us on the #rosedu IRC channel on FreeNode, at our faculty or on the <a href="http://lists.rosedu.org/listinfo/rosedu-general">rosedu-general mailing lists</a>. More details on the <a href="{{site.basepath}}contact">contact page</a>.</p>
 <p>
-	You are also welcomed on our <a href="http://facebook.com/rosedu.org">Facebook</a>, <a href="http://twitter.com/rosedu_org">Twitter</a> and <a href="https://plus.google.com/114233516141809762907">Google+</a> pages.</p>
+        You are welcome to our <a href="http://facebook.com/rosedu.org">Facebook</a>, <a href="http://twitter.com/rosedu_org">Twitter</a> or <a href="https://plus.google.com/114233516141809762907">Google+</a> pages. You may also check out our community's trips and attended events around the world on the <a href="http://goo.gl/maps/NV4ZP">Map</a>.</p>
 <p>
-    <a href="https://plus.google.com/114233516141809762907?prsrc=3" style="text-decoration: none;"><img src="{{site.basepath}}resources/images/button-gplus.png" style="float: right;" width="60" /></a> 
-    <a href="http://www.facebook.com/rosedu.org"><img alt="" src="{{site.basepath}}resources/images/button-facebook.png" style="float: right; width: 64px; height: 64px;" /></a>
-    <a href="http://twitter.com/rosedu_org"><img height="64" src="{{site.basepath}}resources/images/button-twitter.png" style="float: right;" width="64" /></a> 
-    <a href="{{site.basepath}}rss.xml"><img alt="" src="{{site.basepath}}resources/images/button-rss.png" style="float: right; width: 64px; height: 64px;" /></a>
+    <a href="http://planet.rosedu.org/rss20.xml"><img alt="" src="{{site.basepath}}resources/images/button-rss.png" style="float: right; width: 48px; height: 48px;" /></a>
+    <a href="http://goo.gl/maps/NV4ZP"><img alt="" src="{{site.basepath}}resources/images/button-googlemaps.png" style="float: right; width: 48px; height: 48px;" /></a>
+    <a href="https://plus.google.com/114233516141809762907?prsrc=3" style="text-decoration: none;"><img src="{{site.basepath}}resources/images/button-googleplus.png" style="float: right; width: 48px; height: 48px;" /></a> 
+    <a href="http://twitter.com/rosedu_org"><img height="64" src="{{site.basepath}}resources/images/button-twitter.png" style="float: right; width: 48px; height: 48px;" /></a>
+    <a href="http://www.facebook.com/rosedu.org"><img alt="" src="{{site.basepath}}resources/images/button-facebook.png" style="float: right; width: 48px; height: 48px;" /></a>
 </p>
   </div>
 </div><!-- .col-3 -->

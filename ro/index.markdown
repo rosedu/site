@@ -47,13 +47,16 @@ extra_head: True
 </p>
 
 <p>
-Pentru a fi la curent cu activitatea noastră, te poți abona la feed-ul RSS alăturat.
+Pentru a fi la curent cu activitatea noastră, poți vizita pagina noastră de <a
+href="http://www.facebook.com/rosedu.org">Facebook</a>, <a href="http://twitter.com/rosedu_org">Twitter</a> sau <a href="https://plus.google.com/114233516141809762907?prsrc=3">Google+</a>. De
+asemenea, poți vedea pe <a href="http://goo.gl/maps/NV4ZP">Hartă</a> unde în lume au călătorit sau au mers la evenimente membri ai comunității.
 </p>
 <p>
-    <a href="https://plus.google.com/114233516141809762907?prsrc=3" style="text-decoration: none;"><img src="{{site.basepath}}resources/images/button-gplus.png" style="float: right;" width="60" /></a> 
-    <a href="http://www.facebook.com/rosedu.org"><img alt="" src="{{site.basepath}}resources/images/button-facebook.png" style="float: right; width: 64px; height: 64px;" /></a>
-    <a href="http://twitter.com/rosedu_org"><img height="64" src="{{site.basepath}}resources/images/button-twitter.png" style="float: right;" width="64" /></a> 
-    <a href="/ro/rss.xml"><img alt="" src="{{site.basepath}}resources/images/button-rss.png" style="float: right; width: 64px; height: 64px;" /></a>
+    <a href="http://planet.rosedu.org/rss20.xml"><img alt="" src="{{site.basepath}}resources/images/button-rss.png" style="float: right; width: 48px; height: 48px;" /></a>
+    <a href="http://goo.gl/maps/NV4ZP"><img alt="" src="{{site.basepath}}resources/images/button-googlemaps.png" style="float: right; width: 48px; height: 48px;" /></a>
+    <a href="https://plus.google.com/114233516141809762907?prsrc=3" style="text-decoration: none;"><img src="{{site.basepath}}resources/images/button-googleplus.png" style="float: right; width: 48px; height: 48px;" /></a>·
+    <a href="http://twitter.com/rosedu_org"><img height="64" src="{{site.basepath}}resources/images/button-twitter.png" style="float: right; width: 48px; height: 48px;" /></a>
+    <a href="http://www.facebook.com/rosedu.org"><img alt="" src="{{site.basepath}}resources/images/button-facebook.png" style="float: right; width: 48px; height: 48px;" /></a>
 </p>
   </div>
 </div><!-- .col-3 -->
