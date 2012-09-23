@@ -30,7 +30,7 @@ layout: base
 
     <div class="field">
         <div class="field-title">
-            <h3><a href="http://webdev.rosedu.org" target="_blank">WedDev</a></h3>
+            <h3><a href="http://webdev.rosedu.org" target="_blank">WebDev</a></h3>
         </div>
 
         <div class="field-teaser">
