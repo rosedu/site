@@ -14,7 +14,7 @@ extra_head: True
 </script>
 
 <div class="col-1">
-  <h2>Cine suntem?</h2>
+  <h2>Cine suntem</h2>
 
   <div class="content">
 
@@ -28,7 +28,7 @@ extra_head: True
 </div><!-- .col-1 -->
 
 <div class="col-2">
-  <h2>Ce facem?</h2>
+  <h2>Ce facem</h2>
 
   <div class="content">
 
@@ -40,7 +40,7 @@ extra_head: True
 </div><!-- .col-2 -->
 
 <div class="col-3">
-  <h2>Cum ne poți contacta?</h2>
+  <h2>Cum ne poți contacta</h2>
 
   <div class="content">
 <p>Pe canalul de IRC #rosedu pe FreeNode, în facultate sau pe <a href="http://lists.rosedu.org/listinfo/rosedu-general/">lista de discuții rosedu-general</a>. Detalii în pagina de <a href="{{site.basepath}}ro/contact">contact</a>.

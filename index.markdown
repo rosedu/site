@@ -26,7 +26,7 @@ extra_head: |
 </script>
 
 <div class="col-1">
-  <h2>What is ROSEdu?</h2>
+  <h2>What ROSEdu is</h2>
 
   <div class="content">
 <p>	ROSEdu is an organization based on a community formed by programming and open-source software enthusiasts, in the educational environment.&nbsp;</p>
@@ -36,7 +36,7 @@ extra_head: |
 </div><!-- .col-1 -->
 
 <div class="col-2">
-  <h2>What we do?</h2>
+  <h2>What we do</h2>
 
   <div class="content">
 <p>	We are trying to bring the open source world closer to the people around us trough events like Linux Install Fest, <a href="http://talks.rosedu.org">ROSEdu Tech Talks</a> and <a href="http://cdl.rosedu.org">CDL</a>.</p>
@@ -45,7 +45,7 @@ extra_head: |
 </div><!-- .col-2 -->
 
 <div class="col-3">
-  <h2>How to contact us?</h2>
+  <h2>How to contact us</h2>
 
   <div class="content">
        <p>
