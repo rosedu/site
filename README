@@ -8,3 +8,12 @@ Testing:
 	fab devel #then open http://localhost:4000 in a browser
 Deploy:
 	fab deploy
+
+
+Troubleshooting:
+	If using Debian / Ubuntu / Linux Mint and jekyll command is not found
+	double check where the gem bins are and make sure that path is in your PATH
+	environment variable.
+	
+	In most cases they should be under /usr/lib/ruby/gems, but
+	/var/lib/gems/{1.8|1.9.1}/bin is used instead.
