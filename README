@@ -1,6 +1,7 @@
 
 Requirements:
 	apt-get install fabric ruby1.9.1-dev
+	apt-get install rubygems1.8
 	gem install jekyll
 
 Testing:
