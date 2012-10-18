@@ -132,7 +132,27 @@ layout: base
         </div>
     </div>
 
+    
+    
+    <div class="field">
+        <div class="field-title">
+                <h3><a href="http://android.rosedu.org/wiki/">D'Android</a></h3>
+        </div>
 
+        <div class="field-teaser">
+                <div class="field-content">
+                <p>D'Android encourages the development of mobile aplications,
+                emphasising the key features of the Android open-source platform.</p>
+                </div>
+        </div>
+
+        <div class="views-field-field-imagine-proiect-fid">
+		<h3><img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_android.png" /></h3>
+        </div>
+    </div>
+    
+    
+    
     <div class="field">
         <div class="field-title">
                 <h3><a href="http://hackday.rosedu.org" target="_blank">Hack Day</a></h3>
@@ -149,7 +169,7 @@ layout: base
         </div>
 
         <div class="views-field-field-imagine-proiect-fid">
-                <img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_rhd.png" />
+                <h3><img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_rhd.png" /></h3>
         </div>
     </div>
 
