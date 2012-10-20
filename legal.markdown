@@ -4,7 +4,7 @@ layout: base
 
 {% include aboutnav.html %}
 
-## Asociația ROSEdu
+## ROSEdu Association
 
 Founded in 2009, Asociația ROSEdu is an NGO, non-profit, supporting ROSEdu Community's activities.
 
@@ -21,6 +21,16 @@ Now, there are 28 members in Asociația ROSEdu, led by a Board of Directors cons
  * Victor Cărbune 
  * Adrian Scoică
 
+<br>
+ 
+### Legal
+
+ * Bucharest, Sector 6, Spl. Independenței Street, nr. 313, room EG106c
+ * CUI: 25852660
+ * IBAN: RO98BTRL04501205R50291XX
+ 
+<br>
+ 
 ### Attachments
 
  * [Status]({{site.basepath}}files/Asociatia_ROSEdu_Statut.pdf)
