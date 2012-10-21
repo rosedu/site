@@ -117,29 +117,56 @@ Ixia has had a continuous involved in the Faculty of Automatic Control and Compu
 
 ### [Bitdefender](http://www.bitdefender.ro/)
 
+One of the trademarks in Romanian-based software development, Bitdefender is a
+solid environment for low-level programming, also emphasising on Linux-based
+development. We value their technical expertise and their consistent
+involvement in academia.
+
 **Bitdefender has sponsored [ROSEdu Summer of Code](http://soc.rosedu.org/).**
 
 ### [Eau de Web](http://www.eaudeweb.ro/)
+
+Eau de Web specializes in web development with heavey focus on open source.
+They have some of the best Python developers and software engineers around.
+Their knowledge has been put to use in ROSEdu projects.
 
 **Eau de Web has sponsored [World of USO](http://wouso.rosedu.org/), the
 [Community Development Lab](http://cdl.rosedu.org/) and [Hack Day](http://hackday.rosedu.org/).**
 
 ### [Allevo](http://www.allevo.ro/)
 
+Allevo is focused on business products and high-quality services. The have
+adopted the idea of promoting producs as open source available engines. We
+value their professionalism and openness.
+
 **Allevo has sponsored [ROSEdu Summer of Code](http://soc.rosedu.org/).**
 
 ### [Korect](http://www.korect.ro/)
+
+Korect is a young startup company focusing on high quality products for
+academia. The company has been built on top of ideas and projects within the
+Faculty of Automatic Control and Computers.
 
 **Korect has sponsored [ROSEdu Summer of Code](http://soc.rosedu.org/) and supported development of [World of USO](http://wouso.rosedu.org/).**
 
 ### [Eloquentix](http://www.eloquentix.com/)
 
+Eloquentix is a dynamic company providing one of the best Ruby and web
+developers around.
+
 **Eloquentix has supported and sponsored the [Web Development Course](http://webdev.rosedu.org/).**
 
 ### [TeamNet](http://www.teamnet.ro/)
 
+TeamNet is a high profile software company in Romania focusing on a variety of
+business solutions.
+
 **TeamNet has sponsored the [Web Development Course](http://webdev.rosedu.org/).**
 
 ### [Intendo](http://intendo.ro/)
+
+Intendo offers students the ability to build up their skills and focus on
+personal development. They provide a set of informal classes, each of them
+focusing on a different ability (also known as soft skill).
 
 **Intendo offers discounts for their soft skills classes to students recommended by ROSEdu.**
