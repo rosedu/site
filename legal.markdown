@@ -21,20 +21,17 @@ Currently there are 28 members in Asociația ROSEdu, led by a Board of Directors
  * Victor Cărbune
  * Adrian Scoică
 
-<br>
+<br />
 
 ### Legal
 
- * **Name**: Asociația "ROSEDU"
- * **Adresss**: București, sector 6, Str. Splaiul Independenței 313, sala EG106c, 060042
- * **Judicial registration certificate**: 62/12.06.2009, Judecătoria Sectorului 6 București
- * **Fiscal code**: 25852660 (on 5th of August 2009)
- * **Bank**: Banca Transilvania S.A, Agenția Știrbei Vodă, Calea Știrbei Vodă, nr. 97-99, bloc 25CD, sector 1, București, **SWIFT**: BRTRLRO22
- * **Bank account number**: RO98BTRL04501205R50291XX
+**Asociația "ROSEDU"** <br />
+București, sector 6, Str. Splaiul Independenței 313, sala EG106c, 060042 <br />
+C.I.F.: 25852660 <br />
+IBAN: RO98BTRL04501205R50291XX <br />
+Bank: Banca Transilvania S.A, Agenția Știrbei Vodă <br />
 
-**Note**: NGOs, such as Asociația ROSEdu, do not have a registration certificate at the Trade Register.
-
-<br>
+<br />
 
 ### Attachments
 
