@@ -10,7 +10,7 @@ Fondată în 2009, Asociația ROSEdu este un ONG non-profit ce suportă activit�
 
 ### În prezent
 
-În prezent, sunt 28 de membri în Asociația ROSEdu, conduși de Consiliul de Directori, alcătuit din:
+În prezent sunt 35 de membri în Asociația ROSEdu, conduși de Consiliul de Directori alcătuit din:
 
  * Laura Vasilescu (Președinte)
  * Răzvan Deaconescu
@@ -21,22 +21,19 @@ Fondată în 2009, Asociația ROSEdu este un ONG non-profit ce suportă activit�
  * Victor Cărbune
  * Adrian Scoică
 
-<br>
+<br />
 
 ### Juridic
 
- * **Name**: Asociația "ROSEDU"
- * **Domiciliu fiscal**: București, sector 6, Str. Splaiul Independenței 313, sala EG106c, 060042
- * **Cerificat de înregistrare a persoanei juridice**: 62/12.06.2009, Judecătoria Sectorului 6 București
- * **Cod de înregistrare fiscală** (C.I.F): 25852660 (05.08.2009)
- * **Bank**: Banca Transilvania S.A, Agenția Știrbei Vodă, Calea Știrbei Vodă, nr. 97-99, bloc 25CD, sector 1, București, **SWIFT**: BRTRLRO22
- * **Bank account number**: RO98BTRL04501205R50291XX
+**Asociația "ROSEDU"** <br />
+București, sector 6, Str. Splaiul Independenței 313, sala EG106c, 060042 <br />
+(C.I.F): 25852660 <br />
+IBAN: RO98BTRL04501205R50291XX <br />
+Banca: Banca Transilvania S.A, Agenția Știrbei Vodă <br />
 
-**Notă**: Asociațiile, precum Asociația ROSEdu, nu au înregistrare la Registrul Comerțului.
+<br />
 
-<br>
-
-### Atasamente
+### Atașamente
 
  * [Statut]({{site.basepath}}files/Asociatia_ROSEdu_Statut.pdf)
  * [Act Constitutiv]({{site.basepath}}files/Asociatia_ROSEdu_Act_Constitutiv.pdf)
