@@ -19,6 +19,9 @@ lecture and lab rooms for our meetings and projects and the logistical
 resources. As such, our community consists mainly of students and alumni of the
 faculty.
 
+**The Faculty of Automatic Control and Computers is providing the logistics for
+ROSEdu activities.**
+
 ### [Google](http://www.google.com/)
 
 Google is one of the prime brands in the ROSEdu community due to numerous
