@@ -4,13 +4,17 @@ layout: base
 
 {% include aboutnav.html %}
 
-# Sponsors and partners
+# Sponsors and Partners
 
-We have numerous partners in the industry that are actively helping us fulfill
-our mission. In return, we dedicate this page to their job openings,
-as we value their business and engineering culture.
+Our activities are supported by sponsors and partners; we are happy and
+thankful of their actively helping us fulfill our mission. We are proud to have
+their names on our site and use this page for their job openings, as we value
+their business and engineering culture.
 
-### [Google](http://www.google.com)
+### [Google](http://www.google.com/)
+
+**Google has sponsored the [Community Development Lab](http://cdl.rosedu.org/)
+and the [Web Development Course](http://webdev.rosedu.org/).**
 
 <!--
 Logo doesn't fit very well right now.
@@ -38,10 +42,9 @@ We review applications on an ongoing basis; as projects are allocated to
 successful candidates soon after we interview them, to maximize your chances of
 success we encourage you to apply as early as possible in the academic year.
 
-**Google has sponsored the Community Development Lab and the Web Development
-Course.**
+### [Intel](http://www.intel.com/)
 
-### [Intel](http://www.intel.com)
+**Intel has sponsored the [Summer Workshops](http://workshop.rosedu.org) and the [D'Android Course](http://android.rosedu.org).**
 
 **[Hardware Engineering Internship]**
 
@@ -55,11 +58,3 @@ in nature.
 
 Work performed within generally defined parameters. Some degree
 of judgment required in resolving non-standard problems.
-
-**Intel has sponsored the Open Source Summer Workshops and D'Android Course.**
-
-### Company
-
-**Company helped us in these projects.**
-
-To find more about Company, and see a list of available jobs, [see this page](/partners/company).
