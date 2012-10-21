@@ -88,18 +88,17 @@ of judgment required in resolving non-standard problems.
 
 Adobe is one of the main attractions for students from the faculty, either as interns or employees. It has sound contributions to open source projects such as WebKit and Hadoop and has always been open to our projects and ideas.
 
-**Adobe has sponsored the [Open Source Summer School](http://open-source.cs.pub.ro/summer-school/), [ROSEdu Summer of Code](http://soc.rosedu.org/), [TechTalks](http://talks.rosedu.org) and [Hack Day](http://hackday.rosedu.org/).**
+**Adobe has sponsored the [Open Source Summer School](http://open-source.cs.pub.ro/summer-school/) and [ROSEdu Summer of Code](http://soc.rosedu.org/) and has supported [Hack Day](http://hackday.rosedu.org/).**
 
 **[Developer Position in Digital Publishing]**
 
 **Since**: October 21, 2012
 
-Apply:
-	[Romania](http://www.adobe.com/careers/)
+Apply: contact Cristina Mincu (<cmincu@adobe.com>)
 
 The position is for a fresh graduate student (college diploma obtained in the
 previous 12 months) for the [Digital Publishing
-project](http://www.adobe.com/products/digital-publishing-suite-family.html).
+suite](http://www.adobe.com/products/digital-publishing-suite-family.html).
 
 We are cutting edge end to end (not only due to the technologies used but also
 due to the devices. The team is really cool, a mix of very young people super
@@ -166,6 +165,12 @@ business solutions.
 
 **TeamNet has sponsored the [Web Development Course](http://webdev.rosedu.org/).**
 
+### [ANIS](http://www.anis.ro/), [CRIsoft](http://www.crisoft.ro/)
+
+ANIS (Asociația Patronală a Industriei de Software și Servicii) gathers all the important software companies in Romania. We are happy to have dicussed with members of ANIS and to have received their support.
+
+**CRIsoft, through ANIS, has sponsored the [Linux Install Fest](http://lif.rosedu.org).**
+
 ### [Intendo](http://intendo.ro/)
 
 Intendo offers students the ability to build up their skills and focus on
@@ -173,3 +178,10 @@ personal development. They provide a set of informal classes, each of them
 focusing on a different ability (also known as soft skill).
 
 **Intendo offers discounts for their soft skills classes to students recommended by ROSEdu.**
+
+### [Ubuntu Romania](http://ubuntu.ro/), [SUSE Romania](http://www.suseromania.ro/), [Fedora Romania](http://www.fedoraproject.ro/)
+
+Local Romanian Linux communities are always prepared to lend us their support
+in increasing the awareness of Linux distrubutions among young students. Enthusiastic members of their communities are always there to help.
+
+**Ubuntu Romania, SUSE Romania, Fedora Romania have provided support for the [Linux Install Fest](http://lif.rosedu.org).**
