@@ -88,18 +88,17 @@ of judgment required in resolving non-standard problems.
 
 Adobe is one of the main attractions for students from the faculty, either as interns or employees. It has sound contributions to open source projects such as WebKit and Hadoop and has always been open to our projects and ideas.
 
-**Adobe has sponsored the [Open Source Summer School](http://open-source.cs.pub.ro/summer-school/), [ROSEdu Summer of Code](http://soc.rosedu.org/), [TechTalks](http://talks.rosedu.org) and [Hack Day](http://hackday.rosedu.org/).**
+**Adobe has sponsored the [Open Source Summer School](http://open-source.cs.pub.ro/summer-school/) and [ROSEdu Summer of Code](http://soc.rosedu.org/) and has supported [Hack Day](http://hackday.rosedu.org/).**
 
 **[Developer Position in Digital Publishing]**
 
 **Since**: October 21, 2012
 
-Apply:
-	[Romania](http://www.adobe.com/careers/)
+Apply: contact Cristina Mincu (<cmincu@adobe.com>)
 
 The position is for a fresh graduate student (college diploma obtained in the
 previous 12 months) for the [Digital Publishing
-project](http://www.adobe.com/products/digital-publishing-suite-family.html).
+suite](http://www.adobe.com/products/digital-publishing-suite-family.html).
 
 We are cutting edge end to end (not only due to the technologies used but also
 due to the devices. The team is really cool, a mix of very young people super
