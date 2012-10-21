@@ -10,7 +10,7 @@ Founded in 2009, Asociația ROSEdu is a non-profit NGO supporting ROSEdu communi
 
 ### Now
 
-Currently there are 28 members in Asociația ROSEdu, led by a Board of Directors consisting of:
+Currently there are 35 members in Asociația ROSEdu, led by a Board of Directors consisting of:
 
  * Laura Vasilescu (President)
  * Răzvan Deaconescu
