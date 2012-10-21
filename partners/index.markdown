@@ -7,9 +7,9 @@ layout: base
 # Sponsors and Partners
 
 Our activities are supported by our sponsors and partners; we are happy and
-thankful of their actively helping us fulfill our mission. We are proud to have
-their names on our site; for our industry partners we also use this page for
-their job openings, as we value their business and engineering culture.
+thankful for their actively helping us fulfill our mission. We are proud to
+have their names on our site; for our industry partners we also use this page
+for their job openings, as we value their business and engineering culture.
 
 ### [Faculty of Automatic Control and Computers](http://acs.pub.ro/)
 
