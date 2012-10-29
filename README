@@ -17,3 +17,7 @@ Troubleshooting:
 	
 	In most cases they should be under /usr/lib/ruby/gems, but
 	/var/lib/gems/{1.8|1.9.1}/bin is used instead.
+
+	If page looks stripped down, then you're probably into the wrong branch.
+	Do not work in gh-pages, nor merge it back in master. Always rebase
+	from master and push gh-pages only for previewing at: http://rosedu.github.com/site/
