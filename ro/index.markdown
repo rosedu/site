@@ -1,17 +1,12 @@
 ---
 layout: basero
-extra_head: True
+extra_head: False
 ---
 
-<div id="slidedeck-frame" class="skin-slidedeck">
-  <dl class="slidedeck">
-	{% include slidedeckro.html %}
-  </dl>
+<div id="accordion">
+	<ol>{% include slidedeckro.html %}</ol>
 </div>
-
-<script type="text/javascript">
-  $('.slidedeck').slidedeck();
-</script>
+<br><br><br>
 
 <div class="col-1">
   <h2>Cine suntem</h2>

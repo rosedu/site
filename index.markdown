@@ -1,29 +1,12 @@
 ---
 layout: base
-extra_head: |
-    <link rel="stylesheet" type="text/css" href="resources/js/slidedeck-1.1.7-lite/slidedeck.skin.css" />
-    <!--[if IE]>
-     <link rel="stylesheet" type="text/css" href="resources/js/slidedeck-1.1.7-lite/slidedeck.skin.ie.css" />
-    <![endif]-->
-    <style type="text/css">
-    #slidedeck-frame {
-        height:300px;
-        margin:0 0 20px 0;
-        width:910px;
-     }
-    </style>
-    <script type="text/javascript" src="resources/js/slidedeck-1.1.7-lite/slidedeck.jquery.lite.pack.js"></script>
+extra_head: False
 ---
 
-<div id="slidedeck-frame" class="skin-slidedeck">
-  <dl class="slidedeck">
-	{% include slidedeck.html %}
-  </dl>
+<div id="accordion">
+	<ol>{% include slidedeck.html %}</ol>
 </div>
-
-<script type="text/javascript">
-  $('.slidedeck').slidedeck();
-</script>
+<br><br><br>
 
 <div class="col-1">
   <h2>What ROSEdu is</h2>

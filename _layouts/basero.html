@@ -5,7 +5,7 @@
 	<meta name="Description" content="ROSEdu este o organizație bazată pe o comunitate de oameni pasionați de programare și software liber, în mediul educațional." />
 	<title>ROSEdu - Romanian Open Source Education</title>
 	<link rel="shortcut icon" href="{{site.basepath}}resources/images/favicon.png" />
-	<link rel="stylesheet" type="text/css" href="{{site.basepath}}style.css" />
+	<link rel="stylesheet" type="text/css" href="{{site.basepath}}resources/css/style.css" />
 	<script type="text/javascript" src="{{site.basepath}}resources/js/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript" src="{{site.basepath}}resources/js/application.js"></script>
 	<script type="text/javascript" src="{{site.basepath}}resources/js/cufon-yui.js"></script>
@@ -14,20 +14,9 @@
 	  Cufon.replace('h1, h2, h3');
 	  Cufon.replace('#header-menu', {hover:true});
 	</script>
-	{% if page.extra_head %}
-	<link rel="stylesheet" type="text/css" href="{{site.basepath}}resources/js/slidedeck-1.1.7-lite/slidedeck.skin.css" />
-	<!--[if IE]>
-	 <link rel="stylesheet" type="text/css" href="{{site.basepath}}resources/js/slidedeck-1.1.7-lite/slidedeck.skin.ie.css" />
-	<![endif]-->
-	<style type="text/css">
-	#slidedeck-frame {
-		height:300px;
-		margin:0 0 20px 0;
-		width:910px;
-	}
-	</style>
-	<script type="text/javascript" src="{{site.basepath}}resources/js/slidedeck-1.1.7-lite/slidedeck.jquery.lite.pack.js"></script>
-	{% endif %}
+        <link href="{{site.basepath}}resources/css/liteaccordion.css" rel="stylesheet" /><!-- liteAccordion css -->     
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script><!-- jQuery -->
+        <script src="{{site.basepath}}resources/js/liteaccordion.jquery.js"></script><!-- liteAccordion js -->
   </head>
   <body>
 	<div id="wrapper">
@@ -113,6 +102,28 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
   </script>
-
+  
+	<script>
+	(function($, d) {
+	$('#accordion').liteAccordion({
+		containerWidth : 930,                   // fixed (px)  
+		containerHeight : 300, 
+		onTriggerSlide : function() {
+			this.find('figcaption').fadeOut();
+		},
+		onSlideAnimComplete : function() {    
+			this.find('figcaption').fadeIn();
+		},
+		autoPlay : false,
+		autoScaleImages : true,
+		pauseOnHover : true,
+		theme : 'light',
+		rounded : false,
+		easing: false,
+		enumerateSlides : false                  
+	}).find('figcaption:first').show();
+	})(jQuery, document);
+	</script>
+  
   </body>
 </html>
