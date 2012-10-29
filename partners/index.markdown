@@ -11,6 +11,35 @@ thankful for their actively helping us fulfill our mission. We are proud to
 have their names on our site; for our industry partners we also use this page
 for their job openings, as we value their business and engineering culture.
 
+## Key Partners
+
+### [Adobe](http://myadobe.ro/)
+
+Adobe is one of the main attractions for students from the faculty, either as interns or employees. It has sound contributions to open source projects such as WebKit and Hadoop and has always been open to our projects and ideas.
+
+**Adobe has sponsored the [Open Source Summer School](http://open-source.cs.pub.ro/summer-school/) and [ROSEdu Summer of Code](http://soc.rosedu.org/) and has supported [Hack Day](http://hackday.rosedu.org/).**
+
+**[Developer Position in Digital Publishing]**
+
+**Since**: October 21, 2012
+
+Apply: contact Cristina Mincu (<cmincu@adobe.com>)
+
+The position is for a fresh graduate student (college diploma obtained in the
+previous 12 months) for the [Digital Publishing
+suite](http://www.adobe.com/products/digital-publishing-suite-family.html).
+
+We are cutting edge end to end (not only due to the technologies used but also
+due to the devices. The team is really cool, a mix of very young people super
+smart and experienced gurus from whom you can learn a lot. This experience is
+something you meet once in a lifetime!
+
+We are looking for people who are enthusiastic, creative, who have desire to
+innovate, who enjoy technical challenges and are capable of proposing and
+evaluating a solution against requirements. Exposure to Java or C/C++ is
+required and we value exposure to iOS and Android programming and web
+technologies. Object oriented design principles and design patterns is a plus.
+
 ### [Faculty of Automatic Control and Computers](http://acs.pub.ro/)
 
 The Faculty of Automatic Control and Computers is the place where most of
@@ -25,9 +54,9 @@ ROSEdu activities.**
 ### [Google](http://www.google.com/)
 
 Google is one of the prime brands in the ROSEdu community due to numerous
-Google internship of students and their support for the [Google Summer of Code
-project](http://code.google.com/soc/). Some of our community members are Google
-Student Ambassadors.
+number of students that have worked at Google through their internship program
+and their support for the [Google Summer of Code project](http://code.google.com/soc/).
+Some of our community members are Google Student Ambassadors.
 
 **Google has sponsored the [Community Development Lab](http://cdl.rosedu.org/)
 and the [Web Development Course](http://webdev.rosedu.org/).**
@@ -60,6 +89,7 @@ We review applications on an ongoing basis; as projects are allocated to
 successful candidates soon after we interview them, to maximize your chances of
 success we encourage you to apply as early as possible in the academic year.
 
+
 ### [Intel](http://www.intel.com/)
 
 Intel is actively supporting open source through the opening of the Intel Open
@@ -84,38 +114,27 @@ in nature.
 Work performed within generally defined parameters. Some degree
 of judgment required in resolving non-standard problems.
 
-### [Adobe](http://myadobe.ro/)
-
-Adobe is one of the main attractions for students from the faculty, either as interns or employees. It has sound contributions to open source projects such as WebKit and Hadoop and has always been open to our projects and ideas.
-
-**Adobe has sponsored the [Open Source Summer School](http://open-source.cs.pub.ro/summer-school/) and [ROSEdu Summer of Code](http://soc.rosedu.org/) and has supported [Hack Day](http://hackday.rosedu.org/).**
-
-**[Developer Position in Digital Publishing]**
-
-**Since**: October 21, 2012
-
-Apply: contact Cristina Mincu (<cmincu@adobe.com>)
-
-The position is for a fresh graduate student (college diploma obtained in the
-previous 12 months) for the [Digital Publishing
-suite](http://www.adobe.com/products/digital-publishing-suite-family.html).
-
-We are cutting edge end to end (not only due to the technologies used but also
-due to the devices. The team is really cool, a mix of very young people super
-smart and experienced gurus from whom you can learn a lot. This experience is
-something you meet once in a lifetime!
-
-We are looking for people who are enthusiastic, creative, who have desire to
-innovate, who enjoy technical challenges and are capable of proposing and
-evaluating a solution against requirements. Exposure to Java or C/C++ is
-required and we value exposure to iOS and Android programming and web
-technologies. Object oriented design principles and design patterns is a plus.
-
 ### [Ixia](http://www.ixiacom.com/)
 
 Ixia has had a continuous involved in the Faculty of Automatic Control and Computers since 2006. With Ixia focusing on Linux-based technologies and support open source projects and activities in the faculty, we are glad to have a healty partnership. Many members of the community are or have been actively involved in Ixia activities, as employees, interns or collaborators.
 
 **Ixia has supported ROSEdu trips and team buildings.**
+
+## Sponsors
+
+### [Allevo](http://www.allevo.ro/)
+
+Allevo is focused on business products and high-quality services. The have
+adopted the idea of promoting producs as open source available engines. We
+value their professionalism and openness.
+
+**Allevo has sponsored [ROSEdu Summer of Code](http://soc.rosedu.org/).**
+
+### [ANIS](http://www.anis.ro/), [CRIsoft](http://www.crisoft.ro/)
+
+ANIS (Asociația Patronală a Industriei de Software și Servicii) gathers all the important software companies in Romania. We are happy to have dicussed with members of ANIS and to have received their support.
+
+**CRIsoft, through ANIS, has sponsored the [Linux Install Fest](http://lif.rosedu.org).**
 
 ### [Bitdefender](http://www.bitdefender.ro/)
 
@@ -135,13 +154,20 @@ Their knowledge has been put to use in ROSEdu projects.
 **Eau de Web has sponsored [World of USO](http://wouso.rosedu.org/), the
 [Community Development Lab](http://cdl.rosedu.org/) and [Hack Day](http://hackday.rosedu.org/).**
 
-### [Allevo](http://www.allevo.ro/)
+### [Eloquentix](http://www.eloquentix.com/)
 
-Allevo is focused on business products and high-quality services. The have
-adopted the idea of promoting producs as open source available engines. We
-value their professionalism and openness.
+Eloquentix is a dynamic company providing one of the best Ruby and web
+developers around.
 
-**Allevo has sponsored [ROSEdu Summer of Code](http://soc.rosedu.org/).**
+**Eloquentix has supported and sponsored the [Web Development Course](http://webdev.rosedu.org/).**
+
+### [Intendo](http://intendo.ro/)
+
+Intendo offers students the ability to build up their skills and focus on
+personal development. They provide a set of informal classes, each of them
+focusing on a different ability (also known as soft skill).
+
+**Intendo offers discounts for their soft skills classes to students recommended by ROSEdu.**
 
 ### [Korect](http://www.korect.ro/)
 
@@ -151,33 +177,12 @@ Faculty of Automatic Control and Computers.
 
 **Korect has sponsored [ROSEdu Summer of Code](http://soc.rosedu.org/) and supported development of [World of USO](http://wouso.rosedu.org/).**
 
-### [Eloquentix](http://www.eloquentix.com/)
-
-Eloquentix is a dynamic company providing one of the best Ruby and web
-developers around.
-
-**Eloquentix has supported and sponsored the [Web Development Course](http://webdev.rosedu.org/).**
-
 ### [TeamNet](http://www.teamnet.ro/)
 
 TeamNet is a high profile software company in Romania focusing on a variety of
 business solutions.
 
 **TeamNet has sponsored the [Web Development Course](http://webdev.rosedu.org/).**
-
-### [ANIS](http://www.anis.ro/), [CRIsoft](http://www.crisoft.ro/)
-
-ANIS (Asociația Patronală a Industriei de Software și Servicii) gathers all the important software companies in Romania. We are happy to have dicussed with members of ANIS and to have received their support.
-
-**CRIsoft, through ANIS, has sponsored the [Linux Install Fest](http://lif.rosedu.org).**
-
-### [Intendo](http://intendo.ro/)
-
-Intendo offers students the ability to build up their skills and focus on
-personal development. They provide a set of informal classes, each of them
-focusing on a different ability (also known as soft skill).
-
-**Intendo offers discounts for their soft skills classes to students recommended by ROSEdu.**
 
 ### [Ubuntu Romania](http://ubuntu.ro/), [SUSE Romania](http://www.suseromania.ro/), [Fedora Romania](http://www.fedoraproject.ro/)
 
