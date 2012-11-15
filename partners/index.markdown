@@ -99,6 +99,17 @@ and education.
 
 **Intel has sponsored the [Summer Workshops](http://workshop.rosedu.org) and the [D'Android Course](http://android.rosedu.org).**
 
+**[Software Research Intern]**
+
+**Since**: November 15, 2012
+
+Apply:
+    [Romania](http://www.intel.com/jobs/jobsearch/index_rcg2.htm?job=700864&src=ML-1046)
+
+We are looking for master or PhD students willing to do research in the area of computer science and computer engineering.
+
+The research activities associated to this project can offer the background for a PhD thesis.
+
 **[Hardware Engineering Internship]**
 
 **Since**: October 5, 2012
