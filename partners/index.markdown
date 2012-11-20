@@ -80,21 +80,6 @@ We are looking for master or PhD students willing to do research in the area of 
 
 The research activities associated to this project can offer the background for a PhD thesis.
 
-**[Hardware Engineering Internship]**
-
-**Since**: October 5, 2012
-
-Apply:
-    [Romania](http://www.intel.com/jobs/jobsearch/index_rcg2.htm?job=627712&src=PA-10002)
-
-Responsible for conducting data collection and measurements in a lab
-environment. Also responsible for setup and configuration of various
-computer systems and networking components. Assignments are semi-routine
-in nature.
-
-Work performed within generally defined parameters. Some degree
-of judgment required in resolving non-standard problems.
-
 ### [Adobe](http://myadobe.ro/)
 
 Adobe is one of the main attractions for students from the faculty, either as interns or employees. It has sound contributions to open source projects such as WebKit and Hadoop and has always been open to our projects and ideas.
