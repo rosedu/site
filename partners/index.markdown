@@ -110,21 +110,6 @@ We are looking for master or PhD students willing to do research in the area of 
 
 The research activities associated to this project can offer the background for a PhD thesis.
 
-**[Hardware Engineering Internship]**
-
-**Since**: October 5, 2012
-
-Apply:
-    [Romania](http://www.intel.com/jobs/jobsearch/index_rcg2.htm?job=627712&src=PA-10002)
-
-Responsible for conducting data collection and measurements in a lab
-environment. Also responsible for setup and configuration of various
-computer systems and networking components. Assignments are semi-routine
-in nature.
-
-Work performed within generally defined parameters. Some degree
-of judgment required in resolving non-standard problems.
-
 ### [Ixia](http://www.ixiacom.com/)
 
 Ixia has had a continuous involved in the Faculty of Automatic Control and Computers since 2006. With Ixia focusing on Linux-based technologies and support open source projects and activities in the faculty, we are glad to have a healty partnership. Many members of the community are or have been actively involved in Ixia activities, as employees, interns or collaborators.
