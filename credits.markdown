@@ -3,8 +3,13 @@ layout: base
 ---
 
 {% include aboutnav.html %}
+<br>
 
-rosedu.org is an open-source project hosted on [GitHub](https://github.com/rosedu/site) and maintained by a group of enthusiast developers.
+## ROSEdu.org
+
+rosedu.org is an open-source project hosted on [GitHub](https://github.com/rosedu/site) under a [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) or [GNU FDL 1.3](http://www.gnu.org/copyleft/fdl.html) licence and maintained by a group of enthusiast developers. You can contact us at **site@rosedu.org**.
+
+<br>
 
 ## Tehnologies used
 
@@ -31,12 +36,7 @@ Licence: [MIT](http://en.wikipedia.org/wiki/MIT_License)
 
 ## Site team
 
-* Adrian Scoica
 * Alex Eftimie
-* Alex Morega
 * Camelia Groza
-* Cotofana Marius
 * Flavius Anton
-* Mihai Maruseac
-* Silviu Popescu
-* Vlad Dogaru
+* Marius Coțofană
