@@ -110,6 +110,20 @@ We are looking for master or PhD students willing to do research in the area of 
 
 The research activities associated to this project can offer the background for a PhD thesis.
 
+**[Software Benchmarking Engineer Intern]**
+
+**Since**: December 14, 2012
+
+Apply:
+    [Romania](http://www.intel.com/jobs/jobsearch/index_rcg2.htm?job=702486&src=DM-10080)
+
+This is an intersnhip position for 1 year with potential to extend.
+Responsible for conducting data collection and measurements in a lab
+environment. Also responsible for setup and configuration of various computer
+systems and networking components.
+
+You need to be a full-time Bachellor, Master, or PHD student.
+
 ### [Ixia](http://www.ixiacom.com/)
 
 Ixia has had a continuous involved in the Faculty of Automatic Control and Computers since 2006. With Ixia focusing on Linux-based technologies and support open source projects and activities in the faculty, we are glad to have a healty partnership. Many members of the community are or have been actively involved in Ixia activities, as employees, interns or collaborators.
