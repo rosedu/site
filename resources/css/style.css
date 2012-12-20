@@ -6,7 +6,7 @@
 }
 
 body {
-	background:#E1E1E1 url('resources/images/bg.png') center 0 no-repeat;
+	background:#E1E1E1 url('../images/bg.png') center 0 no-repeat;
 	color:#4D4D4D;
 	font-family:"Verdana", Arial;
 	font-size:12px;
@@ -63,7 +63,7 @@ div#header {
 }
 
 a#logo-header {
-	background:url('resources/images/logo-header.png') no-repeat;
+	background:url('../images/logo-header.png') no-repeat;
 	display:inline-block;
 	float:left;
 	height:85px;
@@ -71,7 +71,7 @@ a#logo-header {
 }
 
 div#header input#search {
-	background:url('resources/images/search-input.png') no-repeat;
+	background:url('../images/search-input.png') no-repeat;
 	color:#646464;
 	float:right;
 	height:27px;
@@ -82,7 +82,7 @@ div#header input#search {
 }
 
 div#header a#search-icon {
-	background:url('resources/images/search-icon.png') no-repeat;
+	background:url('../images/search-icon.png') no-repeat;
 	display:inline-block;
 	float:right;
 	height:27px;
@@ -90,7 +90,7 @@ div#header a#search-icon {
 }
 
 div#header a#auth-button {
-	background:url('resources/images/auth-button.png') no-repeat;
+	background:url('../images/auth-button.png') no-repeat;
 	color:#646464;
 	display:inline-block;
 	float:right;
@@ -105,7 +105,7 @@ div#header-right {
 }
 
 div#auth-form {
-	background:url('resources/images/auth-form.png') no-repeat;
+	background:url('../images/auth-form.png') no-repeat;
 	display:none;
 	height:193px;
 	text-align:center;
@@ -129,7 +129,7 @@ div#auth-form input {
 }
 
 div#auth-form input[type=submit] {
-	background:url('resources/images/button.png') repeat-x;
+	background:url('../images/button.png') repeat-x;
 	border:1px solid #A00028;
 	color:#FFFFFF;
 	float:right;
@@ -163,13 +163,13 @@ div.col-3 {
 }
 
 div.separator {
-	background:url('resources/images/separator.png') no-repeat;
+	background:url('../images/separator.png') no-repeat;
 	height:60px;
 	width:960px;
 }
 
 a#logo-footer {
-	background:url('resources/images/logo-footer.png') no-repeat;
+	background:url('../images/logo-footer.png') no-repeat;
 	display:inline-block;
 	float:left;
 	height:45px;
@@ -192,7 +192,7 @@ div#footer-menu {
 }
 
 div#flags-container {
-	background:url('resources/images/flags-bg.png') no-repeat;
+	background:url('../images/flags-bg.png') no-repeat;
 	width:73px;
 	height:27px;
 	float:right;
@@ -216,11 +216,11 @@ div#flags-container {
 }
 
 .ro-flag-grayed-out {
-	background:url('resources/images/ro-flag-grayed-out.png');
+	background:url('../images/ro-flag-grayed-out.png');
 }
 
 .ro-flag-full, #ro-flag:hover {
-	background:url('resources/images/ro-flag.png');
+	background:url('../images/ro-flag.png');
 }
 
 #en-flag {
@@ -228,11 +228,11 @@ div#flags-container {
 }
 
 .en-flag-grayed-out {
-	background:url('resources/images/en-flag-grayed-out.png');
+	background:url('../images/en-flag-grayed-out.png');
 }
 
 .en-flag-full, #en-flag:hover {
-	background:url('resources/images/en-flag.png');
+	background:url('../images/en-flag.png');
 }
 div.entry-meta {
     margin-left: 10px;
@@ -262,4 +262,9 @@ div.wrapper div.field {
     width: 45%;
     float: left;
     min-height: 180px;
+}
+
+div.calendar {
+	float: right;
+	width: 500px;
 }

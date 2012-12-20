@@ -2,31 +2,21 @@
 <html>
   <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+	<meta name="Description" content="ROSEdu este o organizație bazată pe o comunitate de oameni pasionați de programare și software liber, în mediul educațional." />
 	<title>ROSEdu - Romanian Open Source Education</title>
 	<link rel="shortcut icon" href="{{site.basepath}}resources/images/favicon.png" />
-	<link rel="stylesheet" type="text/css" href="{{site.basepath}}style.css" />
+	<link rel="stylesheet" type="text/css" href="{{site.basepath}}resources/css/style.css" />
 	<script type="text/javascript" src="{{site.basepath}}resources/js/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript" src="{{site.basepath}}resources/js/application.js"></script>
 	<script type="text/javascript" src="{{site.basepath}}resources/js/cufon-yui.js"></script>
-	<script type="text/javascript" src="{{site.basepath}}resources/js/Cambria_400.font.js"></script>
+	<script type="text/javascript"  src="{{site.basepath}}resources/js/Cambria_400_2300.font.js"></script>
 	<script type="text/javascript">
 	  Cufon.replace('h1, h2, h3');
 	  Cufon.replace('#header-menu', {hover:true});
 	</script>
-	{% if page.extra_head %}
-	<link rel="stylesheet" type="text/css" href="{{site.basepath}}resources/js/slidedeck-1.1.7-lite/slidedeck.skin.css" />
-	<!--[if IE]>
-	 <link rel="stylesheet" type="text/css" href="{{site.basepath}}resources/js/slidedeck-1.1.7-lite/slidedeck.skin.ie.css" />
-	<![endif]-->
-	<style type="text/css">
-	#slidedeck-frame {
-		height:300px;
-		margin:0 0 20px 0;
-		width:910px;
-	}
-	</style>
-	<script type="text/javascript" src="{{site.basepath}}resources/js/slidedeck-1.1.7-lite/slidedeck.jquery.lite.pack.js"></script>
-	{% endif %}
+        <link href="{{site.basepath}}resources/css/liteaccordion.css" rel="stylesheet" /><!-- liteAccordion css -->     
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script><!-- jQuery -->
+        <script src="{{site.basepath}}resources/js/liteaccordion.jquery.js"></script><!-- liteAccordion js -->
   </head>
   <body>
 	<div id="wrapper">
@@ -35,7 +25,7 @@
 
 		<div id="header-right">
 		<div id="flags-container">
-                    <a href="{{site.baseptah}}ro" id="ro-flag" class="flag ro-flag-full">
+                    <a href="/ro" id="ro-flag" class="flag ro-flag-full">
 				<h2>H</h2>
 			</a>
                         <a href="{{site.basepath}}" id="en-flag" class="flag en-flag-grayed-out">
@@ -54,9 +44,10 @@
 		<div id="header-menu">
 		  meniu[] = { <a href="{{site.basepath}}ro">acasă</a>,
           <a href="{{site.basepath}}ro/activities">activități</a>,
-          <a href="{{site.basepath}}ro/news">știri</a>,
+          <a href="{{site.basepath}}ro/news_0">știri</a>,
           <a href="{{site.basepath}}ro/aboutus">despre</a>,
-          <a href="{{site.basepath}}ro/contact">contact</a> };
+          <a href="{{site.basepath}}ro/contact">contact</a>,
+          <a href="{{site.basepath}}partners">parteneri</a> };
 		</div><!-- #header-menu -->
 
 		<div class="clear">
@@ -86,7 +77,7 @@
 		  <br />
 		  <a href="{{site.basepath}}ro">Acasă</a> |
           <a href="{{site.basepath}}ro/activities">Activități</a> |
-          <a href="{{site.basepath}}ro/news">Știri</a> |
+          <a href="{{site.basepath}}ro/news_0">Știri</a> |
           <a href="{{site.basepath}}ro/aboutus">Despre</a> |
           <a href="{{site.basepath}}ro/contact">Contact</a>
 		</div><!-- #footer-menu -->
@@ -100,5 +91,39 @@
 	<script type="text/javascript">
 	  Cufon.now();
 	</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '{{site.ganalytics}}']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+  
+	<script>
+	(function($, d) {
+	$('#accordion').liteAccordion({
+		containerWidth : 930,                   // fixed (px)  
+		containerHeight : 300, 
+		onTriggerSlide : function() {
+			this.find('figcaption').fadeOut();
+		},
+		onSlideAnimComplete : function() {    
+			this.find('figcaption').fadeIn();
+		},
+		autoPlay : false,
+		autoScaleImages : true,
+		pauseOnHover : true,
+		theme : 'light',
+		rounded : false,
+		easing: false,
+		enumerateSlides : false                  
+	}).find('figcaption:first').show();
+	})(jQuery, document);
+	</script>
+  
   </body>
 </html>

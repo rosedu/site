@@ -2,14 +2,17 @@
 layout: basero
 ---
 
+{% include contactnavro.html %}
+
 # Contact
 
 Ne puteți găsi online pe:
 
 
  * canal IRC: [#rosedu](http://webchat.freenode.net/?channels=rosedu) pe Freenode
- * [listele de discuții](http://lists.rosedu.org/listinfo) generale sau dedicate unor evenimente
+ * [listele de discuții](http://lists.rosedu.org/ro) generale sau dedicate unor evenimente
  * puteți vizualiza și [pagina proiectelor](https://projects.rosedu.org/)
+ * și nu uitați să treceți și pe la contul organizației de pe [GitHub](https://github.com/rosedu)!
 
 Putem fi găsiți și În sediul nostru din EG106c, din cadrul Universității &quot;POLITEHNICA&quot; București.
 

@@ -1,3 +1,7 @@
 *.pyc
+.*.sw*
+*~
+.directory
 _site
 files
+/ro/news_[0-9]*.*

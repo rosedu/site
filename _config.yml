@@ -1,7 +1,5 @@
+# this config is only for gh-pages
 exclude: fabfile.py fabfile.pyc
-permalink: pretty
 basepath: /site/
-url: http://rosedu.github.com/site
+url: http://www.rosedu.org
 paginate: 5
-
-ganalytics: UA-22208209-1
