@@ -43,4 +43,19 @@ Contacts:
 
    * 2011 - openSUSE - [http://swarm.cs.pub.ro/~alexef/gsoc/gsoc-suse.html](http://swarm.cs.pub.ro/~alexef/gsoc/gsoc-suse.html)
 
-Some pictures from the event are <a href="http://www.facebook.com/album.php?aid=90265&amp;id=1633356680&amp;l=e4669ce9f8">here</a>
+ * Mihnea Dobrescu Balaur [mihneadb at rosedu dot org]
+   
+   * 2011 - openSUSE - [proposal](/files/gsoc_mihneadb_2011.pdf)
+
+ * Alexandru Tomescu [alex.dan.tomescu at gmail dot com]
+   
+   * 2012 - CMUSphinx - [proposal](/files/gsoc_tomy_2012.pdf)
+
+ * Sorina Sandu [sorina at rosedu dot org]
+  
+   * 2012 - Debian - [proposal](http://wiki.debian.org/SummerOfCode2012/StudentApplications/SorinaSandu)
+
+ * Andrei Popescu 
+   
+   * 2012 - BRL-CAD [proposal on melange](http://www.google-melange.com/gsoc/proposal/review/google/gsoc2012/popescuandrei/4002) see also [another proposal](http://www.google-melange.com/gsoc/proposal/review/google/gsoc2012/popescuandrei/1)
+
