@@ -35,3 +35,35 @@ O galerie cu imagini de la evenimentele ROSEdu se găsește la: [media.rosedu.or
 Proiectele noastre de programare, sunt organizate pe [github](https://github.com/rosedu) sau la [projects.rosedu.org](http://projects.rosedu.org) (vezi și site-ul vechi, parțial migrat la: [dev.rosedu.org](http://dev.rosedu.org)).
  
 Dacă aveţi vreo curiozitate despre ROSEdu, nu ezitaţi să ne contactaţi.
+
+## Fii parte din ROSEdu
+
+Dacă ești pasionat de open source, educație și tehnologie, ești binevenit să ne ajuți să ne îndeplinim misiunea. Încurajăm pe toată lumea să urmărească activitățile noastre și să se implice.
+
+### Membru al Comunității
+
+Dacă vrei să fii parte a Comunității ROSEdu, tot ceea ce trebuie să faci este să te înscrii pe [lista de discuții a Comunității](http://lists.rosedu.org/listinfo/rosedu-general) și să urmărești [canalul de IRC #rosedu](http://webchat.freenode.net/?channels=rosedu).
+
+Există o mulțime de discuții legate de evenimente și proiecte la care poți participa. Agreem diversitatea și suntem convinși că orice persoană dornică poate contribui la activitățile comunității.
+
+### Membru susținător al Asociației ROSEdu
+
+Dacă dorești o recunoaștere formală a contribuțiilor tale și a aderenței la misiunea și valorile noastre, te invitităm să te alături [Asociației ROSEdu](http://www.rosedu.org/asociatia/) ca membru susținător.
+
+Pentru a deveni membru susținător al Asociației ROSEdu trebuie să îți fi dovedit calitățile în comunitate și va trebui să:
+* Citești [Statutul Asociației](http://www.rosedu.org/files/Asociatia_ROSEdu_Statut.pdf)
+* Completezi [Formularul de Adeziune](http://www.rosedu.org/files/Asociatia-ROSEdu_Formular-de-adeziune.pdf)
+* Obții recomandări din partea a trei membri ai Asociației
+* Contactezi Consiliul Director al Asociației la [consiliu@rosedu.org](mailto:consiliu@rosedu.org?subject=%5BAdeziune%20membru%20sustinator%5D%20)
+
+### Membru asociat al Asociației ROSEdu
+
+Dacă îți propui să te implici în coordonarea Asociației sau să ai un cuvânt de spus legat de modul de desfășurare a lucrurilor sau să devii un susținător ferm al misiunii ROSEdu, atunci calea de urmat este adeziunea ca membru asociat.
+
+Pentru a deveni membru asociat trebuie să fii pregătit să investești timp în aspecte finaciare, juridice și birocratice ale Asociației și să:
+* Citești [Statutul Asociației](http://www.rosedu.org/files/Asociatia_ROSEdu_Statut.pdf)
+* Completezi [Formularul de Adeziune](http://www.rosedu.org/files/Asociatia-ROSEdu_Formular-de-adeziune.pdf)
+* Contactezi Consiliul Director al Asociației la [consiliu@rosedu.org](mailto:consiliu@rosedu.org?subject=%5BAdeziune%20membru%20asociat%5D%20)
+* Primești aprobarea Adunării Generale a Asociației
+
+Ca membru asociat, vei plăti o cotizație lunară de membru a cărei valoare este stabilită anual de Consiliul Director.
