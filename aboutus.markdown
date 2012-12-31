@@ -47,7 +47,7 @@ We welcome people that are fond of open source, education and technology to help
 
 If you want to be part of the ROSEdu Community all you have to do is to subscribe to the [Community mailing list](http://lists.rosedu.org/listinfo/rosedu-general) and join the [#rosedu IRC channel](http://webchat.freenode.net/?channels=rosedu).
 
-There are plenty of discussions on events and projects where you can get involved. We are fond of diversity and am sure everyone can successfully contribute to our activities.
+There are plenty of discussions on events and projects where you can get involved. We are fond of diversity and anyone can successfully contribute to our activities.
 
 ### Supporting Member of the ROSEdu Association
 
