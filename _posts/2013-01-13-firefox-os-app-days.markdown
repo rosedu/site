@@ -6,7 +6,8 @@ title: Firefox OS App Days
 category: en
 ---
 
-On Saturday, the 26th of January 2013, we invite you to [Firefox OS App Days](http://firefoxosappdaybucharest.eventbrite.com/#). Firefox OS App Days is an event dedicated to web apps; we welcome you to join Mozilla in launchin its new operating system [Firefox OS](http://firefoxosappdaybucharest.eventbrite.com/#).
+On Saturday, the 26th of January 2013, we invite you to [Firefox OS App
+Days](http://firefoxosappdaybucharest.eventbrite.com/#). Firefox OS App Days is an event dedicated to web apps; we welcome you to join Mozilla in launching its new operating system [Firefox OS](http://firefoxosappdaybucharest.eventbrite.com/#).
 
 Please bring your laptops, mobile devices and apps you would like to show or ideas for apps you would like to build.
 
