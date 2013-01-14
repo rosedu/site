@@ -31,7 +31,7 @@ def create_paginations():
 
 def devel():
     create_paginations()
-    local('jekyll --auto --serve')
+    local('jekyll --auto --serve 8000')
 
 
 def build():
