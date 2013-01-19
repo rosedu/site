@@ -6,20 +6,17 @@ layout: base
 
 ## ROSEdu Association
 
-Founded in 2009, Asociația ROSEdu is a non-profit NGO supporting ROSEdu community's activities.
+Founded in 2009, "Asociația ROSEdu" is a non-profit organization supporting the activities of the ROSEdu community.
 
 ### Now
 
-Currently there are 35 members in Asociația ROSEdu, led by a Board of Directors consisting of:
+"Asociația ROSEdu" consists of full members and supporting members, led by a Board of Directors consisting of:
 
- * Laura Vasilescu (President)
- * Răzvan Deaconescu
- * Alex Eftimie
- * Dan Filimon
- * Alex Morega
- * Claudia Călinescu
- * Victor Cărbune
- * Adrian Scoică
+ * Răzvan Deaconescu (President)
+ * Răzvan Rughiniș
+ * Mircea Bardac
+
+See all members of the organization [here](https://docs.google.com/spreadsheet/pub?key=0Ai6_as_hLrdodHp5dGczTlNlLUtHNUVMT3NJMFJBMmc&output=html).
 
 <br />
 
