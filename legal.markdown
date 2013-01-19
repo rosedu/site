@@ -10,7 +10,7 @@ Founded in 2009, "Asociația ROSEdu" is a non-profit organization supporting the
 
 ### Now
 
-"Asociația ROSEdu" consists of full members and supporting members, led by a Board of Directors consisting of:
+"Asociația ROSEdu" consists of full members and supporting members, led by the Board of Directors consisting of:
 
  * Răzvan Deaconescu (President)
  * Răzvan Rughiniș
@@ -18,17 +18,13 @@ Founded in 2009, "Asociația ROSEdu" is a non-profit organization supporting the
 
 See all members of the organization [here](https://docs.google.com/spreadsheet/pub?key=0Ai6_as_hLrdodHp5dGczTlNlLUtHNUVMT3NJMFJBMmc&output=html).
 
-<br />
-
 ### Legal
 
 **Asociația "ROSEDU"** <br />
 București, sector 6, Str. Splaiul Independenței 313, sala EG106c, 060042 <br />
 C.I.F.: 25852660 <br />
 IBAN: RO98BTRL04501205R50291XX <br />
-Bank: Banca Transilvania S.A, Agenția Știrbei Vodă <br />
-
-<br />
+Bank: Banca Transilvania S.A., Agenția Știrbei Vodă <br />
 
 ### Attachments
 
