@@ -36,6 +36,7 @@ Proiectele noastre de programare, sunt organizate pe [github](https://github.com
  
 Dacă aveţi vreo curiozitate despre ROSEdu, nu ezitaţi să ne contactaţi.
 
+<div id="joinus"></div>
 ## Fii parte din ROSEdu
 
 Dacă ești pasionat de open source, educație și tehnologie, ești binevenit să ne ajuți să ne îndeplinim misiunea. Încurajăm pe toată lumea să urmărească activitățile noastre și să se implice.

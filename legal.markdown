@@ -16,11 +16,14 @@ Founded in 2009, "Asociația ROSEdu" is a non-profit organization supporting the
  * Răzvan Rughiniș
  * Mircea Bardac
 
+If you would like to be part of the organization, check the [Join Us][aboutus] section.
+
 See all members of the organization [here](https://docs.google.com/spreadsheet/pub?key=0Ai6_as_hLrdodHp5dGczTlNlLUtHNUVMT3NJMFJBMmc&output=html).
 
 We maintain a [Q&A page][qa] (in Romanian) with legal and accounting information about running a non-profit.
 
 [qa]: http://rosedu.github.com/legal-qa/qa.html
+[aboutus]: {{site.basepath}}aboutus#joinus
 
 ### Legal
 

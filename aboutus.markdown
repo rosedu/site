@@ -39,6 +39,7 @@ An aggregated version of our blogs, can be found at: [planet.rosedu.org](http://
 Our programming projects are organized on [github](https://github.com/rosedu) or at [projects.rosedu.org](http://projects.rosedu.org/projects) (also check out the old site, partially migrated at: [dev.rosedu.org](http://dev.rosedu.org)).
 If you're interested about ROSEdu and have any questions don't hesitate to contact us using the contact option from the menu.
 
+<div id="joinus"></div>
 ## Join Us
 
 We welcome people that are fond of open source, education and technology to help us fulfill our mission. We encourage everyone to check out our activities and get involved.
