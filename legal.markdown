@@ -20,7 +20,7 @@ If you would like to be part of the organization, check the [Join Us][aboutus] s
 
 See all members of the organization [here][members].
 
-We maintain a [Q&A page][qa] (in Romanian) with legal and accounting information about running a non-profit.
+We maintain a [Q&A page][qa] (in Romanian) with legal and accounting information about running a non-profit organization.
 
 [qa]: http://rosedu.github.com/legal-qa/qa.html
 [aboutus]: {{site.basepath}}aboutus#joinus
