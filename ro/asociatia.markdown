@@ -20,6 +20,9 @@ Dacă vrei să fii parte a Comunității ROSEdu, urmărește secțiunea [Fii par
 
 Lista completă a membrilor Asociației ROSEdu este disponibilă [aici][membri].
 
+Menținem o [pagină de Q&A][qa] (în limba română) cu informații de natură juridică și financiară legate de funcționarea unei organizații non-profit.
+
+[qa]: http://rosedu.github.com/legal-qa/qa.html
 [aboutus]: {{site.basepath}}ro/aboutus#joinus
 [membri]: https://docs.google.com/spreadsheet/pub?key=0Ai6_as_hLrdodHp5dGczTlNlLUtHNUVMT3NJMFJBMmc&output=html
 
