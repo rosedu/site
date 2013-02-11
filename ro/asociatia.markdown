@@ -16,9 +16,15 @@ Asociația ROSEdu cuprinde membri activi și membri susținători, conduși de C
  * Răzvan Rughiniș
  * Mircea Bardac
 
-Dacă vrei să fii parte a Comunității ROSEdu, urmărește secțiunea [Fii parte din ROSEdu]({{site.basepath}}ro/aboutus#joinus).
+Dacă vrei să fii parte a Comunității ROSEdu, urmărește secțiunea [Fii parte din ROSEdu][aboutus].
 
-Lista completă a membrilor Asociației ROSEdu este disponibilă [aici](https://docs.google.com/spreadsheet/pub?key=0Ai6_as_hLrdodHp5dGczTlNlLUtHNUVMT3NJMFJBMmc&output=html).
+Lista completă a membrilor Asociației ROSEdu este disponibilă [aici][membri].
+
+Menținem o [pagină de Q&A][qa] (în limba română) cu informații de natură juridică și financiară legate de funcționarea unei organizații non-profit.
+
+[qa]: http://rosedu.github.com/legal-qa/qa.html
+[aboutus]: {{site.basepath}}ro/aboutus#joinus
+[membri]: https://docs.google.com/spreadsheet/pub?key=0Ai6_as_hLrdodHp5dGczTlNlLUtHNUVMT3NJMFJBMmc&output=html
 
 ### Juridic
 
