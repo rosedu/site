@@ -36,6 +36,7 @@ extra_head: False
 <p>
         You are welcome to our <a href="http://facebook.com/rosedu.org">Facebook</a>, <a href="http://twitter.com/rosedu_org">Twitter</a> or <a href="https://plus.google.com/114233516141809762907">Google+</a> pages. You may also check out our community's trips and attended events around the world on the <a href="http://goo.gl/maps/NV4ZP">Map</a>.</p>
 <p>
+    <a href="{{site.basepath}}irc"><img alt="" src="{{site.basepath}}resources/images/button-irc.png" style="float: right; width: 48px; height: 48px;" /></a>
     <a href="http://planet.rosedu.org/rss20.xml"><img alt="" src="{{site.basepath}}resources/images/button-rss.png" style="float: right; width: 48px; height: 48px;" /></a>
     <a href="http://goo.gl/maps/NV4ZP"><img alt="" src="{{site.basepath}}resources/images/button-googlemaps.png" style="float: right; width: 48px; height: 48px;" /></a>
     <a href="https://plus.google.com/114233516141809762907?prsrc=3" style="text-decoration: none;"><img src="{{site.basepath}}resources/images/button-googleplus.png" style="float: right; width: 48px; height: 48px;" /></a> 
