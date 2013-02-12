@@ -27,6 +27,26 @@ layout: base
         </div>
     </div>
 
+    <div class="field">
+        <div class="field-title">
+            <h3><a href="http://uc.rosedu.org" target="_blank">Upstream Challenge</a></h3>
+        </div>
+
+        <div class="field-teaser">
+            <div class="field-content">
+            <p>
+            Upstream Challenge is a competition addressed to all bachelor students in which
+            we encourage them to contribute to Open Source projects with relevant patches.
+            In this way, they will become accustomed and attached to some projects, becoming
+            core contributors there.
+            </p>
+            </div>
+        </div>
+
+        <div class="views-field-field-imagine-proiect-fid">
+                <h3><img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_uc.png" /></h3>
+        </div>
+    </div>
 
     <div class="field">
         <div class="field-title">
