@@ -2,8 +2,8 @@
 layout: base
 ---
 
-{% include aboutnav.html %}
+{% include irc.html %}
 
-## Talk to us on IRC
+## Chat with us on IRC
 
 <iframe width="647" height="400" src='http://webchat.freenode.net?channels=rosedu&amp;uio=d4' frameborder="0">   </iframe>
