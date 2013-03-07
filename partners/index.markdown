@@ -173,7 +173,7 @@ Contact:
 
 We are looking for a junior developer, willing to enhance his/her web development skills in PHP.
 
-We build software products using open source. Our toolbox includes Linux, Git, Python, Django, Zope, jQuery, CSS, Apache Solr, Nginx, Drupa, LDAP and other packages as required. You'll be able to work in passionate and dynamic teams, write tests and do automatic deployment.
+We build software products using open source. Our toolbox includes Linux, Git, Python, Flask, Django, Zope, jQuery, CSS, Apache Solr, Nginx, Drupal, LDAP and other packages as required. You'll be able to work in passionate and dynamic teams, write tests and do automatic deployment.
 
 If you would like to join us or know more about this position, we would be happy if you would pass by for a discussion.
 
