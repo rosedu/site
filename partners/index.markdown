@@ -164,6 +164,19 @@ Their knowledge has been put to use in ROSEdu projects.
 **Eau de Web has sponsored [World of USO](http://wouso.rosedu.org/), the
 [Community Development Lab](http://cdl.rosedu.org/) and [Hack Day](http://hackday.rosedu.org/).**
 
+**[Junior Web Developer]**
+
+**Since**: March 7, 2013
+
+Contact:
+    [Eau de Web](http://www.eaudeweb.ro/#contact-us)
+
+We are looking for a junior developer, willing to enhance his/her web development skills in PHP.
+
+We build software products using open source. Our toolbox includes Linux, Git, Python, Flask, Django, Zope, jQuery, CSS, Apache Solr, Nginx, Drupal, LDAP and other packages as required. You'll be able to work in passionate and dynamic teams, write tests and do automatic deployment.
+
+If you would like to join us or know more about this position, we would be happy if you would pass by for a discussion.
+
 ### [Eloquentix](http://www.eloquentix.com/)
 
 Eloquentix is a dynamic company providing one of the best Ruby and web
