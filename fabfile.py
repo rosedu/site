@@ -11,7 +11,7 @@ def generate_file(page_no, template, pages):
         f.write(template.format(ppp=skip, ps=pskip, prev_page=prev, next_page=npage))
 
 def read_template():
-    with open('ro/news_template', 'r') as f:
+    with open('ro/_news_template', 'r') as f:
         template = f.read()
     return template
 
