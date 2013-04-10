@@ -117,12 +117,54 @@ The research activities associated to this project can offer the background for 
 Apply:
     [Romania](http://www.intel.com/jobs/jobsearch/index_rcg2.htm?job=702486&src=DM-10080)
 
-This is an intersnhip position for 1 year with potential to extend.
+This is an internship position for 1 year with potential to extend.
 Responsible for conducting data collection and measurements in a lab
 environment. Also responsible for setup and configuration of various computer
 systems and networking components.
 
 You need to be a full-time Bachellor, Master, or PHD student.
+
+**[Kernel Upstreaming Intern (Graduate)]**
+
+**Since**: April 8, 2013
+
+Apply:
+    [Romania](http://www.intel.com/jobs/jobsearch/index_rcg2.htm?job=708677&src=DM-10080)
+
+The intern will learn the basic steps of upstreaming contributions into the Linux mainline kernel version and will be in contact with kernel maintainers for requesting feedback and implementing required changes. From a technical point of view, the intern will work on a Linux kernel implementation of a TCP-like network transport protocol.
+
+The intern will be part of the Innovation and Pathfinding team in Intel Romania and will be join an effort to upstream contributions into the Linux mainline kernel version.
+
+Final bachelor year, MSc and PhD students are preferred.
+
+**[Mobile Connectivity Intern (Graduate)]**
+
+**Since**: April 8, 2013
+
+Apply:
+    [Romania](http://www.intel.com/jobs/jobsearch/index_rcg2.htm?job=708681&src=DM-10080)
+
+The intern will learn how to design and implement future network protocols and devices that allow seamless connectivity for end-users. From a technical point of view, the intern will work with wireless communication technologies (like WiFi and Bluetooth), zeroconf network configurations (like mDNS) and mobile devices (Android platform).
+
+Final bachelor year, MSc and PhD students are preferred.
+
+**[Tizen PC internship]**
+
+**Since**: April 8, 2013
+
+Apply:
+    [Romania](http://www.intel.com/jobs/jobsearch/index_rcg2.htm?job=708427&src=DM-10080)
+
+Intel is looking for a highly skilled Masters or PhD student. The successful candidate for this position will be responsible for creating and executing manual and automated tests for Tizen PC . This is a great opportunity to work as a part of a team and to deliver leading edge solutions to rapidly growing and evolving mobile technologies.
+
+**[Mobile Security Internship]**
+
+**Since**: April 8, 2013
+
+Apply:
+    [Romania](http://www.intel.com/jobs/jobsearch/index_rcg2.htm?job=707944&src=DM-10080)
+
+Intel is looking for a highly skilled Masters or PhD student. The successful candidate for this position will be responsible for developing white-box to black-box automated test tools against security APIs and Linux kernel drivers. This is a great opportunity to work as a part of a team and to deliver leading edge solutions to rapidly growing and evolving mobile security technologies. We are currently focusing on Tizen and Android operating systems.
 
 ### [Ixia](http://www.ixiacom.com/)
 
