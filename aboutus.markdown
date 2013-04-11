@@ -55,19 +55,21 @@ There are plenty of discussions on events and projects where you can get involve
 If you want a formal recognition of your contributions to our activites and adherence to our mission and values we invite you to join the [ROSEdu Association](http://www.rosedu.org/legal/) as a supporting member.
 
 In order to become a supporting member of the Association you must have proven your abilities in the community and have to:
-* Read the [Status of the Association](http://www.rosedu.org/files/Asociatia_ROSEdu_Statut.pdf)
-* Fill in the [Adhesion Form](http://www.rosedu.org/files/Asociatia-ROSEdu_Formular-de-adeziune.pdf)
-* Get three references from three existing members of the Association
-* Contact the Board of Directors at [consiliu@rosedu.org](mailto:consiliu@rosedu.org?subject=%5BAdeziune%20membru%20sustinator%5D%20)
+* Read the [Status of the Association](https://docs.google.com/document/d/1dNK9OBY0ilfq68GscWe9auYFkmJy5_w1N1qdciTw5b0/pub).
+* Read the [Internal Regulation Policy](https://docs.google.com/document/d/1xeFUTF28Ncb2E1doH3bhH-Terl2Wn-ap-eI9EB0kR70/pub).
+* Fill in the [Adhesion Form](https://docs.google.com/uc?export=download&id=0By6_as_hLrdobFBMRHF4WXBneDg).
+* Get three references from three existing members of the Association.
+* Contact the Board of Directors at [consiliu@rosedu.org](mailto:consiliu@rosedu.org?subject=%5BAdeziune%20membru%20sustinator%5D%20).
 
 ### Full Member of the ROSEdu Association
 
 If you would like to get involved in the management of the Association or to have a saying in the way things are going or to become a hard line supporter of our mission, then going for a full membership is the way to go.
 
 In order to become a full member you must be ready to invest time in financial, judicial and bureaucratic aspects of the Association and have to:
-* Read the [Status of the Association](http://www.rosedu.org/files/Asociatia_ROSEdu_Statut.pdf)
-* Fill in the [Adhesion Form](http://www.rosedu.org/files/Asociatia-ROSEdu_Formular-de-adeziune.pdf)
-* Contact the Board of Directors at [consiliu@rosedu.org](mailto:consiliu@rosedu.org?subject=%5BAdeziune%20membru%20asociat%5D%20)
-* Receive the approval of the General Assembly of the Association
+* Read the [Status of the Association](https://docs.google.com/document/d/1dNK9OBY0ilfq68GscWe9auYFkmJy5_w1N1qdciTw5b0/pub).
+* Read the [Internal Regulation Policy](https://docs.google.com/document/d/1xeFUTF28Ncb2E1doH3bhH-Terl2Wn-ap-eI9EB0kR70/pub).
+* Fill in the [Adhesion Form](https://docs.google.com/uc?export=download&id=0By6_as_hLrdobFBMRHF4WXBneDg).
+* Contact the Board of Directors at [consiliu@rosedu.org](mailto:consiliu@rosedu.org?subject=%5BAdeziune%20membru%20asociat%5D%20).
+* Receive the approval of the General Assembly of the Association.
 
 As a full member of the ROSEdu Association, you will provide a monthly membership fee the value of which is set yearly by the Board of Directors.
