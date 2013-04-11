@@ -34,10 +34,11 @@ București, sector 6, Str. Splaiul Independenței 313, sala EG106c, 060042 <br /
 IBAN: RO98BTRL04501205R50291XX <br />
 Banca: Banca Transilvania S.A., Agenția Știrbei Vodă <br />
 
-### Atașamente
+### Documente și formulare
 
- * [Statut]({{site.basepath}}files/Asociatia_ROSEdu_Statut.pdf)
- * [Act Constitutiv]({{site.basepath}}files/Asociatia_ROSEdu_Act_Constitutiv.pdf)
- * [Formular de Adeziune]({{site.basepath}}files/Asociatia-ROSEdu_Formular-de-adeziune.pdf)
- * [Formular 230]({{site.basepath}}files/Decl_230_ROSEdu.pdf)
- * [Formular 200]({{site.basepath}}files/Decl_200_ROSEdu.pdf)
+ * [Statut](https://docs.google.com/document/d/1dNK9OBY0ilfq68GscWe9auYFkmJy5_w1N1qdciTw5b0/pub)
+ * [Act constitutiv](https://docs.google.com/document/d/1hJtfJ08vcbXK06DYZMA_c4z82CWUpGAmCqzZ97qBykg/pub)
+ * [Regulament de ordine interioară](https://docs.google.com/document/d/1xeFUTF28Ncb2E1doH3bhH-Terl2Wn-ap-eI9EB0kR70/pub)
+ * [Formular de adeziune](https://docs.google.com/uc?export=download&id=0By6_as_hLrdobFBMRHF4WXBneDg)
+ * [Formular 200](https://docs.google.com/uc?export=download&id=0By6_as_hLrdoMXBMaVM3Y05nQjQ)
+ * [Formular 230](https://docs.google.com/uc?export=download&id=0By6_as_hLrdoYzJLN3B4TlJUNEE)
