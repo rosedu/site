@@ -12,8 +12,15 @@ Fondată în 2009, Asociația ROSEdu este o organizație non-profit care susțin
 
 Asociația ROSEdu cuprinde membri activi și membri susținători, conduși de Consiliul Director alcătuit din:
 
- * Răzvan Deaconescu (Președinte)
+ * Laura Vasilescu (Președinte)
+ * Gabriel Voicu
+ * Andrei Maruseac
+
+Asociația ROSEdu a fost fondată de:
+
  * Răzvan Rughiniș
+ * Răzvan Deaconescu
+ * George Milescu
  * Mircea Bardac
 
 Dacă vrei să fii parte a Comunității ROSEdu, urmărește secțiunea [Fii parte din ROSEdu][aboutus].
