@@ -242,13 +242,6 @@ Faculty of Automatic Control and Computers.
 
 **Korect has sponsored [ROSEdu Summer of Code](http://soc.rosedu.org/) and supported development of [World of USO](http://wouso.rosedu.org/).**
 
-### [TeamNet](http://www.teamnet.ro/)
-
-TeamNet is a high profile software company in Romania focusing on a variety of
-business solutions.
-
-**TeamNet has sponsored the [Web Development Course](http://webdev.rosedu.org/).**
-
 ### [Ubuntu Romania](http://ubuntu.ro/), [SUSE Romania](http://www.suseromania.ro/), [Fedora Romania](http://www.fedoraproject.ro/)
 
 Local Romanian Linux communities are always prepared to lend us their support
