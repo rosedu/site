@@ -166,6 +166,24 @@ Apply:
 
 Intel is looking for a highly skilled Masters or PhD student. The successful candidate for this position will be responsible for developing white-box to black-box automated test tools against security APIs and Linux kernel drivers. This is a great opportunity to work as a part of a team and to deliver leading edge solutions to rapidly growing and evolving mobile security technologies. We are currently focusing on Tizen and Android operating systems.
 
+**[Android Research Intern]**
+
+**Since**: September 14, 2013
+
+Apply:
+    [Romania](http://www.intel.com/content/www/us/en/jobs/job-search/rcg2.html?job=719555&src=DM-10080)
+
+The project is a research initiative from Intel targeted at providing a working solution to the HW and software fragmentation issue that divides devices around us. The project aims at creating a new method of communication between different platforms powered by today's most popular operating systems.
+
+**[Software Engineer Intern]**
+
+**Since**: September 14, 2013
+
+Apply:
+    [Romania](http://www.intel.com/content/www/us/en/jobs/job-search/rcg2.html?job=719549&src=DM-10080)
+
+The intern assists in creating applications and environment systems which automatically test and determine the quality of the software products developed by the team. Debugs software products through the use of automated and manual test applications. Analyzes test results to ensure correct functionality.
+
 ### [Ixia](http://www.ixiacom.com/)
 
 Ixia has had a continuous involved in the Faculty of Automatic Control and Computers since 2006. With Ixia focusing on Linux-based technologies and support open source projects and activities in the faculty, we are glad to have a healty partnership. Many members of the community are or have been actively involved in Ixia activities, as employees, interns or collaborators.
