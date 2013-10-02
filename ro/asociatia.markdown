@@ -40,6 +40,8 @@ București, sector 6, Str. Splaiul Independenței 313, sala EG106c, 060042 <br /
 (C.I.F): 25852660 <br />
 IBAN: RO98BTRL04501205R50291XX <br />
 Banca: Banca Transilvania S.A., Agenția Știrbei Vodă <br />
+Codul Swift: BTRLRO22 <br />
+Adresa bancii: 97 - 99 Calea Stirbei Voda, Bucharest, Romania, 010108 <br />
 
 ### Documente și formulare
 
