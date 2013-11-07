@@ -48,6 +48,7 @@ Adresa bancii: 97 - 99 Calea Stirbei Voda, Bucharest, Romania, 010108 <br />
  * [Statut](https://docs.google.com/document/d/1dNK9OBY0ilfq68GscWe9auYFkmJy5_w1N1qdciTw5b0/pub)
  * [Act constitutiv](https://docs.google.com/document/d/1hJtfJ08vcbXK06DYZMA_c4z82CWUpGAmCqzZ97qBykg/pub)
  * [Regulament de ordine interioară](https://docs.google.com/document/d/1xeFUTF28Ncb2E1doH3bhH-Terl2Wn-ap-eI9EB0kR70/pub)
- * [Formular de adeziune](https://docs.google.com/uc?export=download&id=0By6_as_hLrdobFBMRHF4WXBneDg)
+ * [Formular de adeziune](https://docs.google.com/uc?export=download&id=0By6_as_hLrdobFBMRHF4WXBneDg) (pentru calitate de membru susținător)
+ * [Cerere de adeziune](https://docs.google.com/uc?export=download&id=0By6_as_hLrdob0FwRFVpQmNnckE) (pentru calitate de membru asociat)
  * [Formular 200](https://docs.google.com/uc?export=download&id=0By6_as_hLrdoMXBMaVM3Y05nQjQ)
  * [Formular 230](https://docs.google.com/uc?export=download&id=0By6_as_hLrdoYzJLN3B4TlJUNEE)

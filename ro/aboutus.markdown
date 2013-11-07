@@ -54,7 +54,7 @@ Dacă dorești o recunoaștere formală a contribuțiilor tale și a aderenței 
 Pentru a deveni membru susținător al Asociației ROSEdu trebuie să îți fi dovedit calitățile în comunitate și va trebui să:
 * Citești [Statutul Asociației](https://docs.google.com/document/d/1dNK9OBY0ilfq68GscWe9auYFkmJy5_w1N1qdciTw5b0/pub).
 * Citești [Regulamentul de ordine interioară](https://docs.google.com/document/d/1xeFUTF28Ncb2E1doH3bhH-Terl2Wn-ap-eI9EB0kR70/pub).
-* Completezi [Formularul de Adeziune](https://docs.google.com/uc?export=download&id=0By6_as_hLrdobFBMRHF4WXBneDg).
+* Completezi [Formularul de adeziune](https://docs.google.com/uc?export=download&id=0By6_as_hLrdobFBMRHF4WXBneDg).
 * Obții recomandări din partea a trei membri ai Asociației.
 * Contactezi Consiliul Director al Asociației la [consiliu@rosedu.org](mailto:consiliu@rosedu.org?subject=%5BAdeziune%20membru%20sustinator%5D%20).
 
@@ -65,7 +65,7 @@ Dacă îți propui să te implici în coordonarea Asociației sau să ai un cuv�
 Pentru a deveni membru asociat trebuie să fii pregătit să investești timp în aspecte finaciare, juridice și birocratice ale Asociației și să:
 * Citești [Statutul Asociației](https://docs.google.com/document/d/1dNK9OBY0ilfq68GscWe9auYFkmJy5_w1N1qdciTw5b0/pub).
 * Citești [Regulamentul de ordine interioară](https://docs.google.com/document/d/1xeFUTF28Ncb2E1doH3bhH-Terl2Wn-ap-eI9EB0kR70/pub).
-* Completezi [Formularul de Adeziune](https://docs.google.com/uc?export=download&id=0By6_as_hLrdobFBMRHF4WXBneDg).
+* Completezi [Cererea de adeziune](https://docs.google.com/uc?export=download&id=0By6_as_hLrdob0FwRFVpQmNnckE).
 * Contactezi Consiliul Director al Asociației la [consiliu@rosedu.org](mailto:consiliu@rosedu.org?subject=%5BAdeziune%20membru%20asociat%5D%20).
 * Primești aprobarea Adunării Generale a Asociației.
 

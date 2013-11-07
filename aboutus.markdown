@@ -68,7 +68,7 @@ If you would like to get involved in the management of the Association or to hav
 In order to become a full member you must be ready to invest time in financial, judicial and bureaucratic aspects of the Association and have to:
 * Read the [Status of the Association](https://docs.google.com/document/d/1dNK9OBY0ilfq68GscWe9auYFkmJy5_w1N1qdciTw5b0/pub).
 * Read the [Internal Regulation Policy](https://docs.google.com/document/d/1xeFUTF28Ncb2E1doH3bhH-Terl2Wn-ap-eI9EB0kR70/pub).
-* Fill in the [Adhesion Form](https://docs.google.com/uc?export=download&id=0By6_as_hLrdobFBMRHF4WXBneDg).
+* Fill in the [Adhesion Request Letter](https://docs.google.com/uc?export=download&id=0By6_as_hLrdob0FwRFVpQmNnckE).
 * Contact the Board of Directors at [consiliu@rosedu.org](mailto:consiliu@rosedu.org?subject=%5BAdeziune%20membru%20asociat%5D%20).
 * Receive the approval of the General Assembly of the Association.
 
