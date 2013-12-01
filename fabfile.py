@@ -1,5 +1,6 @@
-from fabric.api import local
+from fabric.api import local, lcd
 from os import walk
+from os.path import isdir
 
 skip = 5
 
@@ -39,7 +40,25 @@ def build():
     local('jekyll')
 
 
-def deploy():
+def deploy_old():
     build()
     local('rsync -rtv _site/ site@rosedu.org:public_html')
     local('rsync -rtv files/ site@rosedu.org:public_html/files/')
+
+def deploy():
+    git = lambda x: local('git --git-dir=../.git_deploy --work-tree=./ '+x)
+    if not isdir('.git_deploy'):
+        print 'Trying to clone the deploy repo on my own.'
+        local('rm -rf _site')
+        local("git clone -b gh-pages --separate-git-dir=.git_deploy `git remote -v|grep 'origin.*push'| tr ' ' '\t'|cut -f2`  _site")
+    
+    with lcd('_site'):
+        git('status')
+        git('pull')
+    build()
+    with lcd('_site'):
+        git('status')
+        git('add -f *')
+        git('status')
+        git('commit -a -m "" --allow-empty-message')
+        git('push')
