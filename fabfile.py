@@ -60,5 +60,5 @@ def deploy():
         git('status')
         git('add -f *')
         git('status')
-        git('commit -a -m "" --allow-empty-message')
+        git('commit -a -m "`git log -n1 --oneline`" ')
         git('push')
