@@ -1,9 +1,0 @@
----
-layout: basero
-date: 2010-01-11
-author: admin
-title: CDL 2010 on it&#039;s way
-category: ro
----
-<p>Ne pregătim pentru a doua ediție a Cursului de Dezvoltare liberă.<br />
-Pentru detalii, urmăriti pagina oficială a proiectului: <a href="http://cdl.rosedu.org">http://cdl.rosedu.org</a></p>

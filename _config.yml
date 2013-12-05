@@ -1,5 +1,0 @@
-# this config is only for gh-pages
-exclude: fabfile.py fabfile.pyc
-basepath: /site/
-url: http://www.rosedu.org
-paginate: 5

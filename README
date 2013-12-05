@@ -5,7 +5,7 @@ Requirements:
 	gem install jekyll
 
 Testing:
-	fab devel #then open http://localhost:4000 in a browser
+	fab devel #then open http://localhost:8000 in a browser
 Deploy:
 	fab deploy
 
