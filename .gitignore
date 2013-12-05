@@ -3,6 +3,5 @@
 *~
 .directory
 _site
-files
 /ro/news_[0-9]*.*
 .git_deploy
