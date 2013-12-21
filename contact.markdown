@@ -15,6 +15,20 @@ You can find us online using:
 
 You can visit us in our headquarters, EG106c, from &quot;POLITEHNICA&quot; University of Bucharest.
 
+
+We welcome and appreciate
+donations from individuals and corporations. They help us keep running
+things. If you want to do a donation, here are the details:
+
+**Asociația "ROSEDU"** <br />
+București, sector 6, Str. Splaiul Independenței 313, sala EG106c, 060042 <br />
+C.I.F.: 25852660 <br />
+IBAN: RO98BTRL04501205R50291XX <br />
+Bank: Banca Transilvania S.A., Agenția Știrbei Vodă <br />
+Bank Swift Code: BTRLRO22 <br />
+Bank Address: 97 - 99 Calea Stirbei Voda, Bucharest, Romania, 010108 <br />
+
+
 <div class="spacer">
     <!-- clear -->
 </div>
