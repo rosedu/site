@@ -15,10 +15,7 @@ You can find us online using:
 
 You can visit us in our headquarters, EG106c, from &quot;POLITEHNICA&quot; University of Bucharest.
 
-<<<<<<< HEAD
 <div class="spacer"> </div>
-
-=======
 
 We welcome and appreciate
 donations from individuals and corporations. They help us keep running
