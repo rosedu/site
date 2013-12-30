@@ -47,12 +47,9 @@ href="http://www.facebook.com/rosedu.org">Facebook</a>, <a href="http://twitter.
 asemenea, poți vedea pe <a href="http://goo.gl/maps/NV4ZP">Hartă</a> unde în lume au călătorit sau au mers la evenimente membri ai comunității.
 </p>
 <p>
-    <a href="{{site.basepath}}irc"><img alt="" src="{{site.basepath}}resources/images/button-irc.png" style="float: right; width: 48px; height: 48px;" /></a>
-    <a href="http://planet.rosedu.org/rss20.xml"><img alt="" src="{{site.basepath}}resources/images/button-rss.png" style="float: right; width: 48px; height: 48px;" /></a>
-    <a href="http://goo.gl/maps/NV4ZP"><img alt="" src="{{site.basepath}}resources/images/button-googlemaps.png" style="float: right; width: 48px; height: 48px;" /></a>
-    <a href="https://plus.google.com/114233516141809762907?prsrc=3" style="text-decoration: none;"><img src="{{site.basepath}}resources/images/button-googleplus.png" style="float: right; width: 48px; height: 48px;" /></a>·
-    <a href="http://twitter.com/rosedu_org"><img height="64" src="{{site.basepath}}resources/images/button-twitter.png" style="float: right; width: 48px; height: 48px;" /></a>
-    <a href="http://www.facebook.com/rosedu.org"><img alt="" src="{{site.basepath}}resources/images/button-facebook.png" style="float: right; width: 48px; height: 48px;" /></a>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F%23%21%2Fpages%2FROSEdu%2F111655162229859&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=80">
+    <!-- nothing here -->
+</iframe>
 </p>
   </div>
 </div><!-- .col-3 -->

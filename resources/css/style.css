@@ -100,10 +100,6 @@ div#header a#auth-button {
 	width:95px;
 }
 
-div#header-right {
-	padding: 25px 0px;
-}
-
 div#auth-form {
 	background:url('../images/auth-form.png') no-repeat;
 	display:none;
@@ -138,10 +134,10 @@ div#auth-form input[type=submit] {
 }
 
 div#header-menu {
-	float:right;
-	font-size:20px;
-	text-align:right;
-	padding: 5px 0px;
+	font-size:25px;
+	text-align:center;
+	padding: 10px 0px;
+	clear:both;
 }
 
 div#header-menu a {
@@ -168,18 +164,24 @@ div.separator {
 	width:960px;
 }
 
+div#footer {
+	height:100px;
+}
+
 a#logo-footer {
 	background:url('../images/logo-footer.png') no-repeat;
 	display:inline-block;
 	float:left;
 	height:45px;
 	width:190px;
+	margin-top:20px;
 }
 
 div#footer-menu {
 	float:right;
 	padding:10px 0 0 0;
 	text-align:right;
+	margin-top:15px;
 }
 
 .clear {
@@ -267,4 +269,61 @@ div.wrapper div.field {
 div.calendar {
 	float: right;
 	width: 500px;
+}
+
+.event-details {
+	font-size:13px;
+	padding-bottom:20px;
+}
+
+.event-date {
+	background:url('../images/event-date.png') left 0 no-repeat;
+	height:18px;
+	padding-left:25px;
+	padding-top:5px;
+	margin-left:10px;
+}
+
+.event-place {
+	background:url('../images/event-place.png') left 0 no-repeat;
+	height:18px;
+	padding-left:25px;
+	padding-top:5px;
+	margin-left:10px;
+}
+
+.event-link {
+	background:url('../images/event-link.png') left 0 no-repeat;
+	height:18px;
+	padding-left:25px;
+	padding-top:5px;
+	margin-left:10px;
+}
+
+.event-staff {
+	background:url('../images/event-staff.png') left 0 no-repeat;
+	height:18px;
+	padding-left:25px;
+	padding-top:5px;
+	margin-left:10px;
+}
+
+.footer-ul {
+	margin-top:5px;
+}
+
+.footer-ul li {
+	display:inline;
+	padding-left:10px;
+}
+
+.header-ul {
+	margin-top:5px;
+	margin-bottom:8px;
+	text-align: right;
+}
+
+.header-ul li {
+	display:inline;
+	padding-left:10px;
 }
