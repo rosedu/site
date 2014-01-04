@@ -25,16 +25,26 @@
 		<a href="/" id="logo-header"></a>
 
 		<div id="header-right">
-		<div id="flags-container">
-                    <a href="/ro" id="ro-flag" class="flag ro-flag-grayed-out">
-				<h2>H</h2>
-			</a>
-                        <a href="/" id="en-flag" class="flag en-flag-full">
-				<h2>H</h2>
-			</a>
-		</div>
+		<ul class="header-ul">
+		<li><a href="http://www.facebook.com/rosedu.org">
+			<img src="/resources/images/icon-facebook.png" /></a></li>
+		<li><a href="http://twitter.com/rosedu_org">
+			<img src="/resources/images/icon-twetter.png" /></a></li>
+		<li><a href="https://plus.google.com/114233516141809762907?prsrc=3">
+			<img src="/resources/images/icon-gplus.png" /></a></li>
+		<li><a href="http://www.youtube.com/user/roseduorg">
+			<img src="/resources/images/icon-ytube.png" /></a></li>
+		<li><a href="http://goo.gl/maps/NV4ZP">
+			<img src="/resources/images/icon-map.png" /></a></li>
+		<li><a href="http://planet.rosedu.org/rss20.xml">
+			<img src="/resources/images/icon-rss.png" /></a></li>
+		<li><a href="/irc">
+			<img src="/resources/images/icon-irc.png" /></a></li>
+		<li><a href="/ro">
+			<img src="/resources/images/icon-ro.png" /></a></li>
+		</ul>
 
-        <form action="http://www.google.com/search" class="navigation-search" method="get" name="form1">
+	<form action="http://www.google.com/search" class="navigation-search" method="get" name="form1">
             <a href="#" onclick="javascript:form1.submit()" id="search-icon"></a>
             <input id="search" class="search-query" name="q" placeholder="Search..." type="text">
             <input name="sitesearch" type="hidden" value="rosedu.org">
@@ -43,18 +53,17 @@
 		<!-- <a href="javascript:void(0);" id="auth-button">Autentificare</a> -->
 
 		<div id="header-menu">
-		  menu[] = { <a href="/">home</a>,
-          <a href="/activities">activities</a>,
-          <a href="/news">news</a>,
-          <a href="/aboutus">about us</a>,
-          <a href="/contact">contact</a>,
-          <a href="/partners">partners</a> };
+			menu[] = { <a href="/">home</a>,
+			<a href="/activities"> activities</a>,
+			<a href="/news"> news</a>,
+			<a href="/aboutus"> about us</a>,
+			<a href="/legal"> association</a>,
+			<a href="/contact"> contact</a>,
+			<a href="/partners"> partners</a>,
+			<a href="http://people.rosedu.org"> people</a>,
+			<a href="/events"> events</a> };
 		</div><!-- #header-menu -->
-
-
-		<div class="clear">
-		  <!-- -->
-		</div><!-- .clear -->
+		<div class="clear"></div>
 		</div>
 	  </div><!-- #header -->
 
@@ -65,7 +74,7 @@
         </div>
         
 
-<p>The 2012 ROSEdu Summer of Code has started!</p>
+	<p>The 2012 ROSEdu Summer of Code has started!</p>
 
 <p>Throughout the summer, eight students will contribute to an Open Source projects, while being guided along the way by members of the project&#8217;s community.</p>
 
@@ -79,28 +88,21 @@
 
 <p><a href='http://soc.rosedu.org/2012/'>http://soc.rosedu.org/2012/</a></p>
 
-	  <div class="separator clear">
-		<!-- -->
-	  </div><!-- .separator .clear -->
-
-	  <div id="footer">
+	<div class="separator clear"></div>
+	<div id="footer">
 		<a href="#" id="logo-footer"></a>
-
 		<div id="footer-menu">
-		  Copyright &copy; 2007 - 2013 <a href="#">ROSEdu</a>
-		  <br />
-		  <a href="/">Home</a> |
-          <a href="/activities">Activities</a> |
-          <a href="/news">News</a> |
-          <a href="/aboutus">About us</a> |
-          <a href="/credits">Credits</a> |
-          <a href="/contact">Contact</a>
-		</div><!-- #footer-menu -->
-
-		<div class="clear">
-		  <!-- -->
-		</div><!-- .clear -->
-	  </div><!-- #footer -->
+			Copyright &copy; 2007 - 2014 <a href="#">ROSEdu</a><br />
+			<ul class="footer-ul">
+			<li><a href="/">Home</a></li>
+			<li><a href="/activities">Activities</a></li>
+			<li><a href="/aboutus">About us</a></li>
+			<li><a href="/credits">Credits</a></li>
+			<li><a href="/contact">Contact</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div><!-- #footer -->
 	</div><!-- #wrapper -->
 
 	<script type="text/javascript">
@@ -140,6 +142,14 @@
 	}).find('figcaption:first').show();
 	})(jQuery, document);
 </script>
-  
+<script type="text/javascript">
+	$(function(){
+		$('.event-details').css('display','none');
+		$('.event-title').click(function(){
+			$(this).parent().next("div").slideToggle('slow');
+			return false;
+		});
+	});
+</script>
   </body>
 </html>

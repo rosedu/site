@@ -24,14 +24,24 @@
 		<a href="/ro" id="logo-header"></a>
 
 		<div id="header-right">
-		<div id="flags-container">
-                    <a href="/ro" id="ro-flag" class="flag ro-flag-full">
-				<h2>H</h2>
-			</a>
-                        <a href="/" id="en-flag" class="flag en-flag-grayed-out">
-				<h2>H</h2>
-			</a>
-		</div>
+                <ul class="header-ul">
+                <li><a href="http://www.facebook.com/rosedu.org">
+                        <img src="/resources/images/icon-facebook.png" /></a></li>
+                <li><a href="http://twitter.com/rosedu_org">
+                        <img src="/resources/images/icon-twetter.png" /></a></li>
+                <li><a href="https://plus.google.com/114233516141809762907?prsrc=3">
+                        <img src="/resources/images/icon-gplus.png" /></a></li>
+                <li><a href="http://www.youtube.com/user/roseduorg">
+                        <img src="/resources/images/icon-ytube.png" /></a></li>
+                <li><a href="http://goo.gl/maps/NV4ZP">
+                        <img src="/resources/images/icon-map.png" /></a></li>
+                <li><a href="http://planet.rosedu.org/rss20.xml">
+                        <img src="/resources/images/icon-rss.png" /></a></li>
+                <li><a href="/irc">
+                        <img src="/resources/images/icon-irc.png" /></a></li>
+                <li><a href="/">
+                        <img src="/resources/images/icon-en.png" /></a></li>
+                </ul>
 
         <form action="http://www.google.com/search" class="navigation-search" method="get" name="form1">
             <a href="#" onclick="javascript:form1.submit()" id="search-icon"></a>
@@ -42,12 +52,15 @@
 		<!-- <a href="javascript:void(0);" id="auth-button">Autentificare</a> -->
 
 		<div id="header-menu">
-		  meniu[] = { <a href="/ro">acasă</a>,
-          <a href="/ro/activities">activități</a>,
-          <a href="/ro/news_0">știri</a>,
-          <a href="/ro/aboutus">despre</a>,
-          <a href="/ro/contact">contact</a>,
-          <a href="/partners">parteneri</a> };
+			meniu[] = { <a href="/ro">acasă</a>,
+			<a href="/ro/activities"> activități</a>,
+			<a href="/ro/news_0"> știri</a>,
+			<a href="/ro/aboutus"> despre</a>,
+			<a href="/ro/asociatia"> asociatia</a>,
+			<a href="/ro/contact"> contact</a>,
+			<a href="/partners"> parteneri</a>,
+			<a href="http://people.rosedu.org"> oameni</a>,
+			<a href="/ro/evenimente"> evenimente</a> };
 		</div><!-- #header-menu -->
 
 		<div class="clear">
@@ -65,28 +78,21 @@
 
 <p>ROSEdu pregătește pentru lansarea versiunii 9.04 a popularei distribuții Ubuntu un tracker și o mini-fermă de seederi BitTorrent pentru imaginile ISO ale distribuției.</p><p>Legături către descărcări la: <a href='http://www.ubuntu.ro/obtineubuntu/torrent/' title='http://www.ubuntu.ro/obtineubuntu/torrent/'>http://www.ubuntu.ro/obtineubuntu/torrent/</a> .</p><p>Intră și tu în joc! Descarcă torrentele și fă seed.</p>
 
-	  <div class="separator clear">
-		<!-- -->
-	  </div><!-- .separator .clear -->
-
-	  <div id="footer">
-		<a href="#" id="logo-footer"></a>
-
-		<div id="footer-menu">
-		  Copyright &copy; 2007 - 2013 <a href="#">ROSEdu</a>
-		  <br />
-		  <a href="/ro">Acasă</a> |
-          <a href="/ro/activities">Activități</a> |
-          <a href="/ro/news_0">Știri</a> |
-          <a href="/ro/aboutus">Despre</a> |
-          <a href="/ro/credits">Credite</a> |
-          <a href="/ro/contact">Contact</a>
-		</div><!-- #footer-menu -->
-
-		<div class="clear">
-		  <!-- -->
-		</div><!-- .clear -->
-	  </div><!-- #footer -->
+	<div class="separator clear"></div>
+        <div id="footer">
+                <a href="#" id="logo-footer"></a>
+                <div id="footer-menu">
+                        Copyright &copy; 2007 - 2014 <a href="#">ROSEdu</a><br />
+                        <ul class="footer-ul">
+                        <li><a href="/ro">Acasa</a></li>
+                        <li><a href="/ro/activities">Activitati</a></li>
+                        <li><a href="/ro/aboutus">Despre</a></li>
+                        <li><a href="/ro/credits">Credite</a></li>
+                        <li><a href="/ro/contact">Contact</a></li>
+                        </ul>
+                </div>
+                <div class="clear"></div>
+        </div><!-- #footer -->
 	</div><!-- #wrapper -->
 
 	<script type="text/javascript">
@@ -104,7 +110,7 @@
   })();
   </script>
   
-	<script>
+<script>
 	(function($, d) {
 	$('#accordion').liteAccordion({
 		containerWidth : 930,                   // fixed (px)  
@@ -124,7 +130,18 @@
 		enumerateSlides : false                  
 	}).find('figcaption:first').show();
 	})(jQuery, document);
-	</script>
+</script>
+
+<script type="text/javascript">
+        $(function(){
+                $('.event-details').css('display','none');
+                $('.event-title').click(function(){
+                        $(this).parent().next("div").slideToggle('slow');
+                        return false;
+                });
+        });
+</script>
+
   
   </body>
 </html>
