@@ -32,12 +32,12 @@ def create_paginations():
 
 def devel():
     create_paginations()
-    local('jekyll --auto --serve 8000')
+    local('jekyll serve 8000')
 
 
 def build():
     create_paginations()
-    local('jekyll')
+    local('jekyll build')
 
 
 def deploy_old():

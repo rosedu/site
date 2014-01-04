@@ -6,7 +6,9 @@ extra_head: False
 <div id="accordion">
 	<ol>{% include slidedeck.html %}</ol>
 </div>
-<br><br><br>
+<br/>
+<br/>
+<br/>
 
 <div class="col-1">
   <h2>What ROSEdu is</h2>
@@ -16,7 +18,7 @@ extra_head: False
 <p>	We are mainly found in the Faculty of Automatic and Computer Science of Politehnica University of Bucharest and we began our activity in 2007.</p>
 <p>	<em>ROSEdu&#39;s mission is to initiate, support and develop education based on the values of Open Source.</em></p>
   </div>
-</div><!-- .col-1 -->
+</div>
 
 <div class="col-2">
   <h2>What we do</h2>
@@ -25,7 +27,7 @@ extra_head: False
 <p>	We are trying to bring the open source world closer to the people around us trough events like Linux Install Fest, <a href="http://talks.rosedu.org">ROSEdu Tech Talks</a> and <a href="http://cdl.rosedu.org">CDL</a>.</p>
 <p>	We are developing projects to learn and to help the community.</p>
   </div>
-</div><!-- .col-2 -->
+</div>
 
 <div class="col-3">
   <h2>How to contact us</h2>
@@ -41,4 +43,4 @@ extra_head: False
 </iframe>
 </p>
   </div>
-</div><!-- .col-3 -->
+</div>
