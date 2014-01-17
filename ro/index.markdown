@@ -6,7 +6,9 @@ extra_head: False
 <div id="accordion">
 	<ol>{% include slidedeckro.html %}</ol>
 </div>
-<br><br><br>
+<br/>
+<br/>
+<br/>
 
 <div class="col-1">
   <h2>Cine suntem</h2>
@@ -20,7 +22,7 @@ extra_head: False
 <p><em>Misiunea ROSEdu este de a forma, sprijini şi extinde educaţia bazată pe valorile Open Source.</em></p>
 
   </div>
-</div><!-- .col-1 -->
+</div>
 
 <div class="col-2">
   <h2>Ce facem</h2>
@@ -32,7 +34,7 @@ extra_head: False
 <p>	Dezvoltăm proiecte pentru a &icirc;nvăța și pentru a ajuta comunitatea.</p>
 
   </div>
-</div><!-- .col-2 -->
+</div>
 
 <div class="col-3">
   <h2>Cum ne poți contacta</h2>
@@ -52,4 +54,4 @@ asemenea, poți vedea pe <a href="http://goo.gl/maps/NV4ZP">Hartă</a> unde în 
 </iframe>
 </p>
   </div>
-</div><!-- .col-3 -->
+</div>
