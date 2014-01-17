@@ -4,8 +4,15 @@ Requirements:
 	apt-get install rubygems1.8
 	gem install jekyll
 
+	//you may also need to install json
+	gem install json
+
 Testing:
 	fab devel #then open http://localhost:8000 in a browser
+
+	//for newer versions run and check http://0.0.0.0:4000
+	jekyll server 8000
+
 Deploy:
 	fab deploy
 

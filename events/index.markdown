@@ -6,13 +6,20 @@ layout: base
 
 # Upcoming events
 
-There are no upcoming events.
+### <div class="event-title"><a href="#">Hackathon vmchecker</a></div>
+
+<div style="display:block" class="event-details">
+<div class="event-date">18-01-2014, 10:00</div>
+<div class="event-place">ACS, EG306a</div>
+<div class="event-staff">valentin.gosu at gmail dot org</div>
+Hackathon pentru imbunatatirea si dezvoltarea sistemului de testare a temelor (vmchecker).
+</div>
 
 # Passed events
 
 ### <div class="event-title"><a href="#">Google Summer of Code @ ACS</a></div>
 
-<div class="event-details">
+<div style="display:none" class="event-details">
 <div class="event-date">16-12-2013, 20:00</div>
 <div class="event-place">ACS, EC105</div>
 <div class="event-link"><a href="https://www.facebook.com/events/1465768256982845">Facebook Event</a></div>
@@ -24,7 +31,7 @@ Vino la prezentare pentru a afla direct de la studenții care au făcut parte di
 
 ### <div class="event-title"><a href="#">Workshop contributii Mozilla</a></div>
 
-<div class="event-details">
+<div style="display:none" class="event-details">
 <div class="event-date">14-12-2013, 14:00</div>
 <div class="event-place">ACS, EG106</div>
 <div class="event-link"><a href="https://www.facebook.com/events/629831193736330">Facebook Event</a></div>
