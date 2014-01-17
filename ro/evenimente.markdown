@@ -6,6 +6,9 @@ layout: basero
 
 # Evenimente viitoare
 
+Nu sunt evenimente programate.
+
+<!--
 ### <div class="event-title"><a href="#">Hackathon vmchecker</a></div>
 
 <div style="display:block" class="event-details">
@@ -14,8 +17,18 @@ layout: basero
 <div class="event-staff">valentin.gosu at gmail dot org</div><br />
 Hackathon pentru imbunatatirea si dezvoltarea sistemului de testare a temelor (vmchecker).
 </div>
+-->
 
 # Evenimente trecute
+
+### <div class="event-title"><a href="#">Hackathon vmchecker</a></div>
+
+<div style="display:none" class="event-details">
+<div class="event-date">18-01-2014, 10:00</div>
+<div class="event-place">ACS, EG306a</div>
+<div class="event-staff">valentin.gosu at gmail dot org</div><br />
+Hackathon pentru imbunatatirea si dezvoltarea sistemului de testare a temelor (vmchecker).
+</div>
 
 ### <div class="event-title"><a href="#">Google Summer of Code @ ACS</a></div>
 
