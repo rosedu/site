@@ -40,18 +40,36 @@ extra_head: False
   <h2>Cum ne poți contacta</h2>
 
   <div class="content">
-<p>Pe canalul de IRC #rosedu pe FreeNode, în facultate sau pe <a href="http://lists.rosedu.org/listinfo/rosedu-general/">lista de discuții rosedu-general</a>. Detalii în pagina de <a href="{{site.basepath}}ro/contact">contact</a>.
-</p>
+    <p>Pe canalul de IRC #rosedu pe FreeNode, în facultate sau pe <a href="http://lists.rosedu.org/listinfo/rosedu-general/">lista de discuții rosedu-general</a>. Detalii în pagina de <a href="{{site.basepath}}ro/contact">contact</a>.</p>
 
-<p>
-Pentru a fi la curent cu activitatea noastră, poți vizita pagina noastră de <a
-href="http://www.facebook.com/rosedu.org">Facebook</a>, <a href="http://twitter.com/rosedu_org">Twitter</a> sau <a href="https://plus.google.com/114233516141809762907?prsrc=3">Google+</a>. De
-asemenea, poți vedea pe <a href="http://goo.gl/maps/NV4ZP">Hartă</a> unde în lume au călătorit sau au mers la evenimente membri ai comunității.
-</p>
-<p>
-<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F%23%21%2Fpages%2FROSEdu%2F111655162229859&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=80">
+    <p>Pentru a fi la curent cu activitatea noastră, poți vizita pagina noastră de <a
+href="http://www.facebook.com/rosedu.org">Facebook</a>, <a href="http://twitter.com/rosedu_org">Twitter</a> sau <a href="https://plus.google.com/114233516141809762907?prsrc=3">Google+</a>. De asemenea, poți vedea pe <a href="http://goo.gl/maps/NV4ZP">Hartă</a> unde în lume au călătorit sau au mers la evenimente membri ai comunității.</p>
+
+    <p><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F%23%21%2Fpages%2FROSEdu%2F111655162229859&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=80">
     <!-- nothing here -->
-</iframe>
-</p>
+    </iframe></p>
+
   </div>
 </div>
+
+<div class="photo-strip">
+  <h2>Py4School</h2>
+  <div class="strip-img">
+    <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/t1/1461333_617612711634099_1133058460_n.jpg">
+  </div>
+  <div class="strip-img">
+    <img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash4/t1/1461312_617612678300769_792479947_n.jpg">
+</div>
+  <div class="strip-img">
+    <img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/t1/1461110_617612834967420_803008602_n.jpg">
+  </div>
+  <div class="strip-img">
+    <img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn2/t1/1474508_617612554967448_695187098_n.jpg">
+  </div>
+  <div class="strip-img">
+    <img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/t1/1472782_617613038300733_1257653213_n.jpg">
+  </div>
+
+</div>
+<a href="https://www.facebook.com/rosedu.org/photos_albums">Vezi toate albumele noastre</a>
+
