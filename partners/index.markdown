@@ -58,8 +58,9 @@ number of students that have worked at Google through their internship program
 and their support for the [Google Summer of Code project](http://code.google.com/soc/).
 Some of our community members are Google Student Ambassadors.
 
-**Google has sponsored the [Community Development Lab](http://cdl.rosedu.org/)
-and the [Web Development Course](http://webdev.rosedu.org/).**
+**Google has sponsored the [Community Development Lab](http://cdl.rosedu.org/),
+the [Web Development Course](http://webdev.rosedu.org/)
+and [CS4Girls](http://cs4girls.rosedu.org/).**
 
 <!--
 Logo doesn't fit very well right now.
@@ -69,11 +70,10 @@ Logo doesn't fit very well right now.
 
 **[Engineering Internship](http://www.google.com/intl/en/jobs/students/tech/)**
 
-**Since**: October 18, 2012
+**Since**: October 18, 2013
 
 Apply:
-    [Europe](http://www.google.com/intl/en/jobs/students/tech/internships/emea/),
-    [US](http://www.google.com/intl/en/jobs/students/tech/internships/uscanada/)
+    [Europe/US](http://www.google.com/about/jobs/students/),
 
 Engineering internship opportunities are full-time positions and take
 place year-round. We accept students from multiple disciplines – including CS,
