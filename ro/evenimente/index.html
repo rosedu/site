@@ -33,8 +33,6 @@
                         <img src="/resources/images/icon-gplus.png" /></a></li>
                 <li><a href="http://www.youtube.com/user/roseduorg">
                         <img src="/resources/images/icon-ytube.png" /></a></li>
-                <li><a href="http://goo.gl/maps/NV4ZP">
-                        <img src="/resources/images/icon-map.png" /></a></li>
                 <li><a href="http://planet.rosedu.org/rss20.xml">
                         <img src="/resources/images/icon-rss.png" /></a></li>
                 <li><a href="/irc">
@@ -101,27 +99,42 @@
 </div>
 <h1 id='evenimente_viitoare'>Evenimente viitoare</h1>
 
-<p>Nu exista evenimente programate.</p>
+<p>Nu sunt evenimente programate.</p>
+<!--
+### <div class="event-title"><a href="#">Hackathon vmchecker</a></div>
 
+<div style="display:block" class="event-details">
+<div class="event-date">18-01-2014, 10:00</div>
+<div class="event-place">ACS, EG306a</div>
+<div class="event-staff">valentin.gosu at gmail dot org</div><br />
+Hackathon pentru imbunatatirea si dezvoltarea sistemului de testare a temelor (vmchecker).
+</div>
+-->
 <h1 id='evenimente_trecute'>Evenimente trecute</h1>
 
-<h3 id='id3'><div class='event-title'><a href='#'>Google Summer of Code @ ACS</a></div></h3>
-<div class='event-details'>
+<h3 id='id4'><div class='event-title'><a href='#'>Hackathon vmchecker</a></div></h3>
+<div class='event-details' style='display:none'>
+<div class='event-date'>18-01-2014, 10:00</div>
+<div class='event-place'>ACS, EG306a</div>
+<div class='event-staff'>valentin.gosu at gmail dot org</div><br />
+Hackathon pentru imbunatatirea si dezvoltarea sistemului de testare a temelor (vmchecker).
+</div>
+<h3 id='id5'><div class='event-title'><a href='#'>Google Summer of Code @ ACS</a></div></h3>
+<div class='event-details' style='display:none'>
 <div class='event-date'>16-12-2013, 20:00</div>
 <div class='event-place'>ACS, EC105</div>
 <div class='event-link'><a href='https://www.facebook.com/events/1465768256982845'>Facebook Event</a></div>
-<div class='event-staff'>marius.coto at rosedu dot org</div>
+<div class='event-staff'>marius.coto at rosedu dot org</div><br />
 Programul își propune să încurajeze studenții să contribuie în proiecte Open Source. Comunitățiile asigură partea de mentorship, iar Google se ocupă de partea de finanțare.
 
 Vino la prezentare pentru a afla direct de la studenții care au făcut parte din program despre cum poți să aplici și sfaturi despre cum poți să îți mărești șansele de a fi acceptat!
 </div>
-<h3 id='id4'><div class='event-title'><a href='#'>Workshop contributii Mozilla</a></div></h3>
-<div class='event-details'>
+<h3 id='id6'><div class='event-title'><a href='#'>Workshop contributii Mozilla</a></div></h3>
+<div class='event-details' style='display:none'>
 <div class='event-date'>14-12-2013, 14:00</div>
 <div class='event-place'>ACS, EG106</div>
 <div class='event-link'><a href='https://www.facebook.com/events/629831193736330'>Facebook Event</a></div>
-<div class='event-staff'>marius.coto at rosedu dot org</div>
-
+<div class='event-staff'>marius.coto at rosedu dot org</div><br />
 Workshop-ul are ca scop introducerea studenţilor în procesul de dezvoltare a browser-ului Mozilla Firefox.
 </div>
 
@@ -181,7 +194,6 @@ Workshop-ul are ca scop introducerea studenţilor în procesul de dezvoltare a b
 
 <script type="text/javascript">
         $(function(){
-                $('.event-details').css('display','none');
                 $('.event-title').click(function(){
                         $(this).parent().next("div").slideToggle('slow');
                         return false;
