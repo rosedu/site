@@ -8,16 +8,15 @@ layout: basero
 
 Nu sunt evenimente programate.
 
-<!--
-### <div class="event-title"><a href="#">Hackathon vmchecker</a></div>
+### <div class="event-title"><a href="#">Hackathon WoUSO</a></div>
 
 <div style="display:block" class="event-details">
-<div class="event-date">18-01-2014, 10:00</div>
-<div class="event-place">ACS, EG306a</div>
-<div class="event-staff">valentin.gosu at gmail dot org</div><br />
-Hackathon pentru imbunatatirea si dezvoltarea sistemului de testare a temelor (vmchecker).
+<div class="event-date">22-02-2014, 10:00</div>
+<div class="event-place">ACS, EG106</div>
+<div class="event-staff">marius.coto at gmail dot org</div><br />
+Ultimele modificari si bug-uri rezolvate inainte de o noua editie WoSO.<br />
+Oricine se poate alatura, chiar daca nu cunoaste codul aplicatiei. Cu cat suntem mai multi, cu atat e mai bine.
 </div>
--->
 
 # Evenimente trecute
 
