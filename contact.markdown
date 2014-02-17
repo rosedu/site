@@ -13,6 +13,8 @@ You can find us online using:
  * or, you can look at the <a href="https://projects.rosedu.org/">project management page</a>
  * and also don't forget to visit us on <a href="https://github.com/rosedu">GitHub</a>
 
+Send your questions, observations or invitations to [contact@rosedu.org](mailto:contact@rosedu.org?subject=%5BROSEdu%5D%20)
+
 You can visit us in our headquarters, EG106c, from &quot;POLITEHNICA&quot; University of Bucharest.
 
 <div class="spacer"> </div>
