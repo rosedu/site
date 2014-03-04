@@ -5,19 +5,8 @@
 	<meta name="Description" content="ROSEdu este o organizație bazată pe o comunitate de oameni pasionați de programare și software liber, în mediul educațional." />
 	<title>ROSEdu - Romanian Open Source Education</title>
 	<link rel="shortcut icon" href="{{site.basepath}}resources/images/favicon.png" />
-
 	<link rel="stylesheet" href="{{site.basepath}}resources/css/style.css">
         <link rel="stylesheet" href="{{site.basepath}}resources/css/liteaccordion.css">
-
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="{{site.basepath}}resources/js/application.js"></script>
-	<script src="{{site.basepath}}resources/js/cufon-yui.js"></script>
-	<script src="{{site.basepath}}resources/js/Cambria_400_2300.font.js"></script>
-	<script> 
-	  Cufon.replace('h1, h2, h3');
-	  Cufon.replace('#header-menu', {hover:true});
-	</script>
-        <script src="{{site.basepath}}resources/js/liteaccordion.jquery.js"></script><!-- liteAccordion js -->
   </head>
   <body>
 	<div id="wrapper">
@@ -93,50 +82,56 @@
                 <div class="clear"></div>
         </div><!-- #footer -->
 	</div><!-- #wrapper -->
-
+ 
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="{{site.basepath}}resources/js/application.js"></script>
+	<script src="{{site.basepath}}resources/js/cufon-yui.js"></script>
+	<script src="{{site.basepath}}resources/js/Cambria_400_2300.font.js"></script>
+	<script src="{{site.basepath}}resources/js/liteaccordion.jquery.js"></script>
 	<script>
-	  Cufon.now();
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', '{{site.ganalytics}}']);
-  _gaq.push(['_trackPageview']);
+	Cufon.replace('h1, h2, h3');
+	Cufon.replace('#header-menu', {hover:true});
+	Cufon.now();
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+	// Google Analytics
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', '{{site.ganalytics}}']);
+	_gaq.push(['_trackPageview']);
 
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
 
 	(function($, d) {
-	$('#accordion').liteAccordion({
-		containerWidth : 930,                   // fixed (px)  
-		containerHeight : 300, 
-		onTriggerSlide : function() {
-			this.find('figcaption').fadeOut();
-		},
-		onSlideAnimComplete : function() {    
-			this.find('figcaption').fadeIn();
-		},
-		autoPlay : false,
-		autoScaleImages : true,
-		pauseOnHover : true,
-		theme : 'light',
-		rounded : false,
-		easing: false,
-		enumerateSlides : false                  
-	}).find('figcaption:first').show();
+		$('#accordion').liteAccordion({
+			containerWidth : 930, // fixed (px)
+			containerHeight : 300, 
+			onTriggerSlide : function() {
+				this.find('figcaption').fadeOut();
+			},
+			onSlideAnimComplete : function() {    
+				this.find('figcaption').fadeIn();
+			},
+			autoPlay : false,
+			autoScaleImages : true,
+			pauseOnHover : true,
+			theme : 'light',
+			rounded : false,
+			easing: false,
+			enumerateSlides : false
+		}).find('figcaption:first').show();
+
+		$(function(){
+			$('.event-title').click(function(){
+				$(this).parent().next("div").slideToggle('slow');
+				return false;
+			});
+		});
 	})(jQuery, document);
 
-
-        $(function(){
-                $('.event-title').click(function(){
-                        $(this).parent().next("div").slideToggle('slow');
-                        return false;
-                });
-        });
-</script>
-
-  
+	</script>
   </body>
 </html>
