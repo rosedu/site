@@ -1,23 +1,12 @@
 <!doctype html>
 <html>
   <head>
-	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+	<meta charset="utf-8">
 	<meta name="Description" content="ROSEdu is an organization based on a community formed by programming and open-source software enthusiasts, in the educational environment." />
 	<title>ROSEdu - Romanian Open Source Education</title>
 	<link rel="shortcut icon" href="{{site.basepath}}resources/favicon.ico" />
-	<link rel="stylesheet" type="text/css" href="{{site.basepath}}resources/css/style.css" />
-	<script type="text/javascript" src="{{site.basepath}}resources/js/jquery-1.4.2.min.js"></script>
-	<script type="text/javascript" src="{{site.basepath}}resources/js/application.js"></script>
-	<script type="text/javascript" src="{{site.basepath}}resources/js/cufon-yui.js"></script>
-      <script type="text/javascript" src="{{site.basepath}}resources/js/Cambria_400_2300.font.js"></script>
-	<script type="text/javascript">
-	  Cufon.replace('h1, h2, h3');
-	  Cufon.replace('#header-menu', {hover:true});
-	</script> 
-        <link href="{{site.basepath}}resources/css/liteaccordion.css" rel="stylesheet" /><!-- liteAccordion css -->     
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script><!-- jQuery -->
-        <script src="{{site.basepath}}resources/js/liteaccordion.jquery.js"></script><!-- liteAccordion js -->
-	
+	<link rel="stylesheet" href="{{site.basepath}}resources/css/style.css">
+	<link rel="stylesheet" href="{{site.basepath}}resources/css/liteaccordion.css">
   </head>
   <body>
 	<div id="wrapper">
@@ -90,51 +79,49 @@
 		<div class="clear"></div>
 	</div><!-- #footer -->
 	</div><!-- #wrapper -->
-
-	<script type="text/javascript">
-	  Cufon.now();
-	</script>
-
-   <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', '{{site.ganalytics}}']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-  </script>
-
+ 
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="{{site.basepath}}resources/js/liteaccordion.jquery.js"></script>
+	<script src="{{site.basepath}}resources/js/application.js"></script>
+	<script src="{{site.basepath}}resources/js/cufon-yui.js"></script>
+	<script src="{{site.basepath}}resources/js/Cambria_400_2300.font.js"></script>
 	<script>
+
+	Cufon.replace('h1, h2, h3');
+	Cufon.replace('#header-menu', {hover:true});
+	Cufon.now();
+
+	// Google Analytics
+	var _gaq=[['_setAccount','{{site.ganalytics}}'],['_trackPageview']];
+	(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+	g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+	s.parentNode.insertBefore(g,s)}(document,'script'));
+
 	(function($, d) {
-	$('#accordion').liteAccordion({
-		containerWidth : 930,                   // fixed (px)  
-		containerHeight : 300, 
-		onTriggerSlide : function() {
-			this.find('figcaption').fadeOut();
-		},
-		onSlideAnimComplete : function() {    
-			this.find('figcaption').fadeIn();
-		},
-		autoPlay : false,
-		autoScaleImages : true,
-		pauseOnHover : true,
-		theme : 'light',
-		rounded : false,
-		easing: false,
-		enumerateSlides : false                  
-	}).find('figcaption:first').show();
-	})(jQuery, document);
-</script>
-<script type="text/javascript">
-	$(function(){
+		$('#accordion').liteAccordion({
+			containerWidth : 930, // fixed (px)
+			containerHeight : 300, 
+			onTriggerSlide : function() {
+				this.find('figcaption').fadeOut();
+			},
+			onSlideAnimComplete : function() {
+				this.find('figcaption').fadeIn();
+			},
+			autoPlay : false,
+			autoScaleImages : true,
+			pauseOnHover : true,
+			theme : 'light',
+			rounded : false,
+			easing: false,
+			enumerateSlides : false
+		}).find('figcaption:first').show();
+
 		$('.event-title').click(function(){
 			$(this).parent().next("div").slideToggle('slow');
 			return false;
 		});
-	});
-</script>
+	})(jQuery, document);
+
+	</script>
   </body>
 </html>
