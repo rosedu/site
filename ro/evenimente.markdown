@@ -5,32 +5,37 @@ layout: basero
 {% include aboutnav.html %}
 
 # Evenimente viitoare
-
+<!--
 Nu sunt evenimente programate.
-
-### <div class="event-title"><a href="#">Hackathon WoUSO</a></div>
-
+-->
+### <div class="event-title"><a href="#">Ultimate Frisbee</a></div>
 <div style="display:block" class="event-details">
-<div class="event-date">22-02-2014, 10:00</div>
-<div class="event-place">ACS, EG106</div>
-<div class="event-staff">marius.coto at gmail dot org</div><br />
-Ultimele modificari si bug-uri rezolvate inainte de o noua editie WoSO.<br />
-Oricine se poate alatura, chiar daca nu cunoaste codul aplicatiei. Cu cat suntem mai multi, cu atat e mai bine.
+<div class="event-date">29-03-2014, 16:00</div>
+<div class="event-place">Campus UPB</div>
+<div class="event-staff">laura at rosedu dot org</div><br />
+Instaurăm o tradiție: în fiecare săptămână, sâmbăta de la ora 16:00, ne vedem pe pajiște în UPB pentru a juca <a href="http://en.wikipedia.org/wiki/Ultimate_(sport)">Ultimate</a>.
 </div>
 
 # Evenimente trecute
 
-### <div class="event-title"><a href="#">Hackathon vmchecker</a></div>
+### <div class="event-title"><a href="#">Hackathon WoUSO</a></div>
+<div style="display:block" class="event-details">
+<div class="event-date">22-02-2014, 10:00</div>
+<div class="event-place">ACS, EG106</div>
+<div class="event-staff">marius.coto at rosedu dot org</div><br />
+Ultimele modificari si bug-uri rezolvate inainte de o noua editie WoSO.<br />
+Oricine se poate alatura, chiar daca nu cunoaste codul aplicatiei. Cu cat suntem mai multi, cu atat e mai bine.
+</div>
 
+### <div class="event-title"><a href="#">Hackathon vmchecker</a></div>
 <div style="display:none" class="event-details">
 <div class="event-date">18-01-2014, 10:00</div>
 <div class="event-place">ACS, EG306a</div>
-<div class="event-staff">valentin.gosu at gmail dot org</div><br />
+<div class="event-staff">valentin.gosu at gmail dot com</div><br />
 Hackathon pentru imbunatatirea si dezvoltarea sistemului de testare a temelor (vmchecker).
 </div>
 
 ### <div class="event-title"><a href="#">Google Summer of Code @ ACS</a></div>
-
 <div style="display:none" class="event-details">
 <div class="event-date">16-12-2013, 20:00</div>
 <div class="event-place">ACS, EC105</div>
@@ -42,7 +47,6 @@ Vino la prezentare pentru a afla direct de la studenții care au făcut parte di
 </div>
 
 ### <div class="event-title"><a href="#">Workshop contributii Mozilla</a></div>
-
 <div style="display:none" class="event-details">
 <div class="event-date">14-12-2013, 14:00</div>
 <div class="event-place">ACS, EG106</div>
