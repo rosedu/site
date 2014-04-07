@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Știri ROSEdu</title>
+ <link href="http://www.rosedu.org/rss.xml" rel="self"/>
+ <link href="http://www.rosedu.org/"/>
+ <updated>2014-04-08T00:42:01+03:00</updated>
+ <id>http://www.rosedu.org/ro</id>
+ <author>
+   <name>ROSEdu</name>
+   <email>contact@rosedu.org</email>
+ </author>
+
+ 
+ <entry>
+   <title>Firefox OS App Days</title>
+   <link href="http://www.rosedu.org/ro/2013/01/13/firefox-os-app-days/"/>
+   <updated>2013-01-13T00:00:00+02:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Pe data de 26 ianuarie 2013 (sâmbătă) vă invităm, la &lt;a href=&#39;http://firefoxosappdaybucharest.eventbrite.com/#&#39;&gt;Firefox OS App Days&lt;/a&gt;. Este un eveniment dedicat aplicațiilor web, și vă invităm să fiți alături de Mozilla în lansarea noului sistem de operare &lt;a href=&#39;http://firefoxosappdaybucharest.eventbrite.com/#&#39;&gt;Firefox OS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Veniți cu laptop-urile voastre, cu dispozitivele mobile și cu aplicațiile pe care vreți să le arătați, sau cu ideile de aplicații pe care vreți să le construiți.&lt;/p&gt;
+
+&lt;p&gt;Evenimentul se ține la &lt;a href=&#39;http://bucharest.the-hub.net/&#39;&gt;The Hub&lt;/a&gt;. Invitația este deschisă tuturor persoanelor interesate de tehnologii web și nu numai.&lt;/p&gt;
+
+&lt;p&gt;Vă invităm să vă înscrieți!&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>RSoC 2012</title>
+   <link href="http://www.rosedu.org/ro/2012/04/23/rsoc-2012/"/>
+   <updated>2012-04-23T00:00:00+03:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;ROSEdu Summer of Code 2012 a început!&lt;/p&gt;
+
+&lt;p&gt;Timp de trei luni, opt studenți vor contribui la proiecte Open Source, fiind ghidați pe întreaga perioadă verii de către membri ai comunităților proiectelor respective.&lt;/p&gt;
+
+&lt;p&gt;Mai mult decât atât, particpianți vor primi o bursă de 1000 de Euro.&lt;/p&gt;
+
+&lt;p&gt;Printre proiectele propuse se numără Webkit, Apache HBase, Dexonline, WoUSO, WHC și vmchecker, iar mai multe vor apărea în curând!&lt;/p&gt;
+
+&lt;p&gt;Dacă vrei să îți petreci vara contribuind la proiecte Open Source, învățând lucruri noi și câștigând bani de buzunar, alătură-te nouă joi, 26 aprilie, de la ora 14:00 în sala EC004 în cadrul Facultății de Automatică și Calculatoare, la lansarea oficială a programului ROSEdu Summer of Code 2012!&lt;/p&gt;
+
+&lt;p&gt;Te așteptăm!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#39;http://soc.rosedu.org/2012/&#39;&gt;http://soc.rosedu.org/2012/&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>ROSEdu Tech Talks - Prezentare tehnologii mozilla</title>
+   <link href="http://www.rosedu.org/ro/2012/03/25/prezentare-mozilla/"/>
+   <updated>2012-03-25T00:00:00+02:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;ROSEdu Tech Talks este un eveniment ce găzduiește prezentări tehnice despre diferite subiecte din lumea IT. Acestea au ca scop familiarizarea participanților cu diverse noțiuni și deprinderi despre dezvoltarea de software, noțiuni legate de securitate, noțiuni avansate de administrare a proiectelor software și multe altele.&lt;/p&gt;
+
+&lt;p&gt;Prima prezentare din noua sesiune de Tech Talks va avea ca subiect central tehnologiile Mozilla.&lt;/p&gt;
+
+&lt;p&gt;Valentin Goșu va susține o prezentare despre tehnologiile Mozilla, subiectele atinse incluzând:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;add-ons&lt;/li&gt;
+
+&lt;li&gt;Firefox core – cum se contribuie la core&lt;/li&gt;
+
+&lt;li&gt;boot2gecko – live demos, bugs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aşadar, va aşteptam în număr cât mai mare joi, 29 martie, de la ora 18, în sala EG106a&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Linux Install Fest v5 aftermath</title>
+   <link href="http://www.rosedu.org/ro/2011/10/12/linux-install-fest-v5-aftermath/"/>
+   <updated>2011-10-12T00:00:00+03:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Duminică, 9 octombrie 2011, am organizat în cadrul Hedgehog days, cea de a cincea ediție a Linux Install Fest.&lt;/p&gt;
+
+&lt;p&gt;Au venit peste 80 de participanți și aproximativ 30 de persoane pentru suport tehnic. Tabelul cu participanți &lt;a href=&#39;http://lif.rosedu.org/stats-v5.html&#39;&gt;aici&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mulțumim Echipei Ubuntu România pentru pachetul de CD-uri oferite (fiecare participant a putut lua acasă un CD original cu Ubuntu). Mulțumim implicării echipelor Arch, openSUSE și Mageia. Un eveniment de amploarea LIF nu ar fi avut loc fără găzduirea Facultății de Automatică și Calculatoare, precum și a infrastructurii pusă la dispoziție de organizatorii Academy War Games (AWG).&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Geek Power - Hackathon Days @ Poli</title>
+   <link href="http://www.rosedu.org/ro/2011/04/10/geek-power--/"/>
+   <updated>2011-04-10T00:00:00+03:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Îți place să scrii cod? Îți place să lucrezi împreună cu alți programatori? Cuvintele commit, debugging, IDE, malloc, thread-uri fac parte din vocabularul tău?&lt;/p&gt;&lt;p&gt;	Atunci te invităm să participi, în week-end-ul 16-17 aprilie 2011, la unul dintre cele mai tari evenimente de hacking[1].&lt;/p&gt;&lt;p&gt;	Dacă ai o idee pe care vrei s-o pui în practică sau vrei să lucrezi la un proiect de care nu ai mai avut timp sau pur și simplu dorești să te alături altor programatori atunci acest eveniment e pentru tine.&lt;/p&gt;&lt;p&gt;	O să întâlnești atât oameni de business, cât și alte persoane pasionate de hacking cu care o să poți discuta ideile tale.&lt;/p&gt;&lt;p&gt;	Confirmă acum participarea ta la eveniment[1] și vino sâmbătă, 16 aprilie, la Facultatea de Automatică și Calculatoare, sala EG106 (pentru hackathon vom folosi sălile EG207, EG306, EG405).&lt;/p&gt;&lt;p&gt;	Un eveniment organizat de Facultatea de Automatică și Calculatoare,&lt;br /&gt;
+	ROSEdu si Cronian Labs.&lt;/p&gt;&lt;p&gt;	Te așteptăm!&lt;/p&gt;&lt;a href=&#39;http://geekpower.eventbrite.com/&#39; target=&#39;_blank&#39;&gt;http://geekpower.eventbrite.com/&lt;/a&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Hackaton</title>
+   <link href="http://www.rosedu.org/ro/2011/03/23/hackaton/"/>
+   <updated>2011-03-23T00:00:00+02:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Weekend-ul acesta vom organiza un Hackaton, începând cu sâmbăta 6PM până duminică 6AM.&lt;/p&gt;&lt;p&gt;	Scopul inițial era o întâlnire pentru echipa WoUSO dar acum ne-am gândit să facem un eveniment general la care toată lumea este invitată.&lt;/p&gt;&lt;p&gt;	Dacă vrei să participi trebuie doar să te înscrii aici [0]. Ne-am gândit să punem fiecare câte 20 ron pentru suc și pizza. Evenimentul va avea loc în EG306 în Politehnică.&lt;/p&gt;&lt;p&gt;	Dacă ai nelămuriri ne poți contacta pe lista de discuții rosedu sau pe IRC: #rosedu pe freenode.&lt;/p&gt;&lt;p&gt;	&amp;nbsp;&lt;/p&gt;&lt;p&gt;	[0] &lt;a href=&#39;http://www.doodle.com/w4xr55sycmm3y5fq&#39; title=&#39;http://www.doodle.com/w4xr55sycmm3y5fq&#39;&gt;http://www.doodle.com/w4xr55sycmm3y5fq&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>CDL v3.0</title>
+   <link href="http://www.rosedu.org/ro/2011/03/22/cdl-v3.0/"/>
+   <updated>2011-03-22T00:00:00+02:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;
+	Cea de-a treia ediție a Cursului de Dezvoltare Liberă este în plină desfășurare! Ne bucurăm foarte mult să avem studenți și mentori extrem de entuziaști, prin intermediul cărora această ediție este cu adevărat deosebită!&lt;/p&gt;&lt;p&gt;
+	Până acum au fost 5 cursuri săptămânale și ne aflăm dincolo de jumătatea cursului. Mai sunt încă 4 săptămâni în care așteptăm câțiva invitați speciali să ne vorbească cariere în software engineering, comunități și tool-uri open source și alte surprize pentru participanți!&lt;/p&gt;&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;&lt;p&gt;
+	Aflați mai multe pe pagina cursului, &lt;a href=&#39;http://cdl.rosedu.org&#39;&gt;http://cdl.rosedu.org&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Lansare nou site</title>
+   <link href="http://www.rosedu.org/ro/2010/09/26/lansare-nou-/"/>
+   <updated>2010-09-26T00:00:00+03:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Am lansat noul site ROSEdu! Design mulțumită lui Cătălin și Dorian, webmaster Dragoș, fine-tunning Alex, conținut Mihai și Vlad. &amp;Icirc;n scurt timp vom publica și versiunea în Engleză, precum și paginile pentru proiecte și membri.&lt;/p&gt;&lt;p&gt;	Vechiul site, parțial migrat este în continuare disponibil la&amp;nbsp;&lt;a href=&#39;http://old.rosedu.org&#39;&gt;old.rosedu.org&lt;/a&gt;&amp;nbsp;:)&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Ubuntu Release Party</title>
+   <link href="http://www.rosedu.org/ro/2010/04/26/ubuntu-relea/"/>
+   <updated>2010-04-26T00:00:00+03:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Cu ocazia lansării celei de a 10.04-a versiuni a cunoscutei distribuții de Linux, Ubuntu, ROSEdu organizează un Release Party. &amp;lt;/p&amp;gt; &lt;p&gt;Dacă vrei să petreci alături de noi, vino joi, 29 Aprilie, ora 20:00 în sala EG106 (loc de pornire).&lt;/p&gt; &lt;p&gt;Ne poți contacta la contact(at)rosedu.org  pentru mai multe detalii.&lt;/p&gt; &lt;p&gt;Mai multe detalii pe forumul Ubuntu-ro: &lt;a href=&#39;http://forum.ubuntu.ro/viewtopic.php?id=8969&#39; title=&#39;http://forum.ubuntu.ro/viewtopic.php?id=8969&#39;&gt;http://forum.ubuntu.ro/viewtopic.php?id=8969&lt;/a&gt;&lt;/p&gt; &lt;p&gt;RSVP aici: &lt;a href=&#39;http://bit.ly/9Wipyt&#39; title=&#39;http://bit.ly/9Wipyt&#39;&gt;http://bit.ly/9Wipyt&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Incheiere WoUSO 2009-2010</title>
+   <link href="http://www.rosedu.org/ro/2010/01/13/incheiere-wo/"/>
+   <updated>2010-01-13T00:00:00+02:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;A treia ediție a &lt;a b=&#39;&#39;&gt;World of USO&lt;/a&gt; a luat sfârșit. &amp;Icirc;n urma celor multe quest-uri și provocări, cei cu adevărat demni s-au afirmat. Câștigătorii sunt:&lt;/p&gt;&lt;ol&gt;
+&lt;li&gt;
+		Petre Eftime (313CA)&lt;/li&gt;
+&lt;li&gt;
+		Cosmin Alexandru Paraschiv (312CC)&lt;/li&gt;
+&lt;li&gt;
+		Ovidiu Dan Sanduleac (315CA)&lt;/li&gt;
+&lt;li&gt;
+		Adrian Marin (315CA)&lt;/li&gt;
+&lt;li&gt;
+		Cristian Pufu (314CA)&lt;/li&gt;
+&lt;li&gt;
+		Bogdan Ivanov (314CA)&lt;/li&gt;
+&lt;li&gt;
+		Lavinia Samoila (313CA)&lt;/li&gt;
+&lt;li&gt;
+		Ioan Achim (313CA)&lt;/li&gt;
+&lt;li&gt;
+		Dragos Dumitrescu (313CA)&lt;/li&gt;
+&lt;li&gt;
+		Isabela Calinoiu (311CB)&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;	Premierea s-a ținut, conform tradiției, la ultimul curs de Utilizarea Sistemelor de Operare, unde au fost prezenți studenții de anul I, echipa ROSEdu și echipa de asistenți și profesori de la USO. Primii 10 clasați au plecat acasă cu câte un mic suvenir, să își aducă aminte de WoUSO. Felicitări tuturor celor ce au participat la joc și îi așteptăm la următoarea ediție ca Senior Slobs. Sperăm că v-ați distrat și, mai ales, că ați dobândit cunoștințe noi. Echipa de &lt;a href=&#39;http://dev.rosedu.org/wouso&#39;&gt;dezvoltare WoUSO&lt;/a&gt; caută voluntari care să se implice în proiect, așa că, cei interesați sunt bineveniți să ne contacteze. Pozele de la premiere se găsesc pe &lt;a href=&#39;http://media.rosedu.org/index.php?gallery=premiere-wouso-2010&#39;&gt;ROSEdu Media&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>CDL 2010 on it&#039;s way</title>
+   <link href="http://www.rosedu.org/ro/2010/01/11/cdl-2010-on-/"/>
+   <updated>2010-01-11T00:00:00+02:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Ne pregătim pentru a doua ediție a Cursului de Dezvoltare liberă.&lt;br /&gt;
+Pentru detalii, urmăriti pagina oficială a proiectului: &lt;a href=&#39;http://cdl.rosedu.org&#39;&gt;http://cdl.rosedu.org&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>BLUS*OS*Con 2009</title>
+   <link href="http://www.rosedu.org/ro/2009/12/16/blus/"/>
+   <updated>2009-12-16T00:00:00+02:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Sâmbătă, 12 Decembrie, echipa de la &lt;a href=&#39;http://blug.ro&#39;&gt;Bucharest Linux Users Group&lt;/a&gt; au organziat prima ediție a &lt;a href=&#39;http://blugoscon.blug.ro/&#39;&gt;BLUG*OS*Con&lt;/a&gt;. Conferința a avut o serie de prezentări pe tema Linux și Open Source, precum și standuri ai partenerilor organizatori. Locul de desfășurare a evenimentului a fost Rectoratul Universității Politehnica București.&lt;br /&gt;
+ROSEdu a fost reprezentat la acest eveniment de Răzvan Deaconescu, care a ținut două prezentări, una despre &lt;a href=&#39;http://www.scribd.com/doc/24011028/Blugoscon-Debian-Ubuntu&#39;&gt; Debian/Ubuntu&lt;/a&gt; și una despre &lt;a href=&#39;http://www.scribd.com/doc/24011010/Blugoscon-Bash-Tips-Tricks&#39;&gt;Bash Tips&amp;amp;Tricks&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href=&#39;http://vimeo.com/8197640&#39;&gt;Răzvan Deaconescu@BLUG*OS*Con : Bash Tips &amp;amp; Tricks&lt;/a&gt; from &lt;a href=&#39;http://vimeo.com/rosedu&#39;&gt;ROSEdu&lt;/a&gt; on &lt;a href=&#39;http://vimeo.com&#39;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Tech Talks</title>
+   <link href="http://www.rosedu.org/ro/2009/10/05/tech-talks/"/>
+   <updated>2009-10-05T00:00:00+03:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;ROSEdu pregătește pentru sezonul de toamnă Tech Talks, o serie de întâlniri și discuții tehnice, în Facultatea de Automatică și Calculatoare a Politehnicii București.&lt;/p&gt;&lt;p&gt;Întâlnirile vor avea loc pe 10, 20 și 30 ale lunii, într-una din sălile facultății, ce va fi anunțată pe site. Intrarea este liberă, prezentările se vor filma și vor fi publicate pe site.&lt;/p&gt;&lt;p&gt;Mai multe detalii găsiți pe pagina dedicată Tech Talks: &lt;a href=&#39;http://talks.rosedu.org&#39; title=&#39;http://talks.rosedu.org&#39;&gt;http://talks.rosedu.org&lt;/a&gt; .&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Tracker ubuntu</title>
+   <link href="http://www.rosedu.org/ro/2009/04/14/tracker-ubun/"/>
+   <updated>2009-04-14T00:00:00+03:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;ROSEdu pregătește pentru lansarea versiunii 9.04 a popularei distribuții Ubuntu un tracker și o mini-fermă de seederi BitTorrent pentru imaginile ISO ale distribuției.&lt;/p&gt;&lt;p&gt;Legături către descărcări la: &lt;a href=&#39;http://www.ubuntu.ro/obtineubuntu/torrent/&#39; title=&#39;http://www.ubuntu.ro/obtineubuntu/torrent/&#39;&gt;http://www.ubuntu.ro/obtineubuntu/torrent/&lt;/a&gt; .&lt;/p&gt;&lt;p&gt;Intră și tu în joc! Descarcă torrentele și fă seed.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Cursul de Dezvoltare Libera</title>
+   <link href="http://www.rosedu.org/ro/2009/03/10/cursul-de-de/"/>
+   <updated>2009-03-10T00:00:00+02:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Cursul de Dezvoltare Liberă, organizat de ROSEdu a început pe 7 martie cu 16 participanți. La acest curs studenții vor învăța cum se dezvoltă software Open Source și cum se lucrează într-o echipă. Mai multe detalii pe &lt;a href=&#39;http://cdl.rosedu.org/&#39; title=&#39;http://cdl.rosedu.org/&#39;&gt;http://cdl.rosedu.org/&lt;/a&gt; și pe blogul CDL: &lt;a href=&#39;http://cdl.rosedu.org/blog&#39; title=&#39;http://cdl.rosedu.org/blog&#39;&gt;http://cdl.rosedu.org/blog&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Mozilla la Bucuresti</title>
+   <link href="http://www.rosedu.org/ro/2008/12/12/mozilla-la-b/"/>
+   <updated>2008-12-12T00:00:00+02:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Comunitatea Mozilla România împreună cu Mozilla-Europe a ţinut luna aceasta o serie de prezentări despre Open Software în liceele şi facultăţile din România. Printre acestea, s-a numărat şi o prezentare la Universitatea Politehnică Bucureşti, organizată împreună cu ROSEdu şi Ceata. Prezentarea din UPB a avut loc joi, 4 Decembrie în EG301 şi a avut ca subecte de discuţie ce este software-ul deschis, contribuţia Mozilla la FLOSS şi cel mai important nevoia de a păstra în software trasăturile culturale ale unei ţări şi cum software-ul open ajută acest lucru. A fost o ocazie bună pentru cei de la Mozilla pentru a interacţiona cu fanii open source şi de asemenea a deschis calea unor colaborări ulterioare cu alte organizaţii ce susţin aceleasi idealuri. Follow-ups şi poze: 
+&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;1&lt;/span&gt; &lt;a href=&#39;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&#39; title=&#39;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&#39;&gt;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;2&lt;/span&gt; &lt;a href=&#39;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinner-in-Bucharest&#39; title=&#39;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinner-in-Bucharest&#39;&gt;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinn...&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;3&lt;/span&gt; &lt;a href=&#39;http://flickr.com/photos/toniher/sets/72157610833305715/&#39; title=&#39;http://flickr.com/photos/toniher/sets/72157610833305715/&#39;&gt;http://flickr.com/photos/toniher/sets/72157610833305715/&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Ubuntu 8.10 Release... Balls</title>
+   <link href="http://www.rosedu.org/ro/2008/10/28/ubuntu-8.10-/"/>
+   <updated>2008-10-28T00:00:00+02:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Pe 30 Octombrie se lansează versiunea 8.10 a distribuției de Linux Ubuntu.&lt;/p&gt;&lt;p&gt;Membrii ROSEdu + prietenii vor sărbători acest lucru Sâmbătă, 1 Noiembrie, începând cu orele 10, în mall-ul Plazza România din&lt;br /&gt;
+București la bowling (mai multe detalii rămân încă de stabilit).&lt;/p&gt;&lt;p&gt;Te așteptăm alături de noi!&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Rezumat Ubuntu Install Fest 2</title>
+   <link href="http://www.rosedu.org/ro/2008/10/12/rezumat-ubun/"/>
+   <updated>2008-10-12T00:00:00+03:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;A fost și al doilea Ubuntu Install Fest. Ne-am adunat peste 30 de oameni, dintre care 20 au instalat ubuntu iar restul au ajutat (echipa suport). Au fost prezenți atât studenți, cât și persoane din afara facultății.&lt;/p&gt;&lt;p&gt;Ne-au dat bătăi de cap plăcile Atheros și un laptop Acer care a refuzat rând pe rând 8.04 64bit, 32 bit, 64 alternate, 32 alternate, xubuntu 8.04. xubuntu 6.06 liveusb și până la urmă a pornit cu un JEOS 8.04.1.&lt;/p&gt;&lt;p&gt;Am avut de lucru, echipa s-a mișcat de minune (a fost atât de ocupată încât nu a mai avut timp nici să se joace). A fost amuzant și ne bucurăm că am dus eveniementul la bun sfârșit.&lt;/p&gt;&lt;p&gt;Poze la: &lt;a href=&#39;http://flickr.com/photos/25521360@N05/sets/72157607933874208/&#39; title=&#39;http://flickr.com/photos/25521360@N05/sets/72157607933874208/&#39;&gt;http://flickr.com/photos/25521360@N05/sets/72157607933874208/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;A, și multe mulțumiri tuturor celor care au depus efort!&lt;/p&gt;&lt;p&gt;PS: cei care ați instalat astăzi, găsiți în continuare suport din partea echipei rosedu, pe lista noastră de discuții sau pe canalul de IRC, dar mai ales din partea echipei ubuntu România, pe #ubuntu-ro și pe &lt;a href=&#39;mailto:ubuntu-ro@lists.ubuntu.com&#39;&gt;ubuntu-ro@lists.ubuntu.com&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;[flickr-photoset:id=72157607933874208,size=m]&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Presentarea Rosedu la Rosdev</title>
+   <link href="http://www.rosedu.org/ro/2008/04/13/presentarea-/"/>
+   <updated>2008-04-13T00:00:00+03:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Razvan Deaconescu&lt;/strong&gt; in maniera sa clasica - energic, subtil, geek-fashioned (lovely t-shirt, got to say it).. ce-mai, ne-a facut mandri. Fara â  :) .. cine a fost acolo știe cu ș.&lt;/p&gt;&lt;p&gt;[video:http://www.youtube.com/watch?v=pe-qwiIOsFo]&lt;/p&gt;&lt;p&gt;Mici clarificari aduse de &lt;strong&gt;Razvan Rughinis&lt;/strong&gt;, sef lucrari laborator Computer Science, cu privire la scopul Rosedu, raspunzand unora din sala care se asteptau ca Rosedu sa serveasca soft educational in maniera scolareasca.&lt;/p&gt;&lt;p&gt;[video:http://www.youtube.com/watch?v=cs1kepfVIpw]&lt;/p&gt;&lt;p&gt;Si, ceea ce asteptau toti, iesirea Rosedu de dupa - bere, kfc, bere.. muuulta filozofie semnata Andrei Buhaiu, ultimele tendinte in moda prezentate de Razvan si un demo &quot;ce se intampla doctore&quot;.&lt;/p&gt;&lt;p&gt;[video:http://www.youtube.com/watch?v=dAQc6_2h4Ng]&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Ratb ruleaza linux</title>
+   <link href="http://www.rosedu.org/ro/2008/04/12/ratb-ruleaza/"/>
+   <updated>2008-04-12T00:00:00+03:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;GPS-urile de la ratb ruleaza pe kernel linux :D.&lt;br /&gt;
+Mi s-a intamplat intr-o zi in care alergam la structuri de date cu Fl. Moraru, chiar inainte de summit. 4 autobuze 336 au oprit simultan in statia Vasile Milea. Parca imi venise coloana prezidentiala sa ma duca la curs :)) L-am luat pe ultimul, oricum am alergat putin.&lt;/p&gt;&lt;p&gt;Am ratat statia fiindca mi-a captat atentia gpsul. Avea eroare. Cand ma uit mai atent.. huh.. terminal unix? Se pare ca s-a sifonat putin sistemul de fisiere :)&lt;br /&gt;
+See attachment&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>The blog rage</title>
+   <link href="http://www.rosedu.org/ro/2008/04/10/the-blog-rag/"/>
+   <updated>2008-04-10T00:00:00+03:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Eu nu sunt poetul crestei şi nici nu mă cred. Blogul pe care îl ţin e mai mult ca să îmi exersez engleza şi să îmi notez variile probeleme pe care le întâlnesc şi rezolvările lor (deşi nu prea postez cod).&lt;/p&gt;&lt;p&gt;Pe site-ul Rosedu aş ţine un blog adevărat, unul despre ce viaţă am, deşi probabil mi-aş aminti să îl  actualizez doar după întâlniri. Unul în română (shock!) cu care să îmbogăţesc cumva şi conţinutul site-ului; realizez că a scrie aici nu face site-ul mai devreme-acasă, dar îl face util şi amuzant. Informativ deja este.&lt;/p&gt;&lt;p&gt;Wow, am vrut să dau OK şi am observat că opţiunile sunt chiar interesante. Kudos to Sergiu for the site!&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Avem si blog</title>
+   <link href="http://www.rosedu.org/ro/2008/04/09/avem-si-blog/"/>
+   <updated>2008-04-09T00:00:00+03:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Datorita cererilor voastre am activat functia de Blog în cadrul site-ului nostru. Deocamdată sistemul actual nu este la fel de puternic ca Wordpress, să spunem, însă el foloseşte acelaşi user cu restul site-ului şi forumul şi permite o integrare mai bună. Apropo, vine şi TinyMCE în curând. Pentru a posta odată ce ai drepturi foloseşte meniul din stânga. So, happy blogging! Sergiu.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

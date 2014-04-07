@@ -1,7 +1,0 @@
-exclude: fabfile.py fabfile.pyc
-permalink: pretty
-basepath: /
-url: http://www.rosedu.org
-paginate: 5
-
-ganalytics: UA-7579199-8
