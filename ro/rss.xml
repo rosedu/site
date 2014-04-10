@@ -4,7 +4,7 @@
  <title>Știri ROSEdu</title>
  <link href="http://www.rosedu.org/rss.xml" rel="self"/>
  <link href="http://www.rosedu.org/"/>
- <updated>2014-04-08T00:45:09+03:00</updated>
+ <updated>2014-04-10T10:43:33+03:00</updated>
  <id>http://www.rosedu.org/ro</id>
  <author>
    <name>ROSEdu</name>
@@ -17,11 +17,11 @@
    <link href="http://www.rosedu.org/ro/2013/01/13/firefox-os-app-days/"/>
    <updated>2013-01-13T00:00:00+02:00</updated>
    <id></id>
-   <content type="html">&lt;p&gt;Pe data de 26 ianuarie 2013 (sâmbătă) vă invităm, la &lt;a href=&#39;http://firefoxosappdaybucharest.eventbrite.com/#&#39;&gt;Firefox OS App Days&lt;/a&gt;. Este un eveniment dedicat aplicațiilor web, și vă invităm să fiți alături de Mozilla în lansarea noului sistem de operare &lt;a href=&#39;http://firefoxosappdaybucharest.eventbrite.com/#&#39;&gt;Firefox OS&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Pe data de 26 ianuarie 2013 (sâmbătă) vă invităm, la &lt;a href=&quot;http://firefoxosappdaybucharest.eventbrite.com/#&quot;&gt;Firefox OS App Days&lt;/a&gt;. Este un eveniment dedicat aplicațiilor web, și vă invităm să fiți alături de Mozilla în lansarea noului sistem de operare &lt;a href=&quot;http://firefoxosappdaybucharest.eventbrite.com/#&quot;&gt;Firefox OS&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Veniți cu laptop-urile voastre, cu dispozitivele mobile și cu aplicațiile pe care vreți să le arătați, sau cu ideile de aplicații pe care vreți să le construiți.&lt;/p&gt;
 
-&lt;p&gt;Evenimentul se ține la &lt;a href=&#39;http://bucharest.the-hub.net/&#39;&gt;The Hub&lt;/a&gt;. Invitația este deschisă tuturor persoanelor interesate de tehnologii web și nu numai.&lt;/p&gt;
+&lt;p&gt;Evenimentul se ține la &lt;a href=&quot;http://bucharest.the-hub.net/&quot;&gt;The Hub&lt;/a&gt;. Invitația este deschisă tuturor persoanelor interesate de tehnologii web și nu numai.&lt;/p&gt;
 
 &lt;p&gt;Vă invităm să vă înscrieți!&lt;/p&gt;</content>
  </entry>
@@ -43,7 +43,7 @@
 
 &lt;p&gt;Te așteptăm!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#39;http://soc.rosedu.org/2012/&#39;&gt;http://soc.rosedu.org/2012/&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;http://soc.rosedu.org/2012/&quot;&gt;http://soc.rosedu.org/2012/&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -75,7 +75,7 @@
    <id></id>
    <content type="html">&lt;p&gt;Duminică, 9 octombrie 2011, am organizat în cadrul Hedgehog days, cea de a cincea ediție a Linux Install Fest.&lt;/p&gt;
 
-&lt;p&gt;Au venit peste 80 de participanți și aproximativ 30 de persoane pentru suport tehnic. Tabelul cu participanți &lt;a href=&#39;http://lif.rosedu.org/stats-v5.html&#39;&gt;aici&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Au venit peste 80 de participanți și aproximativ 30 de persoane pentru suport tehnic. Tabelul cu participanți &lt;a href=&quot;http://lif.rosedu.org/stats-v5.html&quot;&gt;aici&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Mulțumim Echipei Ubuntu România pentru pachetul de CD-uri oferite (fiecare participant a putut lua acasă un CD original cu Ubuntu). Mulțumim implicării echipelor Arch, openSUSE și Mageia. Un eveniment de amploarea LIF nu ar fi avut loc fără găzduirea Facultății de Automatică și Calculatoare, precum și a infrastructurii pusă la dispoziție de organizatorii Academy War Games (AWG).&lt;/p&gt;</content>
  </entry>
@@ -86,7 +86,8 @@
    <updated>2011-04-10T00:00:00+03:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;Îți place să scrii cod? Îți place să lucrezi împreună cu alți programatori? Cuvintele commit, debugging, IDE, malloc, thread-uri fac parte din vocabularul tău?&lt;/p&gt;&lt;p&gt;	Atunci te invităm să participi, în week-end-ul 16-17 aprilie 2011, la unul dintre cele mai tari evenimente de hacking[1].&lt;/p&gt;&lt;p&gt;	Dacă ai o idee pe care vrei s-o pui în practică sau vrei să lucrezi la un proiect de care nu ai mai avut timp sau pur și simplu dorești să te alături altor programatori atunci acest eveniment e pentru tine.&lt;/p&gt;&lt;p&gt;	O să întâlnești atât oameni de business, cât și alte persoane pasionate de hacking cu care o să poți discuta ideile tale.&lt;/p&gt;&lt;p&gt;	Confirmă acum participarea ta la eveniment[1] și vino sâmbătă, 16 aprilie, la Facultatea de Automatică și Calculatoare, sala EG106 (pentru hackathon vom folosi sălile EG207, EG306, EG405).&lt;/p&gt;&lt;p&gt;	Un eveniment organizat de Facultatea de Automatică și Calculatoare,&lt;br /&gt;
-	ROSEdu si Cronian Labs.&lt;/p&gt;&lt;p&gt;	Te așteptăm!&lt;/p&gt;&lt;a href=&#39;http://geekpower.eventbrite.com/&#39; target=&#39;_blank&#39;&gt;http://geekpower.eventbrite.com/&lt;/a&gt;</content>
+	ROSEdu si Cronian Labs.&lt;/p&gt;&lt;p&gt;	Te așteptăm!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#39;http://geekpower.eventbrite.com/&#39; target=&#39;_blank&#39;&gt;http://geekpower.eventbrite.com/&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -122,7 +123,8 @@
    <link href="http://www.rosedu.org/ro/2010/04/26/ubuntu-relea/"/>
    <updated>2010-04-26T00:00:00+03:00</updated>
    <id></id>
-   <content type="html">&lt;p&gt;Cu ocazia lansării celei de a 10.04-a versiuni a cunoscutei distribuții de Linux, Ubuntu, ROSEdu organizează un Release Party. &amp;lt;/p&amp;gt; &lt;p&gt;Dacă vrei să petreci alături de noi, vino joi, 29 Aprilie, ora 20:00 în sala EG106 (loc de pornire).&lt;/p&gt; &lt;p&gt;Ne poți contacta la contact(at)rosedu.org  pentru mai multe detalii.&lt;/p&gt; &lt;p&gt;Mai multe detalii pe forumul Ubuntu-ro: &lt;a href=&#39;http://forum.ubuntu.ro/viewtopic.php?id=8969&#39; title=&#39;http://forum.ubuntu.ro/viewtopic.php?id=8969&#39;&gt;http://forum.ubuntu.ro/viewtopic.php?id=8969&lt;/a&gt;&lt;/p&gt; &lt;p&gt;RSVP aici: &lt;a href=&#39;http://bit.ly/9Wipyt&#39; title=&#39;http://bit.ly/9Wipyt&#39;&gt;http://bit.ly/9Wipyt&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</content>
+   <content type="html">&lt;p&gt;Cu ocazia lansării celei de a 10.04-a versiuni a cunoscutei distribuții de Linux, Ubuntu, ROSEdu organizează un Release Party. &amp;lt;/p&amp;gt;&lt;/p&gt;
+&lt;p&gt;Dacă vrei să petreci alături de noi, vino joi, 29 Aprilie, ora 20:00 în sala EG106 (loc de pornire).&lt;/p&gt;&lt;p&gt;Ne poți contacta la contact(at)rosedu.org  pentru mai multe detalii.&lt;/p&gt;&lt;p&gt;Mai multe detalii pe forumul Ubuntu-ro: &lt;a href=&#39;http://forum.ubuntu.ro/viewtopic.php?id=8969&#39; title=&#39;http://forum.ubuntu.ro/viewtopic.php?id=8969&#39;&gt;http://forum.ubuntu.ro/viewtopic.php?id=8969&lt;/a&gt;&lt;/p&gt;&lt;p&gt;RSVP aici: &lt;a href=&#39;http://bit.ly/9Wipyt&#39; title=&#39;http://bit.ly/9Wipyt&#39;&gt;http://bit.ly/9Wipyt&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -203,11 +205,11 @@ ROSEdu a fost reprezentat la acest eveniment de Răzvan Deaconescu, care a ținu
    <id></id>
    <content type="html">&lt;p&gt;Comunitatea Mozilla România împreună cu Mozilla-Europe a ţinut luna aceasta o serie de prezentări despre Open Software în liceele şi facultăţile din România. Printre acestea, s-a numărat şi o prezentare la Universitatea Politehnică Bucureşti, organizată împreună cu ROSEdu şi Ceata. Prezentarea din UPB a avut loc joi, 4 Decembrie în EG301 şi a avut ca subecte de discuţie ce este software-ul deschis, contribuţia Mozilla la FLOSS şi cel mai important nevoia de a păstra în software trasăturile culturale ale unei ţări şi cum software-ul open ajută acest lucru. A fost o ocazie bună pentru cei de la Mozilla pentru a interacţiona cu fanii open source şi de asemenea a deschis calea unor colaborări ulterioare cu alte organizaţii ce susţin aceleasi idealuri. Follow-ups şi poze: 
 &lt;/p&gt;
-&lt;p&gt;&lt;span&gt;1&lt;/span&gt; &lt;a href=&#39;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&#39; title=&#39;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&#39;&gt;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&#39;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&#39; title=&#39;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&#39;&gt;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;span&gt;2&lt;/span&gt; &lt;a href=&#39;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinner-in-Bucharest&#39; title=&#39;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinner-in-Bucharest&#39;&gt;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinn...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&#39;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinner-in-Bucharest&#39; title=&#39;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinner-in-Bucharest&#39;&gt;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinn&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;span&gt;3&lt;/span&gt; &lt;a href=&#39;http://flickr.com/photos/toniher/sets/72157610833305715/&#39; title=&#39;http://flickr.com/photos/toniher/sets/72157610833305715/&#39;&gt;http://flickr.com/photos/toniher/sets/72157610833305715/&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;[3] &lt;a href=&#39;http://flickr.com/photos/toniher/sets/72157610833305715/&#39; title=&#39;http://flickr.com/photos/toniher/sets/72157610833305715/&#39;&gt;http://flickr.com/photos/toniher/sets/72157610833305715/&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
