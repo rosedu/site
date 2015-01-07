@@ -338,3 +338,7 @@ div.calendar {
 .strip-img img {
 	max-width:100%;
 }
+
+.social-logo {
+	width: 30px;
+}
