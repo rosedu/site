@@ -12,8 +12,10 @@ Make a donation in ROSEdu\'s account: **RO98BTRL04501205R50291XX**, Banca Transi
 [Form 230](https://drive.google.com/file/d/0By6_as_hLrdocE9tX3NmMjFvTTg/edit?usp=sharing) (for income) or [Form 200](https://drive.google.com/file/d/0By6_as_hLrdoNU5MbWk3OElTa0E/edit?usp=sharing) (for other types of income) 
 which are already filled in with ROSEdu\'s data.
 
-The deadline is **23th of May 2014**.
+The deadline is **25th of May 2015**.
 
+The form has to be sent to the [ANAF](www.anaf.ro) agency from your
+jurisdiction. If you want us to sent the form for you, please [contact us](http://www.rosedu.org/contact/). 
 
 ### Why?
 
