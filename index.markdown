@@ -42,25 +42,3 @@ extra_head: False
 
   </div>
 </div>
-
-<div class="photo-strip">
-  <h2>Py4School</h2>
-  <div class="strip-img">
-    <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/t1/1461333_617612711634099_1133058460_n.jpg">
-  </div>
-  <div class="strip-img">
-    <img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash4/t1/1461312_617612678300769_792479947_n.jpg">  
-</div>
-  <div class="strip-img">
-    <img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/t1/1461110_617612834967420_803008602_n.jpg">
-  </div>
-  <div class="strip-img">
-    <img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn2/t1/1474508_617612554967448_695187098_n.jpg">
-  </div>
-  <div class="strip-img">
-    <img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/t1/1472782_617613038300733_1257653213_n.jpg">
-  </div>
-
-</div>
-<a href="https://www.facebook.com/rosedu.org/photos_albums">See all our photo albums</a>
-
