@@ -14,7 +14,7 @@ cu ajutorul [Formularului 230](https://drive.google.com/file/d/0By6_as_hLrdocE9t
 [Formularului 200](https://drive.google.com/file/d/0By6_as_hLrdoNU5MbWk3OElTa0E/edit?usp=sharing) (pentru alte venituri)
 care sunt precompletate cu datele Asociației ROSEdu.
 
-Formularul trebuie trimis către agenția [ANAF](www.anaf.ro) de care aparțineți.
+Formularul trebuie trimis către agenția [ANAF](http://www.anaf.ro) de care aparțineți.
 Dacă doriți să trimitem noi formularul, vă rugăm, să ne [contactați](http://www.rosedu.org/contact/).
 
 ### De ce?
