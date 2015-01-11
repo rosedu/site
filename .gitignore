@@ -6,3 +6,4 @@ _site
 /ro/news_[0-9]*.*
 .git_deploy
 /env
+.DS_Store
