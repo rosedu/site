@@ -12,9 +12,9 @@ Fondată în 2009, Asociația ROSEdu este o organizație non-profit care susțin
 
 Asociația ROSEdu cuprinde membri activi și membri susținători, conduși de Consiliul Director alcătuit din:
 
- * Laura Vasilescu (Președinte)
- * Gabriel Voicu
- * Andrei Maruseac
+ * Marius Cotofana (Președinte)
+ * Maria Nita
+ * Mihai Tiriplica
 
 Asociația ROSEdu a fost fondată de:
 

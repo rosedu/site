@@ -12,9 +12,9 @@ Founded in 2009, "Asociația ROSEdu" is a non-profit organization supporting the
 
 "Asociația ROSEdu" consists of full members and supporting members, led by the Board of Directors consisting of:
 
- * Laura Vasilescu (President)
- * Gabriel Voicu
- * Andrei Maruseac
+ * Marius Cotofana (President)
+ * Maria Nita
+ * Mihai Tiriplica
 
 "Asociația ROSEdu" has been founded by:
 
