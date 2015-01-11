@@ -4,7 +4,7 @@
  <title>ROSEdu News</title>
  <link href="http://www.rosedu.org/rss.xml" rel="self"/>
  <link href="http://www.rosedu.org/"/>
- <updated>2015-01-07T15:38:31+02:00</updated>
+ <updated>2015-01-11T20:47:17+02:00</updated>
  <id>http://www.rosedu.org</id>
  <author>
    <name>ROSEdu</name>
@@ -17,13 +17,15 @@
    <link href="http://www.rosedu.org/en/2013/01/13/firefox-os-app-days/"/>
    <updated>2013-01-13T00:00:00+02:00</updated>
    <id></id>
-   <content type="html">&lt;p&gt;On Saturday, the 26th of January 2013, we invite you to &lt;a href=&quot;http://firefoxosappdaybucharest.eventbrite.com/#&quot;&gt;Firefox OS App Days&lt;/a&gt;. Firefox OS App Days is an event dedicated to web apps; we welcome you to join Mozilla in launching its new operating system &lt;a href=&quot;http://firefoxosappdaybucharest.eventbrite.com/#&quot;&gt;Firefox OS&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;On Saturday, the 26th of January 2013, we invite you to &lt;a href=&quot;http://firefoxosappdaybucharest.eventbrite.com/#&quot;&gt;Firefox OS App
+Days&lt;/a&gt;. Firefox OS App Days is an event dedicated to web apps; we welcome you to join Mozilla in launching its new operating system &lt;a href=&quot;http://firefoxosappdaybucharest.eventbrite.com/#&quot;&gt;Firefox OS&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Please bring your laptops, mobile devices and apps you would like to show or ideas for apps you would like to build.&lt;/p&gt;
 
 &lt;p&gt;Firefox App Days will take place at &lt;a href=&quot;http://bucharest.the-hub.net/&quot;&gt;The Hub&lt;/a&gt;. We invite everyone passionate about technology, especially web technologies, to come and share their input.&lt;/p&gt;
 
-&lt;p&gt;Please fill the &lt;a href=&quot;http://firefoxosappdaybucharest.eventbrite.com/#&quot;&gt;Eventbrite Form&lt;/a&gt; if you intend to join us.&lt;/p&gt;</content>
+&lt;p&gt;Please fill the &lt;a href=&quot;http://firefoxosappdaybucharest.eventbrite.com/#&quot;&gt;Eventbrite Form&lt;/a&gt; if you intend to join us.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
@@ -43,7 +45,9 @@
 
 &lt;p&gt;See you there!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://soc.rosedu.org/2012/&quot;&gt;http://soc.rosedu.org/2012/&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;http://soc.rosedu.org/2012/&quot;&gt;http://soc.rosedu.org/2012/&lt;/a&gt;&lt;/p&gt;
+
+</content>
  </entry>
  
  <entry>
@@ -65,7 +69,9 @@
 
 &lt;p&gt;Be there!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://geekpower.eventbrite.com/&quot;&gt;http://geekpower.eventbrite.com/&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;http://geekpower.eventbrite.com/&quot;&gt;http://geekpower.eventbrite.com/&lt;/a&gt;&lt;/p&gt;
+
+</content>
  </entry>
  
  <entry>
@@ -81,7 +87,8 @@
 
 &lt;p&gt;If you need directions just ask on rosedu mailing list or on IRC: #rosedu on freenode. Hope to see you there!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.doodle.com/w4xr55sycmm3y5fq&quot;&gt;http://www.doodle.com/w4xr55sycmm3y5fq&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;http://www.doodle.com/w4xr55sycmm3y5fq&quot;&gt;http://www.doodle.com/w4xr55sycmm3y5fq&lt;/a&gt;&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
@@ -93,9 +100,10 @@
 
 &lt;p&gt;At this point, the students attented 5 courses with hackaton session for the last five weeks, and we still have four more weeks to go!&lt;/p&gt;
 
-&lt;p&gt;Special invited guests will talk about careers in software engineering, system administration, network administration, open source software communities and tools.&lt;/p&gt;
+&lt;p&gt;Special invited guests will talk about careers in software engineering, system administration, network administration, open source software communities and tools. &lt;/p&gt;
 
-&lt;p&gt;Find out more about who our students are, what they’re doing, on &lt;a href=&quot;http://cdl.rosedu.org&quot;&gt;http://cdl.rosedu.org&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;Find out more about who our students are, what they’re doing, on &lt;a href=&quot;http://cdl.rosedu.org&quot;&gt;http://cdl.rosedu.org&lt;/a&gt;&lt;/p&gt;
+</content>
  </entry>
  
  
