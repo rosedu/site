@@ -28,7 +28,7 @@ The majority of our projects are related to the educational environment, but oth
 
 ### Events
 
-A gallery of images from events organized by ROSEdu can be found at : [media.rosedu.org](http://media.rosedu.org)
+A gallery of images from events organised by ROSEdu can be found at : [media.rosedu.org](http://media.rosedu.org)
 
 ### Blogs
 
@@ -36,11 +36,10 @@ An aggregated version of our blogs, can be found at: [planet.rosedu.org](http://
 
 ### Projects
 
-Our programming projects are organized on [github](https://github.com/rosedu) or at [projects.rosedu.org](http://projects.rosedu.org/projects) (also check out the old site, partially migrated at: [dev.rosedu.org](http://dev.rosedu.org)).
+Our programming projects are organised on [github](https://github.com/rosedu) or at [projects.rosedu.org](http://projects.rosedu.org/projects) (also check out the old site, partially migrated at: [dev.rosedu.org](http://dev.rosedu.org)).
 If you're interested about ROSEdu and have any questions don't hesitate to contact us using the contact option from the menu.
 
-<div id="joinus"></div>
-## Join Us
+### Join Us
 
 We welcome people that are fond of open source, education and technology to help us fulfill our mission. We encourage everyone to check out our activities and get involved.
 
@@ -52,7 +51,7 @@ There are plenty of discussions on events and projects where you can get involve
 
 ### Supporting Member of the ROSEdu Association
 
-If you want a formal recognition of your contributions to our activites and adherence to our mission and values we invite you to join the [ROSEdu Association](http://www.rosedu.org/legal/) as a supporting member.
+If you want a formal recognition of your contributions to our activities and adherence to our mission and values we invite you to join the [ROSEdu Association](http://www.rosedu.org/legal/) as a supporting member.
 
 In order to become a supporting member of the Association you must have proven your abilities in the community and have to:
 * Read the [Status of the Association](https://docs.google.com/document/d/1dNK9OBY0ilfq68GscWe9auYFkmJy5_w1N1qdciTw5b0/pub).
