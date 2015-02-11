@@ -9,7 +9,7 @@ layout: base
 Make a donation in ROSEdu\'s account: **RO98BTRL04501205R50291XX**, Banca Transilvania S.A.
 
 [Donate 2%](http://doilasuta.ro/) from your state tax, using
-[Form 230](https://drive.google.com/file/d/0By6_as_hLrdocE9tX3NmMjFvTTg/edit?usp=sharing) (for income) or [Form 200](https://drive.google.com/file/d/0By6_as_hLrdoNU5MbWk3OElTa0E/edit?usp=sharing) (for other types of income)
+[Form 230](https://drive.google.com/file/d/0B9z8burIEXerZDliT3NJQXNiMjg/view?usp=sharing) (for income) or [Form 200](https://drive.google.com/file/d/0B9z8burIEXerMjVMT3BZcThkTW8/view?usp=sharing) (for other types of income)
 which are already filled in with ROSEdu\'s data.
 
 The deadline is **25th of May 2015**.
