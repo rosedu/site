@@ -24,12 +24,12 @@ They have some of the best Python developers and software engineers around.
 Their knowledge has been put to use in ROSEdu projects.
 
 **Eau de Web has sponsored [World of USO](http://wouso.rosedu.org/), the
-[Community Development Lab](http://cdl.rosedu.org/) and 
+[Community Development Lab](http://cdl.rosedu.org/) and
 [Hack Day](http://hackday.rosedu.org/).**
 <br><br><br>
 
 ### [GitHub](http://www.github.com/)
-<img src="http://cdl.rosedu.org/2014/images/GitHub_Logo.png" style="float:left;padding:10px" width="100">
+<img src="../files/GitHub_Logo.png" style="float:left;padding:10px" width="100">
 
 <br>
 **GitHub has sponsored the [Community Development Lab](http://cdl.rosedu.org/)**
@@ -49,7 +49,7 @@ and [CS4Girls](http://cs4girls.rosedu.org/).**
 <br><br>
 
 ### [Intel](http://www.intel.com/)
-<img src="http://cdl.rosedu.org/2014/images/intSFT_rgb.png" style="float:left;padding:10px" width="100">
+<img src="../files/intel_logo.png" style="float:left;padding:10px" width="100">
 
 <br><br>
 Intel is actively supporting open source through the opening of the Intel Open
@@ -61,7 +61,7 @@ and education.
 <br><br><br>
 
 ### [Ixia](http://www.ixiacom.com/)
-<img src="http://cdl.rosedu.org/2014/images/Ixia_logo_2013.png" style="float:left;padding:10px" width="100">
+<img src="../files/ixia_logo_new_black.png" style="float:left;padding:10px" width="100">
 
 Ixia has had a continuous involved in the Faculty of Automatic Control and Computers since 2006. With Ixia focusing on Linux-based technologies and support open source projects and activities in the faculty, we are glad to have a healty partnership. Many members of the community are or have been actively involved in Ixia activities, as employees, interns or collaborators.
 
