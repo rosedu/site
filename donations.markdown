@@ -11,6 +11,7 @@ Banca Transilvania S.A. .
 
 You can also [donate 2%](http://doilasuta.ro/content/index.php/informatii-utile/contribuabili)
 from your state tax as a individual,  by filling one of the forms:
+
   - for the year **2015** use [form 230](https://drive.google.com/file/d/0B9z8burIEXerTXNleWxrZEFRMlk/view?usp=sharing) - the deadline is **25th of May 2016**.
   - for the year **2016** use [form 230](https://drive.google.com/file/d/0B9z8burIEXerd19ya0x2OTNxWGM/view?usp=sharing) - the deadline is **25th of May 2017**.
 
@@ -18,6 +19,7 @@ from your state tax as a individual,  by filling one of the forms:
 
 
 If you represent a legal entity you can [donate 20%](https://drive.google.com/file/d/0B9z8burIEXeraFBMc3dMa3R1anM/view?usp=sharing) by filling one of the forms:
+
   - for the year **2015** [form 200](https://drive.google.com/file/d/0B9z8burIEXerMjVMT3BZcThkTW8/view?usp=sharing) - the deadline is **25th of May 2016**.
   - for the year **2016** [form 200](https://drive.google.com/file/d/0B9z8burIEXerX2IxbDdWci1GcG8/view?usp=sharing) - the deadline is **31st of December 2016**.
 
