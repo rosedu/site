@@ -12,9 +12,9 @@ Founded in 2009, "Asociația ROSEdu" is a non-profit organization supporting the
 
 "Asociația ROSEdu" consists of full members and supporting members, led by the Board of Directors consisting of:
 
- * Marius Cotofana (President)
- * Maria Nita
- * Mihai Tiriplica
+ * Marius Coțofană (President)
+ * Maria Niță
+ * Mihai Tiriplică
 
 "Asociația ROSEdu" has been founded by:
 
@@ -50,5 +50,4 @@ Bank Address: 97 - 99 Calea Stirbei Voda, Bucharest, Romania, 010108 <br />
  * [Internal Regulation Policy](https://docs.google.com/document/d/1xeFUTF28Ncb2E1doH3bhH-Terl2Wn-ap-eI9EB0kR70/pub)
  * [Adhesion Form](https://docs.google.com/uc?export=download&id=0By6_as_hLrdobFBMRHF4WXBneDg) (for supporting member status)
  * [Adhesion Request Letter](https://docs.google.com/uc?export=download&id=0By6_as_hLrdob0FwRFVpQmNnckE) (for full member status)
- * [Form 200](https://docs.google.com/uc?export=download&id=0By6_as_hLrdoMXBMaVM3Y05nQjQ)
- * [Form 230](https://docs.google.com/uc?export=download&id=0By6_as_hLrdoYzJLN3B4TlJUNEE)
+ * [Donate]({{ site.basepath }}donations)
