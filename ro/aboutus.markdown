@@ -50,7 +50,8 @@ Există o mulțime de discuții legate de evenimente și proiecte la care poți 
 
 Dacă dorești o recunoaștere formală a contribuțiilor tale și a aderenței la misiunea și valorile noastre, te invitităm să te alături [Asociației ROSEdu](http://www.rosedu.org/asociatia/) ca membru susținător.
 
-Pentru a deveni membru susținător al Asociației ROSEdu trebuie să îți fi dovedit calitățile în comunitate și va trebui să:
+Pentru a deveni membru susținător al Asociației ROSEdu trebuie să îți fi dovedit calitățile în comunitate și va trebui să:  
+
 * Citești [Statutul Asociației](https://docs.google.com/document/d/1dNK9OBY0ilfq68GscWe9auYFkmJy5_w1N1qdciTw5b0/pub).
 * Citești [Regulamentul de ordine interioară](https://docs.google.com/document/d/1xeFUTF28Ncb2E1doH3bhH-Terl2Wn-ap-eI9EB0kR70/pub).
 * Completezi [Formularul de adeziune](https://docs.google.com/uc?export=download&id=0By6_as_hLrdobFBMRHF4WXBneDg).
@@ -61,7 +62,8 @@ Pentru a deveni membru susținător al Asociației ROSEdu trebuie să îți fi d
 
 Dacă îți propui să te implici în coordonarea Asociației sau să ai un cuvânt de spus legat de modul de desfășurare a lucrurilor sau să devii un susținător ferm al misiunii ROSEdu, atunci calea de urmat este adeziunea ca membru asociat.
 
-Pentru a deveni membru asociat trebuie să fii pregătit să investești timp în aspecte finaciare, juridice și birocratice ale Asociației și să:
+Pentru a deveni membru asociat trebuie să fii pregătit să investești timp în aspecte finaciare, juridice și birocratice ale Asociației și să:  
+
 * Citești [Statutul Asociației](https://docs.google.com/document/d/1dNK9OBY0ilfq68GscWe9auYFkmJy5_w1N1qdciTw5b0/pub).
 * Citești [Regulamentul de ordine interioară](https://docs.google.com/document/d/1xeFUTF28Ncb2E1doH3bhH-Terl2Wn-ap-eI9EB0kR70/pub).
 * Completezi [Cererea de adeziune](https://docs.google.com/uc?export=download&id=0By6_as_hLrdob0FwRFVpQmNnckE).
