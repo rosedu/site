@@ -6,20 +6,27 @@ layout: base
 
 ## Donations
 
-Make a donation in ROSEdu\'s account: **RO98BTRL04501205R50291XX**, Banca Transilvania S.A.
+You can make a donation anytime in ROSEdu\'s account: **RO98BTRL04501205R50291XX**,
+Banca Transilvania S.A. .
 
-[Donate 2%](http://doilasuta.ro/) from your state tax, using
-[Form 230](https://drive.google.com/file/d/0B9z8burIEXerZDliT3NJQXNiMjg/view?usp=sharing) (for income) or [Form 200](https://drive.google.com/file/d/0B9z8burIEXerMjVMT3BZcThkTW8/view?usp=sharing) (for other types of income)
-which are already filled in with ROSEdu\'s data.
+You can also [donate 2%](http://doilasuta.ro/content/index.php/informatii-utile/contribuabili)
+from your state tax as a individual,  by filling one of the forms:
+  - for the year **2015** use [form 230](https://drive.google.com/file/d/0B9z8burIEXerTXNleWxrZEFRMlk/view?usp=sharing) - the deadline is **25th of May 2016**.
+  - for the year **2016** use [form 230](https://drive.google.com/file/d/0B9z8burIEXerd19ya0x2OTNxWGM/view?usp=sharing) - the deadline is **25th of May 2017**.
 
-The deadline is **25th of May 2015**.
 
-The form has to be sent to the [ANAF](http://www.anaf.ro) agency from your
-jurisdiction. If you want us to sent the form for you, please [contact us](http://www.rosedu.org/contact/).
+
+
+If you represent a legal entity you can [donate 20%](https://drive.google.com/file/d/0B9z8burIEXeraFBMc3dMa3R1anM/view?usp=sharing) by filling one of the forms:
+  - for the year **2015** [form 200](https://drive.google.com/file/d/0B9z8burIEXerMjVMT3BZcThkTW8/view?usp=sharing) - the deadline is **25th of May 2016**.
+  - for the year **2016** [form 200](https://drive.google.com/file/d/0B9z8burIEXerX2IxbDdWci1GcG8/view?usp=sharing) - the deadline is **31st of December 2016**.
+
+The form has to be sent to the [ANAF](http://www.anaf.ro) agency from your jurisdiction,
+ more info is found after each form.
 
 ### Why?
 
-In order to continually develop our projects, ROSEdu needs an annual buget
+In order to continually develop our projects, ROSEdu needs an annual budget
 to cover the costs of each program. By making a donation, you can help us
 in our mission of bringing open-source to Romanian students.
 
