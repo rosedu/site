@@ -18,9 +18,9 @@ from your state tax as a individual,  by filling one of the forms:
 
 
 
-If you represent a legal entity you can [donate 20%](https://drive.google.com/file/d/0B9z8burIEXeraFBMc3dMa3R1anM/view?usp=sharing) by filling one of the forms:
+If you represent a legal entity you can [donate 20%](http://www.imparte.ro/Fundatii/Articole-fundatii-asociatii/Redirectionarea-a-20-din-impozitul-pe-profit-al-companiilor-catre-ONG-uri-612.html) by filling one of the forms:
 
-  - for the year **2015** [form 200](https://drive.google.com/file/d/0B9z8burIEXerMjVMT3BZcThkTW8/view?usp=sharing) - the deadline is **25th of May 2016**.
+  - for the year **2015** [form 200](https://drive.google.com/file/d/0B9z8burIEXerR0FxdWN2NGtzbWs/view?usp=sharing) - the deadline is **25th of May 2016**.
   - for the year **2016** [form 200](https://drive.google.com/file/d/0B9z8burIEXerX2IxbDdWci1GcG8/view?usp=sharing) - the deadline is **31st of December 2016**.
 
 The form has to be sent to the [ANAF](http://www.anaf.ro) agency from your jurisdiction,

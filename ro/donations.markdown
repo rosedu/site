@@ -16,7 +16,7 @@ Poți [dona 2%](http://doilasuta.ro/content/index.php/informatii-utile/contribua
 
 Dacă reprezinți o persoană juridică poți să [donezi 20%](http://www.imparte.ro/Fundatii/Articole-fundatii-asociatii/Redirectionarea-a-20-din-impozitul-pe-profit-al-companiilor-catre-ONG-uri-612.html), completând unul din formularele:
 
-  - pentru anul **2015** [formularul 200](https://drive.google.com/file/d/0B9z8burIEXeraFBMc3dMa3R1anM/view?usp=sharing) - data limită este **25 Mai 2016**.
+  - pentru anul **2015** [formularul 200](https://drive.google.com/file/d/0B9z8burIEXerR0FxdWN2NGtzbWs/view?usp=sharing) - data limită este **25 Mai 2016**.
   - pentru anul **2016** [formularul 200](https://drive.google.com/file/d/0B9z8burIEXerX2IxbDdWci1GcG8/view?usp=sharing) - data limită este **31 Decembrie 2016**.
 
 
