@@ -4,7 +4,7 @@
  <title>Știri ROSEdu</title>
  <link href="http://www.rosedu.org/rss.xml" rel="self"/>
  <link href="http://www.rosedu.org/"/>
- <updated>2015-02-15T16:02:15+02:00</updated>
+ <updated>2016-01-24T21:20:14+02:00</updated>
  <id>http://www.rosedu.org/ro</id>
  <author>
    <name>ROSEdu</name>
@@ -85,7 +85,7 @@
  
  <entry>
    <title>Geek Power - Hackathon Days @ Poli</title>
-   <link href="http://www.rosedu.org/ro/2011/04/10/geek-power--/"/>
+   <link href="http://www.rosedu.org/ro/2011/04/10/geek-power/"/>
    <updated>2011-04-10T00:00:00+03:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;Îți place să scrii cod? Îți place să lucrezi împreună cu alți programatori? Cuvintele commit, debugging, IDE, malloc, thread-uri fac parte din vocabularul tău?&lt;/p&gt;
@@ -133,7 +133,7 @@
  
  <entry>
    <title>Lansare nou site</title>
-   <link href="http://www.rosedu.org/ro/2010/09/26/lansare-nou-/"/>
+   <link href="http://www.rosedu.org/ro/2010/09/26/lansare-nou/"/>
    <updated>2010-09-26T00:00:00+03:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;Am lansat noul site ROSEdu! Design mulțumită lui Cătălin și Dorian, webmaster Dragoș, fine-tunning Alex, conținut Mihai și Vlad. &amp;Icirc;n scurt timp vom publica și versiunea în Engleză, precum și paginile pentru proiecte și membri.&lt;/p&gt;
@@ -188,7 +188,7 @@
  
  <entry>
    <title>CDL 2010 on it&#039;s way</title>
-   <link href="http://www.rosedu.org/ro/2010/01/11/cdl-2010-on-/"/>
+   <link href="http://www.rosedu.org/ro/2010/01/11/cdl-2010-on/"/>
    <updated>2010-01-11T00:00:00+02:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;Ne pregătim pentru a doua ediție a Cursului de Dezvoltare liberă.&lt;br /&gt;
@@ -246,9 +246,9 @@ ROSEdu a fost reprezentat la acest eveniment de Răzvan Deaconescu, care a ținu
    <content type="html">&lt;p&gt;Comunitatea Mozilla România împreună cu Mozilla-Europe a ţinut luna aceasta o serie de prezentări despre Open Software în liceele şi facultăţile din România. Printre acestea, s-a numărat şi o prezentare la Universitatea Politehnică Bucureşti, organizată împreună cu ROSEdu şi Ceata. Prezentarea din UPB a avut loc joi, 4 Decembrie în EG301 şi a avut ca subecte de discuţie ce este software-ul deschis, contribuţia Mozilla la FLOSS şi cel mai important nevoia de a păstra în software trasăturile culturale ale unei ţări şi cum software-ul open ajută acest lucru. A fost o ocazie bună pentru cei de la Mozilla pentru a interacţiona cu fanii open source şi de asemenea a deschis calea unor colaborări ulterioare cu alte organizaţii ce susţin aceleasi idealuri. Follow-ups şi poze: 
 &lt;/p&gt;
 
-&lt;p&gt;[1] &lt;a href=&quot;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&quot; title=&quot;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&quot;&gt;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&quot;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&quot; title=&quot;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&quot;&gt;http://blogs.mozilla-europe.org/?post/2008/12/10/Mozilla-events-in-Romania&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;[2] &lt;a href=&quot;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinner-in-Bucharest&quot; title=&quot;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinner-in-Bucharest&quot;&gt;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinn…&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&quot;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinner-in-Bucharest&quot; title=&quot;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinner-in-Bucharest&quot;&gt;http://blogs.mozilla-europe.org/?post/2008/12/05/Romanian-community-dinn…&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;[3] &lt;a href=&quot;http://flickr.com/photos/toniher/sets/72157610833305715/&quot; title=&quot;http://flickr.com/photos/toniher/sets/72157610833305715/&quot;&gt;http://flickr.com/photos/toniher/sets/72157610833305715/&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -256,7 +256,7 @@ ROSEdu a fost reprezentat la acest eveniment de Răzvan Deaconescu, care a ținu
  
  <entry>
    <title>Ubuntu 8.10 Release... Balls</title>
-   <link href="http://www.rosedu.org/ro/2008/10/28/ubuntu-8.10-/"/>
+   <link href="http://www.rosedu.org/ro/2008/10/28/ubuntu-8.10/"/>
    <updated>2008-10-28T00:00:00+02:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;Pe 30 Octombrie se lansează versiunea 8.10 a distribuției de Linux Ubuntu.&lt;/p&gt;
@@ -283,7 +283,7 @@ București la bowling (mai multe detalii rămân încă de stabilit).&lt;/p&gt;
  
  <entry>
    <title>Presentarea Rosedu la Rosdev</title>
-   <link href="http://www.rosedu.org/ro/2008/04/13/presentarea-/"/>
+   <link href="http://www.rosedu.org/ro/2008/04/13/presentarea/"/>
    <updated>2008-04-13T00:00:00+03:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Razvan Deaconescu&lt;/strong&gt; in maniera sa clasica - energic, subtil, geek-fashioned (lovely t-shirt, got to say it).. ce-mai, ne-a facut mandri. Fara â  :) .. cine a fost acolo știe cu ș.&lt;/p&gt;
