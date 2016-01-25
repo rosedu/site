@@ -39,7 +39,7 @@ layout: basero
         </div>
 
         <div class="views-field-field-imagine-proiect-fid">
-                <h3><img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_webdev.png" /></h3>
+                <h3><img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}resources/images/webdev_logo.png" /></h3>
         </div>
     </div>
 
@@ -123,8 +123,8 @@ layout: basero
         </div>
     </div>
 
-    
-    
+
+
     <div class="field">
         <div class="field-title">
                 <h3><a href="http://android.rosedu.org/wiki/">D'Android</a></h3>
@@ -132,8 +132,8 @@ layout: basero
 
         <div class="field-teaser">
                 <div class="field-content">
-                <p>Cursul D'Android încurajează dezvoltarea de aplicații pentru 
-                dispozitive mobile, abordand punctele cheie ale platformei 
+                <p>Cursul D'Android încurajează dezvoltarea de aplicații pentru
+                dispozitive mobile, abordand punctele cheie ale platformei
                 open source Android.</p>
                 </div>
         </div>
@@ -142,9 +142,9 @@ layout: basero
 		<h3><img  class="imagefield imagefield-field_imagine_proiect" width="305" height="153" alt="" src="{{site.basepath}}activities/images/activity_logo_android.png" /></h3>
         </div>
     </div>
-    
-    
-    
+
+
+
     <div class="field">
         <div class="field-title">
                 <h3><a href="http://hackday.rosedu.org" target="_blank">Hack Day</a></h3>
