@@ -1,0 +1,14 @@
+--- 
+layout: basero
+date: 2016-03-08
+author: vilie
+title: CDL 2016
+category: en
+---
+
+A fresh edition of the Open Source Community and Development Lab (CDL) will 
+start soon. Are you interested in making contribution to open source projects? 
+Do you want to learn Linux, Git, Python and Javascript? Join us.
+
+Please register [here](http://goo.gl/forms/HBcPJOJ3dg). The deadline is March 
+13.
