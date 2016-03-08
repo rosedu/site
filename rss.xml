@@ -4,13 +4,27 @@
  <title>ROSEdu News</title>
  <link href="http://www.rosedu.org/rss.xml" rel="self"/>
  <link href="http://www.rosedu.org/"/>
- <updated>2016-02-23T12:16:47+02:00</updated>
+ <updated>2016-03-08T13:22:12+02:00</updated>
  <id>http://www.rosedu.org</id>
  <author>
    <name>ROSEdu</name>
    <email>contact@rosedu.org</email>
  </author>
 
+ 
+ <entry>
+   <title>CDL 2016</title>
+   <link href="http://www.rosedu.org/en/2016/03/08/cdl/"/>
+   <updated>2016-03-08T00:00:00+02:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;A fresh edition of the Open Source Community and Development Lab (CDL) will 
+start soon. Are you interested in making contribution to open source projects? 
+Do you want to learn Linux, Git, Python and Javascript? Join us.&lt;/p&gt;
+
+&lt;p&gt;Please register &lt;a href=&quot;http://goo.gl/forms/HBcPJOJ3dg&quot;&gt;here&lt;/a&gt;. The deadline is March 
+13.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Rosedu Challenge v2</title>
