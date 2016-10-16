@@ -28,13 +28,6 @@ Their knowledge has been put to use in ROSEdu projects.
 [Hack Day](http://hackday.rosedu.org/).**
 <br><br><br>
 
-### [GitHub](http://www.github.com/)
-<img src="../files/GitHub_Logo.png" style="float:left;padding:10px" width="100">
-
-<br>
-**GitHub has sponsored the [Community Development Lab](http://cdl.rosedu.org/)**
-<br><br><br>
-
 ### [Google](http://www.google.com/)
 <img src="http://www.seomofo.com/downloads/new-google-logo-knockoff.png" style="float:left;padding:10px" width="100">
 
@@ -67,8 +60,16 @@ Ixia has had a continuous involved in the Faculty of Automatic Control and Compu
 
 **Ixia has supported ROSEdu trips and team buildings.**
 
+<br><br>
+
+### [GitHub](http://www.github.com/)
+<img src="../files/GitHub_Logo.png" style="float:left;padding:10px" width="100">
+
 <br>
-<br>
+**GitHub has sponsored the [Community Development Lab](http://cdl.rosedu.org/)**
+<br><br><br>
+
+and many others along the way. We are thankful to all of them.
 
 ## Partners
 
