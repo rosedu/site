@@ -14,7 +14,7 @@ fulfill our mission. We encourage everyone to check out our activities and get i
 
 Volunteering in Romania is [recognized by law](http://www.mapn.ro/camarazii/implicare/legea-78-2014-voluntariat.pdf),
 you can receive from us a document attesting your activity, which you can include
-in your Resume and/or to receive university benefits, if applicable. 
+in your Resume and/or receive university benefits, if applicable. 
 
 Useful links:
 * [http://acs.pub.ro/noutati/activitate-de-voluntariat/](http://acs.pub.ro/noutati/activitate-de-voluntariat/)
