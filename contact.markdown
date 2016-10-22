@@ -9,7 +9,7 @@ layout: base
 You can find us online using:
 
  * general or event-related <a href="http://lists.rosedu.org/">mailing-lists</a>
- * general discussions on <a href="https://rosedu.slack.com">Slack</a>
+ * general discussions on <script async defer src="https://rosedu.herokuapp.com/slackin.js"></script>
  * an IRC channel: <a href="http://webchat.freenode.net/?channels=rosedu">#rosedu</a> on <a href="http://freenode.net/">freenode</a>
  * or, you can look at the <a href="http://hub.rosedu.org/events">projects page</a>
  * and also don't forget to visit us on <a href="https://github.com/rosedu">GitHub</a>

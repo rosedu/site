@@ -35,7 +35,7 @@ extra_head: False
 
   <div class="content">
 	<p>You can find us at our faculty, on the <a href="http://lists.rosedu.org/listinfo/rosedu-general">rosedu-general mailing lists</a>
-  or on <a href="https://rosedu.slack.com">Slack<a/> and the #rosedu IRC channel on FreeNode. More details on the
+  or on <a href="https://rosedu.herokuapp.com/">Slack</a> and the #rosedu IRC channel on FreeNode. More details on the
   <a href="{{site.basepath}}contact">contact page</a>.</p>
 	<p>You are welcome to our <a href="http://facebook.com/rosedu.org">Facebook</a>, <a href="http://twitter.com/rosedu_org">Twitter</a> or <a href="http://google.com/+roseduorg">Google+</a> pages.</p>
 

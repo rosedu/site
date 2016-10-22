@@ -23,11 +23,9 @@ Useful links:
 
 The first step is to be a part of the community. You will have the opportunity to meet 
 the people behind ROSEdu, learn more about our projects and get involved in organizing
-some of them.
-
-If you want to be part of the ROSEdu Community all you have to do is to subscribe to
-the [Community mailing list](http://lists.rosedu.org/listinfo/rosedu-general) and/or
-join us on [Slack](https://rosedu.slack.com).
+some of them. If you want to be part of the ROSEdu Community all you have to do is to subscribe to
+the [Community mailing list](http://lists.rosedu.org/listinfo/rosedu-general) and join us on  
+<script async defer src="https://rosedu.herokuapp.com/slackin.js"></script>
 
 There are plenty of discussions on events and projects where you can get involved. 
 We send *Call for help* emails often, so you will find out when you can get to action.
