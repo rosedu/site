@@ -32,7 +32,7 @@ O galerie cu imagini de la evenimentele ROSEdu se găsește la: [media.rosedu.or
 
 ### Proiecte
 
-Proiectele noastre de programare, sunt organizate pe [github](https://github.com/rosedu) sau la [projects.rosedu.org](http://projects.rosedu.org) (vezi și site-ul vechi, parțial migrat la: [dev.rosedu.org](http://dev.rosedu.org)).
+Proiectele noastre de programare, sunt organizate pe [github](https://github.com/rosedu) sau la [projects.rosedu.org](http://hub.rosedu.org/activities).
 
 Dacă aveţi vreo curiozitate despre ROSEdu, nu ezitaţi să ne contactaţi.
 
