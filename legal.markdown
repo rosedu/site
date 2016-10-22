@@ -23,14 +23,14 @@ Founded in 2009, "Asociația ROSEdu" is a non-profit organization supporting the
  * George Milescu
  * Mircea Bardac
 
-If you would like to be part of the organization, check the [Join Us][aboutus] section.
+If you would like to be part of the organization, check the [Join Us][aboutus].
 
 See all members of the organization [here][members].
 
 We maintain a [Q&A page][qa] (in Romanian) with legal and accounting information about running a non-profit organization.
 
 [qa]: http://rosedu.github.com/legal-qa/qa.html
-[aboutus]: {{site.basepath}}aboutus#joinus
+[aboutus]: {{site.basepath}}joinus
 [members]: https://docs.google.com/spreadsheet/pub?key=0Ai6_as_hLrdodHp5dGczTlNlLUtHNUVMT3NJMFJBMmc&output=html
 
 ### Legal
