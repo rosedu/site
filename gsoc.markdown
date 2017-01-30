@@ -67,3 +67,8 @@ Contacts:
  * **Marius Cotofana** [marius.coto at gmail dot com]
 
    * 2013 - MacPorts [proposal+roadmap](https://trac.macports.org/wiki/SummerOfCode2013)
+   
+ * **Alexandru Razvan Caciulescu** [alexandru.razvan.c at gmail dot com]
+
+   * 2014 - CodeCombat
+   * 2015 - RIOT OS
