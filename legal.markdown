@@ -12,7 +12,7 @@ Founded in 2009, "Asociația ROSEdu" is a non-profit organization supporting the
 
 "Asociația ROSEdu" consists of full members and supporting members, led by the Board of Directors consisting of:
 
- * Marius Coțofană (President)
+ * Victor Ciurel (President)
  * Maria Niță
  * Mihai Tiriplică
 

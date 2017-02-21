@@ -72,3 +72,7 @@ Contacts:
 
    * 2014 - CodeCombat
    * 2015 - RIOT OS
+
+ * **George-Cristian Muraru** [murarugeorgec at gmail dot com]
+
+   * 2015 - USBBlocking [proposal](http://swarm.cs.pub.ro/~gmuraru/GNOMEProposal.pdf)
