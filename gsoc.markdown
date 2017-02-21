@@ -67,3 +67,7 @@ Contacts:
  * **Marius Cotofana** [marius.coto at gmail dot com]
 
    * 2013 - MacPorts [proposal+roadmap](https://trac.macports.org/wiki/SummerOfCode2013)
+
+ * **George-Cristian Muraru** [murarugeorgec at gmail dot com]
+
+   * 2015 - USBBlocking [proposal](http://swarm.cs.pub.ro/~gmuraru/GNOMEProposal.pdf)
