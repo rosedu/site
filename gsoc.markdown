@@ -76,3 +76,7 @@ Contacts:
  * **George-Cristian Muraru** [murarugeorgec at gmail dot com]
 
    * 2015 - USBBlocking [proposal](http://swarm.cs.pub.ro/~gmuraru/GNOMEProposal.pdf)
+
+ * **Gabriel-Cristian Ivașcu** [ivascu.gabriel59 at gmail dot com]
+
+   * 2016 - GNOME Web: Bookmarks Sync - [proposal](https://docs.google.com/document/d/1Vr78Lmsdv8267zWEc-BYQveKu1F8vAqkz1xI1tZlCL8/edit)
