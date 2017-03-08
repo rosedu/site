@@ -45,7 +45,7 @@ abilities in the community and have to:
 
 * Read the [Status of the Association](https://docs.google.com/document/d/1dNK9OBY0ilfq68GscWe9auYFkmJy5_w1N1qdciTw5b0/pub).
 * Read the [Internal Regulation Policy](https://docs.google.com/document/d/1xeFUTF28Ncb2E1doH3bhH-Terl2Wn-ap-eI9EB0kR70/pub).
-* Fill in the [Adhesion Form](https://docs.google.com/uc?export=download&id=0By6_as_hLrdobFBMRHF4WXBneDg).
+* Fill in the [Adhesion Form](https://drive.google.com/uc?export=download&id=0B7DBwAvBQqI2aGVOWkQ0UnpQZ2M).
 * Get three references from three existing members of the Association.
 * Contact the Board of Directors at [consiliu@rosedu.org](mailto:consiliu@rosedu.org?subject=%5BAdeziune%20membru%20sustinator%5D%20).
 
@@ -60,7 +60,8 @@ judicial and bureaucratic aspects of the Association and have to:
 
 * Read the [Status of the Association](https://docs.google.com/document/d/1dNK9OBY0ilfq68GscWe9auYFkmJy5_w1N1qdciTw5b0/pub).
 * Read the [Internal Regulation Policy](https://docs.google.com/document/d/1xeFUTF28Ncb2E1doH3bhH-Terl2Wn-ap-eI9EB0kR70/pub).
-* Fill in the [Adhesion Request Letter](https://docs.google.com/uc?export=download&id=0By6_as_hLrdob0FwRFVpQmNnckE).
+* Fill in the [Adhesion Form](https://drive.google.com/uc?export=download&id=0B7DBwAvBQqI2bDVCSG1paTc5SUk).
+* Fill in the [Adhesion Request Letter](https://drive.google.com/uc?export=download&id=0B7DBwAvBQqI2bGlheHQ5ZzNNMVE).
 * Contact the Board of Directors at [consiliu@rosedu.org](mailto:consiliu@rosedu.org?subject=%5BAdeziune%20membru%20asociat%5D%20).
 * Receive the approval of the General Assembly of the Association.
 
