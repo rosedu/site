@@ -13,8 +13,8 @@ Founded in 2009, "Asociația ROSEdu" is a non-profit organization supporting the
 "Asociația ROSEdu" consists of full members and supporting members, led by the Board of Directors consisting of:
 
  * Victor Ciurel (President)
- * Maria Niță
- * Mihai Tiriplică
+ * Sergiu Weisz
+ * Teodor Ștefu
 
 "Asociația ROSEdu" has been founded by:
 
