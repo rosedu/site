@@ -4,7 +4,7 @@
  <title>ROSEdu News</title>
  <link href="http://www.rosedu.org/rss.xml" rel="self"/>
  <link href="http://www.rosedu.org/"/>
- <updated>2017-03-21T20:27:58+02:00</updated>
+ <updated>2017-03-24T10:00:22+00:00</updated>
  <id>http://www.rosedu.org</id>
  <author>
    <name>ROSEdu</name>
@@ -13,9 +13,22 @@
 
  
  <entry>
+   <title>Three Cool Things about D</title>
+   <link href="http://www.rosedu.org/en/2017/03/24/dlang-andrei-alex/"/>
+   <updated>2017-03-24T00:00:00+00:00</updated>
+   <id></id>
+   <content type="html">&lt;p&gt;Friday, March 24th, PR001, from 17 to 19, Andrei Alexandrescu will hold a
+ presentation about the D programming language.&lt;/p&gt;
+
+&lt;p&gt;You will get a chance to get a signed copy of the “The D Programming Language”
+ book and a private session to “Ask Andrei Anything!”&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>CDL 2016</title>
    <link href="http://www.rosedu.org/en/2016/03/08/cdl/"/>
-   <updated>2016-03-08T00:00:00+02:00</updated>
+   <updated>2016-03-08T00:00:00+00:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;A fresh edition of the Open Source Community and Development Lab (CDL) will 
 start soon. Are you interested in making contribution to open source projects? 
@@ -29,13 +42,13 @@ Do you want to learn Linux, Git, Python and Javascript? Join us.&lt;/p&gt;
  <entry>
    <title>Rosedu Challenge v2</title>
    <link href="http://www.rosedu.org/en/2016/02/22/rosedu-challenge-v2/"/>
-   <updated>2016-02-22T00:00:00+02:00</updated>
+   <updated>2016-02-22T00:00:00+00:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;On Monday, February 22, a fresh edition of &lt;a href=&quot;http://challenge.
 rosedu.org/challenges/ROSEduChallengev2&quot;&gt;ROSEdu Challenge&lt;/a&gt; begins. You should expect a lot of 
 interesting projects, prizes, and even more hackathons.&lt;/p&gt;
 
-&lt;p&gt;The first hackathon will be held on February 27 in UPB. &lt;/p&gt;
+&lt;p&gt;The first hackathon will be held on February 27 in UPB.&lt;/p&gt;
 
 &lt;p&gt;If you want to participate (as a student or as a mentor) you can reach us via 
 email or &lt;a href=&quot;http://challenge.rosedu.org/challenges/ROSEduChallengev2&quot;&gt;facebook&lt;/a&gt;.&lt;/p&gt;
@@ -45,7 +58,7 @@ email or &lt;a href=&quot;http://challenge.rosedu.org/challenges/ROSEduChallenge
  <entry>
    <title>Firefox OS App Days</title>
    <link href="http://www.rosedu.org/en/2013/01/13/firefox-os-app-days/"/>
-   <updated>2013-01-13T00:00:00+02:00</updated>
+   <updated>2013-01-13T00:00:00+00:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;On Saturday, the 26th of January 2013, we invite you to &lt;a href=&quot;http://firefoxosappdaybucharest.eventbrite.com/#&quot;&gt;Firefox OS App
 Days&lt;/a&gt;. Firefox OS App Days is an event dedicated to web apps; we welcome you to join Mozilla in launching its new operating system &lt;a href=&quot;http://firefoxosappdaybucharest.eventbrite.com/#&quot;&gt;Firefox OS&lt;/a&gt;.&lt;/p&gt;
@@ -61,7 +74,7 @@ Days&lt;/a&gt;. Firefox OS App Days is an event dedicated to web apps; we welcom
  <entry>
    <title>RSoC 2012 Launch</title>
    <link href="http://www.rosedu.org/en/2012/04/23/rsoc-launch/"/>
-   <updated>2012-04-23T00:00:00+03:00</updated>
+   <updated>2012-04-23T00:00:00+00:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;The 2012 ROSEdu Summer of Code has started!&lt;/p&gt;
 
@@ -83,7 +96,7 @@ Days&lt;/a&gt;. Firefox OS App Days is an event dedicated to web apps; we welcom
  <entry>
    <title>Geek Power</title>
    <link href="http://www.rosedu.org/en/2011/04/10/geek-power/"/>
-   <updated>2011-04-10T00:00:00+03:00</updated>
+   <updated>2011-04-10T00:00:00+00:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;Do you like writing code? Do you like working together with other programmers? Are words like commit, debugging, IDE, malloc, threads part of your vocabulary?&lt;/p&gt;
 
@@ -107,7 +120,7 @@ Days&lt;/a&gt;. Firefox OS App Days is an event dedicated to web apps; we welcom
  <entry>
    <title>Hackathon</title>
    <link href="http://www.rosedu.org/en/2011/03/23/hackathon/"/>
-   <updated>2011-03-23T00:00:00+02:00</updated>
+   <updated>2011-03-23T00:00:00+00:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;This weekend (26.03.2011) we will hold a 12 hour Hackaton, starting Saturday at 6PM till Sunday morning (6AM).&lt;/p&gt;
 
@@ -124,13 +137,13 @@ Days&lt;/a&gt;. Firefox OS App Days is an event dedicated to web apps; we welcom
  <entry>
    <title>CDL v3.0</title>
    <link href="http://www.rosedu.org/en/2011/03/22/cdl-v3/"/>
-   <updated>2011-03-22T00:00:00+02:00</updated>
+   <updated>2011-03-22T00:00:00+00:00</updated>
    <id></id>
    <content type="html">&lt;p&gt;The 3rd edition of the Open Source Community and Development Lab (CDL) has started for several weeks! We are happy to have such enthusiast students and mentors working hard to make this the best edition of CDL so far!&lt;/p&gt;
 
 &lt;p&gt;At this point, the students attented 5 courses with hackaton session for the last five weeks, and we still have four more weeks to go!&lt;/p&gt;
 
-&lt;p&gt;Special invited guests will talk about careers in software engineering, system administration, network administration, open source software communities and tools. &lt;/p&gt;
+&lt;p&gt;Special invited guests will talk about careers in software engineering, system administration, network administration, open source software communities and tools.&lt;/p&gt;
 
 &lt;p&gt;Find out more about who our students are, what they’re doing, on &lt;a href=&quot;http://cdl.rosedu.org&quot;&gt;http://cdl.rosedu.org&lt;/a&gt;&lt;/p&gt;
 </content>
